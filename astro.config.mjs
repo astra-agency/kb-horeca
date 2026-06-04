@@ -2,7 +2,8 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'https://kb-horeca.pages.dev',
+  site: 'https://astra-agency.github.io',
+  base: '/kb-horeca',
   integrations: [
     starlight({
       title: 'HoReCa Knowledge Base',
