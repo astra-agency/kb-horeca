@@ -1,4 +1,4 @@
-# kb-horeca
+# база знаний про ИТ сервисы для HoReCa
 
 A knowledge base for the **HoReCa** (Hotels, Restaurants, and Cafés) industry, built with [Astro](https://astro.build/) and [Starlight](https://starlight.astro.build/).
 
