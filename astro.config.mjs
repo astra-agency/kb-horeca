@@ -37,6 +37,7 @@ export default defineConfig({
                 { label: 'Контур.Отель', slug: 'hotels/pms/kontur-hotel' },
                 { label: 'Saby Hotel', slug: 'hotels/pms/saby-hotel' },
                 { label: 'Logus HMS', slug: 'hotels/pms/logus-hms' },
+                { label: 'MaxiBooking', slug: 'hotels/pms/maxibooking' },
               ],
             },
             { label: 'Channel Manager', slug: 'hotels/channel-manager' },
@@ -48,6 +49,18 @@ export default defineConfig({
           label: 'Рестораны и кафе',
           items: [
             { label: 'Обзор', slug: 'restaurants' },
+            {
+              label: 'POS-системы',
+              items: [
+                { label: 'Обзор POS', slug: 'restaurants/pos' },
+                { label: 'iiko', slug: 'restaurants/pos/iiko' },
+                { label: 'r_keeper', slug: 'restaurants/pos/rkeeper' },
+                { label: 'Poster', slug: 'restaurants/pos/poster' },
+              ],
+            },
+            { label: 'Доставка и агрегаторы', slug: 'restaurants/delivery' },
+            { label: 'Программы лояльности', slug: 'restaurants/loyalty' },
+            { label: 'Резервация столиков', slug: 'restaurants/reservation' },
           ],
         },
         {
