@@ -6,27 +6,60 @@ export default defineConfig({
   base: '/kb-horeca',
   integrations: [
     starlight({
-      title: 'HoReCa Knowledge Base',
-      description: 'Knowledge base for Hotels, Restaurants and Cafes',
+      title: 'HoReCa KB',
+      description: 'База знаний по ИТ-сервисам для HoReCa',
       defaultLocale: 'root',
       locales: {
         root: {
-          label: 'English',
-          lang: 'en',
+          label: 'Русский',
+          lang: 'ru',
         },
       },
       social: [],
       sidebar: [
         {
-          label: 'Getting Started',
+          label: 'Главная',
           items: [
-            { label: 'Introduction', slug: 'index' },
-            { label: 'Quick Start', slug: 'guides/quick-start' },
+            { label: 'Каталог', slug: 'index' },
+          ],
+        },
+        {
+          label: 'Отели и гостиницы',
+          items: [
+            { label: 'Обзор', slug: 'hotels' },
+            { label: 'Сайт и онлайн-бронирование', slug: 'hotels/website-booking' },
+            {
+              label: 'PMS — системы управления',
+              items: [
+                { label: 'Обзор PMS', slug: 'hotels/pms' },
+                { label: 'TravelLine', slug: 'hotels/pms/travelline' },
+                { label: 'Bnovo', slug: 'hotels/pms/bnovo' },
+                { label: 'Контур.Отель', slug: 'hotels/pms/kontur-hotel' },
+                { label: 'Saby Hotel', slug: 'hotels/pms/saby-hotel' },
+                { label: 'Logus HMS', slug: 'hotels/pms/logus-hms' },
+              ],
+            },
+            { label: 'Channel Manager', slug: 'hotels/channel-manager' },
+            { label: 'Репутационный менеджмент', slug: 'hotels/reputation' },
+            { label: 'CRM и управление продажами', slug: 'hotels/crm' },
+          ],
+        },
+        {
+          label: 'Рестораны и кафе',
+          items: [
+            { label: 'Обзор', slug: 'restaurants' },
+          ],
+        },
+        {
+          label: 'Сервисы',
+          items: [
+            { label: 'Обзор', slug: 'services' },
           ],
         },
         {
           label: 'Operations',
           items: [
+            { label: 'Quick Start', slug: 'guides/quick-start' },
             { label: 'Front of House', slug: 'guides/front-of-house' },
             { label: 'Back of House', slug: 'guides/back-of-house' },
             { label: 'Inventory Management', slug: 'guides/inventory' },
