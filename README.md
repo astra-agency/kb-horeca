@@ -53,8 +53,8 @@ kb-horeca/
 ├── public/
 │   └── favicon.svg
 └── src/
+    ├── content.config.ts
     └── content/
-        ├── config.ts
         └── docs/
             ├── index.mdx           # Home page
             ├── guides/
