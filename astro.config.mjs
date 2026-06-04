@@ -38,6 +38,7 @@ export default defineConfig({
                 { label: 'Saby Hotel', slug: 'hotels/pms/saby-hotel' },
                 { label: 'Logus HMS', slug: 'hotels/pms/logus-hms' },
                 { label: 'MaxiBooking', slug: 'hotels/pms/maxibooking' },
+                { label: 'TravelLine vs Bnovo', slug: 'hotels/pms/travelline-vs-bnovo' },
               ],
             },
             { label: 'Channel Manager', slug: 'hotels/channel-manager' },
@@ -56,6 +57,7 @@ export default defineConfig({
                 { label: 'iiko', slug: 'restaurants/pos/iiko' },
                 { label: 'r_keeper', slug: 'restaurants/pos/rkeeper' },
                 { label: 'Poster', slug: 'restaurants/pos/poster' },
+                { label: 'iiko vs r_keeper', slug: 'restaurants/pos/iiko-vs-rkeeper' },
               ],
             },
             { label: 'Доставка и агрегаторы', slug: 'restaurants/delivery' },
@@ -67,6 +69,27 @@ export default defineConfig({
           label: 'Сервисы',
           items: [
             { label: 'Обзор', slug: 'services' },
+          ],
+        },
+        {
+          label: 'Регуляторика РФ',
+          items: [
+            { label: '54-ФЗ — онлайн-кассы', slug: 'regulations/54-fz' },
+            { label: 'ЕГАИС — учёт алкоголя', slug: 'regulations/egais' },
+            { label: 'Регистрация гостей в МВД', slug: 'regulations/fms-hotels' },
+          ],
+        },
+        {
+          label: 'Тренды',
+          items: [
+            { label: 'Рынок HoReCa IT 2025–2026', slug: 'trends/market-2026' },
+          ],
+        },
+        {
+          label: 'Гайды по выбору',
+          items: [
+            { label: 'Как выбрать POS-систему', slug: 'guides/how-to-choose-pos' },
+            { label: 'Как выбрать PMS для отеля', slug: 'guides/how-to-choose-pms' },
           ],
         },
         {
@@ -88,8 +111,9 @@ export default defineConfig({
           ],
         },
         {
-          label: 'Reference',
+          label: 'Справочник',
           items: [
+            { label: 'Карта интеграций', slug: 'reference/integrations' },
             { label: 'Glossary', slug: 'reference/glossary' },
             { label: 'Checklists', slug: 'reference/checklists' },
           ],
