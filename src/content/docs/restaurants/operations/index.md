@@ -9,9 +9,9 @@ description: Оборачиваемость столов, управление �
 
 | Тема | Уровень |
 |---|---|
-| [Оборачиваемость столов: как увеличить без ущерба](/kb-horeca/restaurants/operations/table-turnover/) | Операционный |
-| [Бронирование без систем автоматизации](/kb-horeca/restaurants/operations/reservations/) | Операционный |
-| [Банкеты и корпоративы: продажа и организация](/kb-horeca/restaurants/operations/banquets/) | Стратегический |
+| [Оборачиваемость столов: как увеличить без ущерба](/restaurants/operations/table-turnover/) | Операционный |
+| [Бронирование без систем автоматизации](/restaurants/operations/reservations/) | Операционный |
+| [Банкеты и корпоративы: продажа и организация](/restaurants/operations/banquets/) | Стратегический |
 
 ## Оборачиваемость по типам заведений
 

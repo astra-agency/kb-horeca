@@ -16,9 +16,9 @@ description: Обзор и сравнение кассовых систем ав
 
 | Система | Тип | Стоимость | Для кого |
 |---|---|---|---|
-| [iiko](/kb-horeca/restaurants/pos/iiko/) | Облако/On-prem | От 3 500 ₽/мес | Рестораны, сети, доставка |
-| [r_keeper](/kb-horeca/restaurants/pos/rkeeper/) | Облако/On-prem | От 750 ₽/мес | Любые заведения, 70 000+ клиентов |
-| [Poster](/kb-horeca/restaurants/pos/poster/) | Облако | От ~1 500 ₽/мес | Кофейни, небольшие кафе |
+| [iiko](/restaurants/pos/iiko/) | Облако/On-prem | От 3 500 ₽/мес | Рестораны, сети, доставка |
+| [r_keeper](/restaurants/pos/rkeeper/) | Облако/On-prem | От 750 ₽/мес | Любые заведения, 70 000+ клиентов |
+| [Poster](/restaurants/pos/poster/) | Облако | От ~1 500 ₽/мес | Кофейни, небольшие кафе |
 
 ## Ключевые критерии выбора
 

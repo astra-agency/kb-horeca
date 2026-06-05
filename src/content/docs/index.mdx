@@ -7,16 +7,52 @@ hero:
   tagline: ИТ-сервисы и автоматизация для отелей, ресторанов и кафе
   actions:
     - text: Отели и гостиницы
-      link: /kb-horeca/hotels/
+      link: /hotels/
       icon: right-arrow
       variant: primary
     - text: Рестораны и кафе
-      link: /kb-horeca/restaurants/
+      link: /restaurants/
       icon: open-book
+      variant: primary
 ---
 
-## Разделы
+import { CardGrid, Card, LinkCard } from '@astrojs/starlight/components';
 
-- [Отели и гостиницы](/kb-horeca/hotels/) — PMS, channel manager, онлайн-бронирование, репутация, CRM
-- [Рестораны и кафе](/kb-horeca/restaurants/) — автоматизация кухни, заказы, лояльность
-- [Сервисы](/kb-horeca/services/) — сравнение и обзор популярных решений
+## Отели
+
+<CardGrid>
+  <LinkCard title="Управление доходом" href="/hotels/revenue/" description="RevPAR, ADR, стратегии ценообразования, прямые продажи vs OTA" />
+  <LinkCard title="Персонал" href="/hotels/staff/" description="Скрипты службы приёма, найм, онбординг, удержание" />
+  <LinkCard title="Гостевой опыт" href="/hotels/guest-experience/" description="Гостевой цикл, работа с жалобами, mystery guest, отзывы" />
+  <LinkCard title="Операции" href="/hotels/operations/" description="Housekeeping, завтраки, корпоративные клиенты" />
+</CardGrid>
+
+<CardGrid>
+  <LinkCard title="PMS-системы" href="/hotels/pms/" description="TravelLine, Bnovo, Контур.Отель, SABY, Logus HMS, Maxibooking" />
+  <LinkCard title="Channel Manager" href="/hotels/channel-manager/" description="Управление каналами продаж и OTA" />
+  <LinkCard title="Онлайн-бронирование" href="/hotels/website-booking/" description="Модуль бронирования на сайте отеля" />
+  <LinkCard title="Репутация и CRM" href="/hotels/reputation/" description="Управление отзывами и программы лояльности" />
+</CardGrid>
+
+## Рестораны
+
+<CardGrid>
+  <LinkCard title="Меню и экономика" href="/restaurants/menu/" description="Инжиниринг меню, food cost, стоп-лист, сезонность" />
+  <LinkCard title="Персонал" href="/restaurants/staff/" description="Стандарты сервиса, мотивация, KPI" />
+  <LinkCard title="Операции" href="/restaurants/operations/" description="Оборачиваемость столов, резервации, банкеты" />
+  <LinkCard title="Гостевой опыт" href="/restaurants/guest-experience/" description="Постоянные гости, работа с жалобами, атмосфера" />
+</CardGrid>
+
+<CardGrid>
+  <LinkCard title="POS-системы" href="/restaurants/pos/" description="iiko, r_keeper, Poster — сравнение и обзоры" />
+  <LinkCard title="Доставка" href="/restaurants/delivery/" description="Агрегаторы, собственная доставка, интеграции" />
+  <LinkCard title="Лояльность" href="/restaurants/loyalty/" description="Программы лояльности для ресторанов" />
+  <LinkCard title="Резервация столиков" href="/restaurants/reservation/" description="Сервисы онлайн-бронирования столов" />
+</CardGrid>
+
+## Кейсы и сервисы
+
+<CardGrid>
+  <LinkCard title="Кейсы внедрений" href="/cases/" description="16 реальных сценариев: CRM, бронирование, лояльность, автоматизация, мобильные решения" />
+  <LinkCard title="Все сервисы" href="/services/" description="Сводные таблицы и матрица выбора IT-инструментов для HoReCa" />
+</CardGrid>

@@ -58,6 +58,6 @@ description: "Как перевести найм, адаптацию, отпус
 
 ## Связанные материалы
 
-- [Найм и адаптация персонала](/kb-horeca/hotels/staff/hiring-onboarding/)
-- [Удержание и мотивация](/kb-horeca/hotels/staff/retention-motivation/)
-- [Кейс: Автоматизация юридического отдела](/kb-horeca/cases/legal-automation/)
+- [Найм и адаптация персонала](/hotels/staff/hiring-onboarding/)
+- [Удержание и мотивация](/hotels/staff/retention-motivation/)
+- [Кейс: Автоматизация юридического отдела](/cases/legal-automation/)

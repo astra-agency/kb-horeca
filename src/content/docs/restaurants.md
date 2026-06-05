@@ -9,24 +9,24 @@ description: Автоматизация ресторанного бизнеса 
 
 ## Разделы базы знаний
 
-### [POS-системы](/kb-horeca/restaurants/pos/)
+### [POS-системы](/restaurants/pos/)
 
 Программное обеспечение для автоматизации кассы и зала. Ключевой инструмент любого заведения — без него невозможна работа с заказами, складом и отчётностью.
 
 **Системы в базе:**
-- [iiko](/kb-horeca/restaurants/pos/iiko/) — лидер российского рынка, полная экосистема
-- [r_keeper](/kb-horeca/restaurants/pos/rkeeper/) — старейшая российская POS, мощный кассовый модуль
-- [Poster](/kb-horeca/restaurants/pos/poster/) — облачная POS для небольших заведений
+- [iiko](/restaurants/pos/iiko/) — лидер российского рынка, полная экосистема
+- [r_keeper](/restaurants/pos/rkeeper/) — старейшая российская POS, мощный кассовый модуль
+- [Poster](/restaurants/pos/poster/) — облачная POS для небольших заведений
 
-### [Доставка и агрегаторы](/kb-horeca/restaurants/delivery/)
+### [Доставка и агрегаторы](/restaurants/delivery/)
 
 Подключение к Яндекс Еде, Delivery Club/SberFood, настройка собственной доставки и интеграции с POS.
 
-### [Программы лояльности](/kb-horeca/restaurants/loyalty/)
+### [Программы лояльности](/restaurants/loyalty/)
 
 Бонусные программы, кешбэк, абонементы. Инструменты: Plazius, Mindbox, встроенные модули iiko и Poster.
 
-### [Резервация столиков](/kb-horeca/restaurants/reservation/)
+### [Резервация столиков](/restaurants/reservation/)
 
 Сервисы онлайн-бронирования: виджеты на сайт и агрегаторы (Tomesto, YClients, Яндекс Рестораны).
 

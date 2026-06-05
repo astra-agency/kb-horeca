@@ -72,5 +72,5 @@ description: Чеклист критериев выбора Property Management 
 
 ## Ресурсы
 
-- [Сравнение TravelLine vs Bnovo](/kb-horeca/hotels/pms/travelline-vs-bnovo/)
-- [Обзор PMS-систем](/kb-horeca/hotels/pms/)
+- [Сравнение TravelLine vs Bnovo](/hotels/pms/travelline-vs-bnovo/)
+- [Обзор PMS-систем](/hotels/pms/)

@@ -139,14 +139,14 @@ description: Сравнительные таблицы ИТ-сервисов д�
 ## Категории сервисов
 
 ### Для отелей
-- [Обзор PMS-систем](/kb-horeca/hotels/pms/) — сравнение TravelLine, Bnovo, Контур.Отель, Saby, Logus, MaxiBooking
-- [Channel Manager](/kb-horeca/hotels/channel-manager/) — подключение к OTA
-- [Репутационный менеджмент](/kb-horeca/hotels/reputation/) — мониторинг отзывов
-- [CRM и продажи](/kb-horeca/hotels/crm/) — Bitrix24, AmoCRM, TravelLine CRM
-- [Сайт и бронирование](/kb-horeca/hotels/website-booking/) — сайт + модуль бронирования
+- [Обзор PMS-систем](/hotels/pms/) — сравнение TravelLine, Bnovo, Контур.Отель, Saby, Logus, MaxiBooking
+- [Channel Manager](/hotels/channel-manager/) — подключение к OTA
+- [Репутационный менеджмент](/hotels/reputation/) — мониторинг отзывов
+- [CRM и продажи](/hotels/crm/) — Bitrix24, AmoCRM, TravelLine CRM
+- [Сайт и бронирование](/hotels/website-booking/) — сайт + модуль бронирования
 
 ### Для ресторанов
-- [Обзор POS-систем](/kb-horeca/restaurants/pos/) — iiko, r_keeper, Poster
-- [Доставка и агрегаторы](/kb-horeca/restaurants/delivery/) — Яндекс.Еда, Delivery Club
-- [Программы лояльности](/kb-horeca/restaurants/loyalty/) — iiko Card, Plazius, Mindbox
-- [Резервация столиков](/kb-horeca/restaurants/reservation/) — Restoplace, ТоМесто
+- [Обзор POS-систем](/restaurants/pos/) — iiko, r_keeper, Poster
+- [Доставка и агрегаторы](/restaurants/delivery/) — Яндекс.Еда, Delivery Club
+- [Программы лояльности](/restaurants/loyalty/) — iiko Card, Plazius, Mindbox
+- [Резервация столиков](/restaurants/reservation/) — Restoplace, ТоМесто

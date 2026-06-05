@@ -11,7 +11,7 @@ PMS (Property Management System, или АСУ — автоматизирова�
 
 ## Сравнение систем
 
-| Параметр | [TravelLine](/kb-horeca/hotels/pms/travelline/) | [Bnovo](/kb-horeca/hotels/pms/bnovo/) | [Контур.Отель](/kb-horeca/hotels/pms/kontur-hotel/) | [Saby Hotel](/kb-horeca/hotels/pms/saby-hotel/) | [Logus HMS](/kb-horeca/hotels/pms/logus-hms/) | [MaxiBooking](/kb-horeca/hotels/pms/maxibooking/) |
+| Параметр | [TravelLine](/hotels/pms/travelline/) | [Bnovo](/hotels/pms/bnovo/) | [Контур.Отель](/hotels/pms/kontur-hotel/) | [Saby Hotel](/hotels/pms/saby-hotel/) | [Logus HMS](/hotels/pms/logus-hms/) | [MaxiBooking](/hotels/pms/maxibooking/) |
 |----------|-----------|-------|--------------|-----------|-----------|------------|
 | Тип | Облако | Облако | Облако | Облако | On-premise + облако | Облако |
 | Channel Manager | Встроен | Встроен | Интеграция | Интеграция | Интеграция | Встроен |

@@ -74,6 +74,6 @@ description: "Как NFC-приложение для сотрудников ре
 
 ## Связанные материалы
 
-- [Кейс: Киоски самообслуживания](/kb-horeca/cases/kiosk-apps/)
-- [Кейс: Личный кабинет гостя](/kb-horeca/cases/guest-portal/)
-- [Гостевой цикл](/kb-horeca/hotels/guest-experience/guest-cycle/)
+- [Кейс: Киоски самообслуживания](/cases/kiosk-apps/)
+- [Кейс: Личный кабинет гостя](/cases/guest-portal/)
+- [Гостевой цикл](/hotels/guest-experience/guest-cycle/)

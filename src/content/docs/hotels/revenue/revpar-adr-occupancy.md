@@ -139,8 +139,8 @@ ARPAR = (ADR − Переменные расходы на номер + Доп. �
 
 ## Кейсы по теме
 
-- [RMS — динамическое ценообразование](/kb-horeca/cases/rms-dynamic-pricing/) — как автоматика управляет RevPAR через загрузку
-- [Rate Shopper](/kb-horeca/cases/rate-shopper/) — данные для обоснованных ценовых решений
+- [RMS — динамическое ценообразование](/cases/rms-dynamic-pricing/) — как автоматика управляет RevPAR через загрузку
+- [Rate Shopper](/cases/rate-shopper/) — данные для обоснованных ценовых решений
 
 ---
 

@@ -9,9 +9,9 @@ description: Housekeeping, управление зонами общего пол
 
 | Тема | Уровень |
 |---|---|
-| [Housekeeping: нормы времени и стандарты](/kb-horeca/hotels/operations/housekeeping/) | Операционный |
-| [Лобби и завтрак: управление зонами](/kb-horeca/hotels/operations/lobby-breakfast/) | Операционный |
-| [Корпоративные клиенты и турагенты](/kb-horeca/hotels/operations/corporate-clients/) | Стратегический |
+| [Housekeeping: нормы времени и стандарты](/hotels/operations/housekeeping/) | Операционный |
+| [Лобби и завтрак: управление зонами](/hotels/operations/lobby-breakfast/) | Операционный |
+| [Корпоративные клиенты и турагенты](/hotels/operations/corporate-clients/) | Стратегический |
 
 ## Почему хаускипинг — это не просто уборка
 

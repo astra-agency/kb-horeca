@@ -87,7 +87,7 @@ Revenue-менеджер задаёт:
 
 ## Связанные материалы
 
-- [Кейс: Парсинг цен конкурентов](/kb-horeca/cases/rate-shopper/)
-- [Тарифная политика](/kb-horeca/hotels/revenue/rate-strategy/)
-- [RevPAR, ADR, Occupancy](/kb-horeca/hotels/revenue/revpar-adr-occupancy/)
-- [Прямые продажи vs OTA](/kb-horeca/hotels/revenue/direct-vs-ota/)
+- [Кейс: Парсинг цен конкурентов](/cases/rate-shopper/)
+- [Тарифная политика](/hotels/revenue/rate-strategy/)
+- [RevPAR, ADR, Occupancy](/hotels/revenue/revpar-adr-occupancy/)
+- [Прямые продажи vs OTA](/hotels/revenue/direct-vs-ota/)

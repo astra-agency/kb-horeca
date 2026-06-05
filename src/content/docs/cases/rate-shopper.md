@@ -66,6 +66,6 @@ Revenue-менеджер видит сводную таблицу:
 
 ## Связанные материалы
 
-- [Кейс: RMS — динамическое ценообразование](/kb-horeca/cases/rms-dynamic-pricing/)
-- [Тарифная политика](/kb-horeca/hotels/revenue/rate-strategy/)
-- [RevPAR, ADR, Occupancy](/kb-horeca/hotels/revenue/revpar-adr-occupancy/)
+- [Кейс: RMS — динамическое ценообразование](/cases/rms-dynamic-pricing/)
+- [Тарифная политика](/hotels/revenue/rate-strategy/)
+- [RevPAR, ADR, Occupancy](/hotels/revenue/revpar-adr-occupancy/)

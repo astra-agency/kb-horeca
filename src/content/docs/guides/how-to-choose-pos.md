@@ -71,5 +71,5 @@ description: Чеклист критериев выбора POS-системы �
 
 ## Ресурсы
 
-- [Сравнение iiko vs r_keeper](/kb-horeca/restaurants/pos/iiko-vs-rkeeper/)
-- [Обзор POS-систем](/kb-horeca/restaurants/pos/)
+- [Сравнение iiko vs r_keeper](/restaurants/pos/iiko-vs-rkeeper/)
+- [Обзор POS-систем](/restaurants/pos/)

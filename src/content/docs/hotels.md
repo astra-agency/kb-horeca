@@ -9,31 +9,31 @@ description: Автоматизация гостиничного бизнеса 
 
 ## Разделы базы знаний
 
-### [Сайт и онлайн-бронирование](/kb-horeca/hotels/website-booking/)
+### [Сайт и онлайн-бронирование](/hotels/website-booking/)
 
 Как создать сайт отеля с модулем прямого бронирования, подключиться к метапоисковикам (Яндекс Путешествия, Ostrovok) и снизить зависимость от OTA-комиссий.
 
-### [PMS — системы управления](/kb-horeca/hotels/pms/)
+### [PMS — системы управления](/hotels/pms/)
 
 Шахматка, управление бронированиями, расчёт гостей, мигрант-уведомления (УФМС), интеграция с 1С.
 
 **Системы в базе:**
-- [TravelLine](/kb-horeca/hotels/pms/travelline/) — лидер рынка, полный стек
-- [Bnovo](/kb-horeca/hotels/pms/bnovo/) — облако для малых и средних объектов
-- [Контур.Отель](/kb-horeca/hotels/pms/kontur-hotel/) — интеграция с ФНС/ФМС от СКБ Контур
-- [Saby Hotel](/kb-horeca/hotels/pms/saby-hotel/) — экосистема СБИС/Tensor
-- [Logus HMS](/kb-horeca/hotels/pms/logus-hms/) — для крупных отелей и сетей
-- [MaxiBooking](/kb-horeca/hotels/pms/maxibooking/) — PMS + channel manager в одном
+- [TravelLine](/hotels/pms/travelline/) — лидер рынка, полный стек
+- [Bnovo](/hotels/pms/bnovo/) — облако для малых и средних объектов
+- [Контур.Отель](/hotels/pms/kontur-hotel/) — интеграция с ФНС/ФМС от СКБ Контур
+- [Saby Hotel](/hotels/pms/saby-hotel/) — экосистема СБИС/Tensor
+- [Logus HMS](/hotels/pms/logus-hms/) — для крупных отелей и сетей
+- [MaxiBooking](/hotels/pms/maxibooking/) — PMS + channel manager в одном
 
-### [Channel Manager](/kb-horeca/hotels/channel-manager/)
+### [Channel Manager](/hotels/channel-manager/)
 
 Синхронизация номеров и цен на OTA-площадках (Ostrovok, Суточно.ру, Яндекс Путешествия, Booking.com) без риска овербукинга.
 
-### [Репутационный менеджмент](/kb-horeca/hotels/reputation/)
+### [Репутационный менеджмент](/hotels/reputation/)
 
 Автоматический сбор отзывов, мониторинг Яндекс Карт, 2GIS, TripAdvisor, работа с негативом.
 
-### [CRM и управление продажами](/kb-horeca/hotels/crm/)
+### [CRM и управление продажами](/hotels/crm/)
 
 База постоянных гостей, корпоративные клиенты, повторные продажи, интеграция с PMS.
 

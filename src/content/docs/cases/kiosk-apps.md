@@ -69,6 +69,6 @@ description: "Как kiosk-приложения снижают нагрузку 
 
 ## Связанные материалы
 
-- [Кейс: Личный кабинет гостя](/kb-horeca/cases/guest-portal/)
-- [Кейс: Мобильное приложение для персонала](/kb-horeca/cases/staff-mobile-app/)
-- [Кейс: Программа лояльности](/kb-horeca/cases/loyalty-program/)
+- [Кейс: Личный кабинет гостя](/cases/guest-portal/)
+- [Кейс: Мобильное приложение для персонала](/cases/staff-mobile-app/)
+- [Кейс: Программа лояльности](/cases/loyalty-program/)

@@ -62,5 +62,5 @@ description: "Как перевести согласование договор�
 
 ## Связанные материалы
 
-- [Кейс: Автоматизация HR-процессов](/kb-horeca/cases/hr-automation/)
-- [CRM и управление продажами](/kb-horeca/hotels/crm/)
+- [Кейс: Автоматизация HR-процессов](/cases/hr-automation/)
+- [CRM и управление продажами](/hotels/crm/)

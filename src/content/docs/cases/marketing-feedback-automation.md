@@ -70,6 +70,6 @@ description: "Как выстроить маркетинговые процес�
 
 ## Связанные материалы
 
-- [Репутационный менеджмент](/kb-horeca/hotels/reputation/)
-- [Ответы на отзывы](/kb-horeca/hotels/guest-experience/review-responses/)
-- [Кейс: Программа лояльности](/kb-horeca/cases/loyalty-program/)
+- [Репутационный менеджмент](/hotels/reputation/)
+- [Ответы на отзывы](/hotels/guest-experience/review-responses/)
+- [Кейс: Программа лояльности](/cases/loyalty-program/)

@@ -58,6 +58,6 @@ description: "Как автоматически генерировать КП п
 
 ## Связанные материалы
 
-- [Upselling и cross-selling](/kb-horeca/hotels/revenue/upselling/)
-- [Кейс: Онлайн-оплата по ссылке](/kb-horeca/cases/online-payment-link/)
-- [CRM и управление продажами](/kb-horeca/hotels/crm/)
+- [Upselling и cross-selling](/hotels/revenue/upselling/)
+- [Кейс: Онлайн-оплата по ссылке](/cases/online-payment-link/)
+- [CRM и управление продажами](/hotels/crm/)

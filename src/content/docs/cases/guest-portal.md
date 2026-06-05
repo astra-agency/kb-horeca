@@ -85,6 +85,6 @@ description: "Как создать цифровую точку взаимоде
 
 ## Связанные материалы
 
-- [Кейс: Программа лояльности](/kb-horeca/cases/loyalty-program/)
-- [Кейс: Киоски самообслуживания](/kb-horeca/cases/kiosk-apps/)
-- [Гостевой цикл](/kb-horeca/hotels/guest-experience/guest-cycle/)
+- [Кейс: Программа лояльности](/cases/loyalty-program/)
+- [Кейс: Киоски самообслуживания](/cases/kiosk-apps/)
+- [Гостевой цикл](/hotels/guest-experience/guest-cycle/)

@@ -56,6 +56,6 @@ description: "Как организовать приём платежей за �
 
 ## Связанные материалы
 
-- [54-ФЗ — онлайн-кассы](/kb-horeca/regulations/54-fz/)
-- [Кейс: Модуль онлайн-бронирования](/kb-horeca/cases/booking-engine/)
-- [Прямые продажи vs OTA](/kb-horeca/hotels/revenue/direct-vs-ota/)
+- [54-ФЗ — онлайн-кассы](/regulations/54-fz/)
+- [Кейс: Модуль онлайн-бронирования](/cases/booking-engine/)
+- [Прямые продажи vs OTA](/hotels/revenue/direct-vs-ota/)

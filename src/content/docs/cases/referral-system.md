@@ -73,6 +73,6 @@ description: "Как превратить гостей в амбассадоро
 
 ## Связанные материалы
 
-- [Кейс: Программа лояльности](/kb-horeca/cases/loyalty-program/)
-- [Кейс: Личный кабинет гостя](/kb-horeca/cases/guest-portal/)
-- [Прямые продажи vs OTA](/kb-horeca/hotels/revenue/direct-vs-ota/)
+- [Кейс: Программа лояльности](/cases/loyalty-program/)
+- [Кейс: Личный кабинет гостя](/cases/guest-portal/)
+- [Прямые продажи vs OTA](/hotels/revenue/direct-vs-ota/)

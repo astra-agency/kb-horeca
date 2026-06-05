@@ -9,7 +9,7 @@ POS (Point of Sale) — программная платформа для авт�
 
 ## Сравнение систем
 
-| Параметр | [iiko](/kb-horeca/restaurants/pos/iiko/) | [r_keeper](/kb-horeca/restaurants/pos/rkeeper/) | [Poster](/kb-horeca/restaurants/pos/poster/) |
+| Параметр | [iiko](/restaurants/pos/iiko/) | [r_keeper](/restaurants/pos/rkeeper/) | [Poster](/restaurants/pos/poster/) |
 |----------|------|---------|--------|
 | Тип | On-premise + облако | On-premise + облако | Облако |
 | Целевой сегмент | Средний и крупный бизнес, сети | Любой, особенно крупные сети | Малый бизнес, кофейни |

@@ -9,8 +9,8 @@ description: Стандарты сервиса, скрипты официант�
 
 | Тема | Уровень |
 |---|---|
-| [Стандарты сервиса: скрипты от встречи до счёта](/kb-horeca/restaurants/staff/service-standards/) | Операционный |
-| [Мотивация зала: чаевые, KPI, конкурсы](/kb-horeca/restaurants/staff/motivation-kpi/) | Управленческий |
+| [Стандарты сервиса: скрипты от встречи до счёта](/restaurants/staff/service-standards/) | Операционный |
+| [Мотивация зала: чаевые, KPI, конкурсы](/restaurants/staff/motivation-kpi/) | Управленческий |
 
 ## Сервисный цикл
 

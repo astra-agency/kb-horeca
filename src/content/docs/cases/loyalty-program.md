@@ -67,6 +67,6 @@ OTA давно перетянули «одеяло» лояльности на �
 
 ## Связанные материалы
 
-- [Кейс: Реферальная система](/kb-horeca/cases/referral-system/)
-- [Кейс: Личный кабинет гостя](/kb-horeca/cases/guest-portal/)
-- [Прямые продажи vs OTA](/kb-horeca/hotels/revenue/direct-vs-ota/)
+- [Кейс: Реферальная система](/cases/referral-system/)
+- [Кейс: Личный кабинет гостя](/cases/guest-portal/)
+- [Прямые продажи vs OTA](/hotels/revenue/direct-vs-ota/)

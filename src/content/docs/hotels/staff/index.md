@@ -9,9 +9,9 @@ description: Найм, адаптация, мотивация и стандар�
 
 | Тема | Уровень |
 |---|---|
-| [Стандарты обслуживания: скрипты ресепшена](/kb-horeca/hotels/staff/front-desk-scripts/) | Операционный |
-| [Найм и адаптация в отеле](/kb-horeca/hotels/staff/hiring-onboarding/) | Управленческий |
-| [Мотивация и удержание сотрудников](/kb-horeca/hotels/staff/retention-motivation/) | Управленческий |
+| [Стандарты обслуживания: скрипты ресепшена](/hotels/staff/front-desk-scripts/) | Операционный |
+| [Найм и адаптация в отеле](/hotels/staff/hiring-onboarding/) | Управленческий |
+| [Мотивация и удержание сотрудников](/hotels/staff/retention-motivation/) | Управленческий |
 
 ## Принцип HoReCa-рекрутинга
 

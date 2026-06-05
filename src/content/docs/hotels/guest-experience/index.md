@@ -9,10 +9,10 @@ description: Гостевой цикл, работа с жалобами, myster
 
 | Тема | Уровень |
 |---|---|
-| [Гостевой цикл: от pre-arrival до post-stay](/kb-horeca/hotels/guest-experience/guest-cycle/) | Операционный |
-| [Работа с жалобами и конфликтными гостями](/kb-horeca/hotels/guest-experience/complaints/) | Операционный |
-| [Mystery Guest: проверки качества](/kb-horeca/hotels/guest-experience/mystery-guest/) | Управленческий |
-| [Ответы на отзывы: тон, скорость, шаблоны](/kb-horeca/hotels/guest-experience/review-responses/) | Практический |
+| [Гостевой цикл: от pre-arrival до post-stay](/hotels/guest-experience/guest-cycle/) | Операционный |
+| [Работа с жалобами и конфликтными гостями](/hotels/guest-experience/complaints/) | Операционный |
+| [Mystery Guest: проверки качества](/hotels/guest-experience/mystery-guest/) | Управленческий |
+| [Ответы на отзывы: тон, скорость, шаблоны](/hotels/guest-experience/review-responses/) | Практический |
 
 ## Ключевая статистика
 

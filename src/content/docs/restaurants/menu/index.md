@@ -9,10 +9,10 @@ description: Меню-инжиниринг, food cost, стоп-листы и с
 
 | Тема | Уровень |
 |---|---|
-| [Меню-инжиниринг: звёзды, лошади, загадки, собаки](/kb-horeca/restaurants/menu/menu-engineering/) | Практический |
-| [Себестоимость блюд: food cost и расчёт цен](/kb-horeca/restaurants/menu/food-cost-pricing/) | Практический |
-| [Стоп-листы: управление без потерь гостя](/kb-horeca/restaurants/menu/stop-list/) | Операционный |
-| [Сезонное меню и локальные поставщики](/kb-horeca/restaurants/menu/seasonal-menu/) | Стратегический |
+| [Меню-инжиниринг: звёзды, лошади, загадки, собаки](/restaurants/menu/menu-engineering/) | Практический |
+| [Себестоимость блюд: food cost и расчёт цен](/restaurants/menu/food-cost-pricing/) | Практический |
+| [Стоп-листы: управление без потерь гостя](/restaurants/menu/stop-list/) | Операционный |
+| [Сезонное меню и локальные поставщики](/restaurants/menu/seasonal-menu/) | Стратегический |
 
 ## Ключевые формулы
 

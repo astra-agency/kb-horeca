@@ -75,7 +75,7 @@ description: "Как собственный движок бронировани�
 
 ## Связанные материалы
 
-- [Сайт и онлайн-бронирование](/kb-horeca/hotels/website-booking/)
-- [Прямые продажи vs OTA](/kb-horeca/hotels/revenue/direct-vs-ota/)
-- [Кейс: Онлайн-оплата по ссылке](/kb-horeca/cases/online-payment-link/)
-- [54-ФЗ — онлайн-кассы](/kb-horeca/regulations/54-fz/)
+- [Сайт и онлайн-бронирование](/hotels/website-booking/)
+- [Прямые продажи vs OTA](/hotels/revenue/direct-vs-ota/)
+- [Кейс: Онлайн-оплата по ссылке](/cases/online-payment-link/)
+- [54-ФЗ — онлайн-кассы](/regulations/54-fz/)

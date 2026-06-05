@@ -11,20 +11,20 @@ description: Сравнение ИТ-решений для автоматиза�
 
 | Задача | Решения | Раздел |
 |--------|---------|--------|
-| Автоматизация кассы и зала | iiko, r_keeper, Poster | [POS-системы](/kb-horeca/restaurants/pos/) |
-| Подключение к доставке | Яндекс Еда, SberFood, Самокат | [Доставка и агрегаторы](/kb-horeca/restaurants/delivery/) |
-| Удержание гостей | Plazius, Mindbox, iiko Loyalty | [Программы лояльности](/kb-horeca/restaurants/loyalty/) |
-| Онлайн-бронирование столиков | Tomesto, YClients, Яндекс Рестораны | [Резервация столиков](/kb-horeca/restaurants/reservation/) |
+| Автоматизация кассы и зала | iiko, r_keeper, Poster | [POS-системы](/restaurants/pos/) |
+| Подключение к доставке | Яндекс Еда, SberFood, Самокат | [Доставка и агрегаторы](/restaurants/delivery/) |
+| Удержание гостей | Plazius, Mindbox, iiko Loyalty | [Программы лояльности](/restaurants/loyalty/) |
+| Онлайн-бронирование столиков | Tomesto, YClients, Яндекс Рестораны | [Резервация столиков](/restaurants/reservation/) |
 
 ## Отели и гостиницы
 
 | Задача | Решения | Раздел |
 |--------|---------|--------|
-| Управление номерами и бронями | TravelLine, Bnovo, Logus HMS | [PMS-системы](/kb-horeca/hotels/pms/) |
-| Продажи на OTA-площадках | TravelLine CM, Bnovo CM, MaxiBooking | [Channel Manager](/kb-horeca/hotels/channel-manager/) |
-| Прямое бронирование с сайта | TravelLine Booking Engine, Bnovo | [Сайт и бронирование](/kb-horeca/hotels/website-booking/) |
-| Управление репутацией | TravelLine Reputation, Revvy | [Репутационный менеджмент](/kb-horeca/hotels/reputation/) |
-| База гостей и повторные продажи | amoCRM, Битрикс24 + PMS | [CRM](/kb-horeca/hotels/crm/) |
+| Управление номерами и бронями | TravelLine, Bnovo, Logus HMS | [PMS-системы](/hotels/pms/) |
+| Продажи на OTA-площадках | TravelLine CM, Bnovo CM, MaxiBooking | [Channel Manager](/hotels/channel-manager/) |
+| Прямое бронирование с сайта | TravelLine Booking Engine, Bnovo | [Сайт и бронирование](/hotels/website-booking/) |
+| Управление репутацией | TravelLine Reputation, Revvy | [Репутационный менеджмент](/hotels/reputation/) |
+| База гостей и повторные продажи | amoCRM, Битрикс24 + PMS | [CRM](/hotels/crm/) |
 
 ## Рекомендуемые связки
 

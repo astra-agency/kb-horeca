@@ -70,6 +70,6 @@ Logus, Fidelio, 1С-Отель, Opera, Bnovo, TravelLine и другими — �
 
 ## Связанные материалы
 
-- [PMS — системы управления](/kb-horeca/hotels/pms/)
-- [CRM и управление продажами](/kb-horeca/hotels/crm/)
-- [Кейс: Внедрение CRM для отеля](/kb-horeca/cases/crm-setup/)
+- [PMS — системы управления](/hotels/pms/)
+- [CRM и управление продажами](/hotels/crm/)
+- [Кейс: Внедрение CRM для отеля](/cases/crm-setup/)

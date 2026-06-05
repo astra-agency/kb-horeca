@@ -9,11 +9,11 @@ description: Revenue management для отелей без дорогих сис
 
 | Тема | Уровень |
 |---|---|
-| [RevPAR, ADR, Occupancy — основы](/kb-horeca/hotels/revenue/revpar-adr-occupancy/) | Базовый → Практический |
-| [Стратегии заполнения в низкий сезон](/kb-horeca/hotels/revenue/seasonality/) | Практический |
-| [Прямые продажи vs OTA](/kb-horeca/hotels/revenue/direct-vs-ota/) | Стратегический |
-| [Upselling и cross-selling](/kb-horeca/hotels/revenue/upselling/) | Практический |
-| [Тарифная политика и пакетные предложения](/kb-horeca/hotels/revenue/rate-strategy/) | Практический |
+| [RevPAR, ADR, Occupancy — основы](/hotels/revenue/revpar-adr-occupancy/) | Базовый → Практический |
+| [Стратегии заполнения в низкий сезон](/hotels/revenue/seasonality/) | Практический |
+| [Прямые продажи vs OTA](/hotels/revenue/direct-vs-ota/) | Стратегический |
+| [Upselling и cross-selling](/hotels/revenue/upselling/) | Практический |
+| [Тарифная политика и пакетные предложения](/hotels/revenue/rate-strategy/) | Практический |
 
 ## Ключевые метрики
 

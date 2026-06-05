@@ -9,9 +9,9 @@ description: Постоянные гости, работа с жалобами �
 
 | Тема | Уровень |
 |---|---|
-| [Постоянные гости: как узнавать и запоминать](/kb-horeca/restaurants/guest-experience/regular-guests/) | Практический |
-| [Работа с жалобами в ресторане](/kb-horeca/restaurants/guest-experience/complaints/) | Операционный |
-| [Атмосфера и концепция ресторана](/kb-horeca/restaurants/guest-experience/atmosphere/) | Стратегический |
+| [Постоянные гости: как узнавать и запоминать](/restaurants/guest-experience/regular-guests/) | Практический |
+| [Работа с жалобами в ресторане](/restaurants/guest-experience/complaints/) | Операционный |
+| [Атмосфера и концепция ресторана](/restaurants/guest-experience/atmosphere/) | Стратегический |
 
 ## Ключевые факты
 

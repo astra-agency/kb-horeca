@@ -66,5 +66,5 @@ description: "Как настроить CRM под задачи отеля — �
 
 ## Связанные материалы
 
-- [CRM и управление продажами](/kb-horeca/hotels/crm/)
-- [Кейс: Интеграция CRM с PMS/POS](/kb-horeca/cases/pms-crm-integration/)
+- [CRM и управление продажами](/hotels/crm/)
+- [Кейс: Интеграция CRM с PMS/POS](/cases/pms-crm-integration/)
