@@ -97,6 +97,13 @@ Email или WhatsApp с предложением:
 
 ---
 
+## Кейсы по теме
+
+- [Персонализированные КП](/kb-horeca/cases/personalized-proposals/) — автогенерация предложений под конкретного гостя с таймером
+- [Личный кабинет гостя](/kb-horeca/cases/guest-portal/) — допродажи через цифровой канал до заезда
+
+---
+
 ## Источники
 
 - Cloudbeds — *Hotel Upselling: 12 Upsell Techniques + Examples* (2026)

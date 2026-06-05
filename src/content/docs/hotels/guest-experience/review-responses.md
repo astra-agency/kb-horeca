@@ -96,6 +96,12 @@ description: Как отвечать на положительные и отри
 
 ---
 
+## Кейсы по теме
+
+- [Автоматизация маркетинга и обратной связи](/kb-horeca/cases/marketing-feedback-automation/) — системная работа с отзывами в единой CRM-очереди
+
+---
+
 ## Источники
 
 - TripAdvisor — *Best Practices for Responding to Reviews* (2024)

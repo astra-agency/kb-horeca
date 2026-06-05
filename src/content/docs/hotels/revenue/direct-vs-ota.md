@@ -98,6 +98,14 @@ Google Hotels, Trivago, TripAdvisor Metasearch позволяют конкури
 
 ---
 
+## Кейсы по теме
+
+- [Модуль онлайн-бронирования](/kb-horeca/cases/booking-engine/) — как реализовать прямой канал технически
+- [Программа лояльности](/kb-horeca/cases/loyalty-program/) — механика удержания гостей в прямом канале
+- [Реферальная система](/kb-horeca/cases/referral-system/) — привлечение новых гостей через рекомендации
+
+---
+
 ## Источники
 
 - Hotel Tech Report — *Hotel Direct Bookings: Breaking Down How Hotels Can Win* (2024)
