@@ -118,6 +118,52 @@ export default defineConfig({
           ],
         },
         {
+          label: 'Кейсы',
+          items: [
+            { label: 'Все кейсы', slug: 'cases' },
+            {
+              label: 'CRM и продажи',
+              items: [
+                { label: 'Внедрение CRM', slug: 'cases/crm-setup' },
+                { label: 'Интеграция CRM с PMS/POS', slug: 'cases/pms-crm-integration' },
+                { label: 'Персонализированные КП', slug: 'cases/personalized-proposals' },
+                { label: 'Онлайн-оплата по ссылке', slug: 'cases/online-payment-link' },
+              ],
+            },
+            {
+              label: 'Лояльность и гостевой опыт',
+              items: [
+                { label: 'Программа лояльности', slug: 'cases/loyalty-program' },
+                { label: 'Реферальная система', slug: 'cases/referral-system' },
+                { label: 'Личный кабинет гостя', slug: 'cases/guest-portal' },
+              ],
+            },
+            {
+              label: 'Бронирование и ценообразование',
+              items: [
+                { label: 'Модуль онлайн-бронирования', slug: 'cases/booking-engine' },
+                { label: 'RMS — динамические цены', slug: 'cases/rms-dynamic-pricing' },
+                { label: 'Rate Shopper', slug: 'cases/rate-shopper' },
+              ],
+            },
+            {
+              label: 'Автоматизация департаментов',
+              items: [
+                { label: 'HR-процессы', slug: 'cases/hr-automation' },
+                { label: 'Юридический отдел', slug: 'cases/legal-automation' },
+                { label: 'Маркетинг и обратная связь', slug: 'cases/marketing-feedback-automation' },
+              ],
+            },
+            {
+              label: 'Мобильные и терминальные решения',
+              items: [
+                { label: 'Приложение для персонала', slug: 'cases/staff-mobile-app' },
+                { label: 'Киоски самообслуживания', slug: 'cases/kiosk-apps' },
+              ],
+            },
+          ],
+        },
+        {
           label: 'Сервисы',
           items: [
             { label: 'Обзор', slug: 'services' },

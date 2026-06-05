@@ -116,6 +116,14 @@ description: Как привлекать, удерживать корпорат�
 
 ---
 
+## Кейсы по теме
+
+- [Внедрение CRM для отеля](/kb-horeca/cases/crm-setup/) — воронка продаж корпоративным клиентам и цепочка касания
+- [Интеграция CRM с PMS/POS](/kb-horeca/cases/pms-crm-integration/) — сквозная аналитика по корпоративному сегменту
+- [Персонализированные КП](/kb-horeca/cases/personalized-proposals/) — автогенерация КП под конкретный запрос компании
+
+---
+
 ## Источники
 
 - Global Business Travel Association (GBTA) — *Corporate Travel Trends* (2025)

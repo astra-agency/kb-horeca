@@ -103,6 +103,12 @@ description: Почему уходят сотрудники в гостиниц�
 
 ---
 
+## Кейсы по теме
+
+- [Автоматизация HR-процессов](/kb-horeca/cases/hr-automation/) — цифровые процессы для сотрудников снижают административный стресс
+
+---
+
 ## Источники
 
 - McKinsey — *The great attrition: understanding what employees want* (2024)
