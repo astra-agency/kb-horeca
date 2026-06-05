@@ -92,6 +92,13 @@ description: Как выстроить тарифную сетку отеля �
 
 ---
 
+## Кейсы по теме
+
+- [RMS — динамическое ценообразование](/kb-horeca/cases/rms-dynamic-pricing/) — автоматическое управление тарифами по загрузке
+- [Rate Shopper — парсинг цен конкурентов](/kb-horeca/cases/rate-shopper/) — мониторинг конкурентного поля в реальном времени
+
+---
+
 ## Источники
 
 - Mews — *10 hotel rate types for your property*

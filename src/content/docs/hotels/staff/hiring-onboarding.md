@@ -119,6 +119,12 @@ description: Как искать, отбирать и вводить в рабо
 
 ---
 
+## Кейсы по теме
+
+- [Автоматизация HR-процессов](/kb-horeca/cases/hr-automation/) — цифровой онбординг, задачи по приёму, обходной лист
+
+---
+
 ## Источники
 
 - Cornell Hospitality Quarterly — *Hotel Turnover and Retention Strategies* (2025)

@@ -2,14 +2,14 @@
 
 ## Сейчас (готово к деплою)
 
-Текущее состояние ветки `feature/restructure-horeca-kb` готово к v1.
+Ветка `feature/restructure-horeca-kb` содержит полную v1 KB с кейсами и перелинковкой.
 
 ### Шаги для выпуска v1
 
 ```bash
 # 1. Закоммитить всё
 git add -A
-git commit -m "feat: complete HoReCa KB v1 — hotels, restaurants, services"
+git commit -m "feat: add cases section (16 articles), restructure sidebar, cross-link KB articles"
 
 # 2. Смержить в main
 git checkout main
@@ -33,9 +33,11 @@ git push origin main
 
 ### Средний
 
-- [ ] **Автопортье** — PMS для малых отелей, создать `hotels/pms/avtoportye.md`
-- [ ] **HotelCloud** — облачная PMS, создать `hotels/pms/hotelcloud.md`
+- [ ] **Автопортье** — PMS для малых отелей, создать `hotels/pms/avtoportye.md` + sidebar
+- [ ] **HotelCloud** — облачная PMS, создать `hotels/pms/hotelcloud.md` + sidebar
 - [ ] **Обновить PMS comparison table** в `hotels/pms/index.md` — добавить Автопортье и HotelCloud
+- [ ] **Перелинковка кейсов**: охвачено 11 статей; проверить оставшиеся (revenue/revpar, menu/food-cost, staff/service-standards и т.д.)
+- [ ] **Обновить `docs/`** — привести project-overview.md в соответствие с реальной структурой папок
 
 ### Низкий
 
@@ -48,7 +50,7 @@ git push origin main
 
 ## Идеи для v2
 
-- Раздел «Кейсы» — реальные внедрения с результатами
+- Кейсы с реальными клиентами — расширить текущие шаблонные кейсы
 - Калькулятор ROI автоматизации
 - Сравнение зарубежных систем (Oracle OPERA, Mews, Lightspeed)
 - Чеклист внедрения PMS

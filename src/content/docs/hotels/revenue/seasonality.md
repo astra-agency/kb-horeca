@@ -107,6 +107,13 @@ RMS (Revenue Management System) — дорого. Но динамику можн
 
 ---
 
+## Кейсы по теме
+
+- [RMS — динамическое ценообразование](/kb-horeca/cases/rms-dynamic-pricing/) — автоматическая реакция на изменение загрузки в межсезонье
+- [Автоматизация маркетинга и обратной связи](/kb-horeca/cases/marketing-feedback-automation/) — триггерные кампании по базе для повторного визита
+
+---
+
 ## Источники
 
 - Mediaboom — *How to Increase Hotel Occupancy in Low Season* (2025)
