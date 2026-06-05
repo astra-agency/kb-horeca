@@ -1,85 +1,85 @@
 ---
-title: Staff Management
-description: Guidance on hiring, training, scheduling, and managing staff in a HoReCa business.
+title: Управление персоналом
+description: Найм, обучение, составление расписания и управление сотрудниками в HoReCa-бизнесе.
 ---
 
-## Staff Management
+## Управление персоналом
 
-Your team is your most valuable asset. Effective staff management improves morale, reduces turnover, and directly impacts the quality of your guest experience.
+Команда — главный актив заведения. Грамотное управление персоналом повышает моральный дух, снижает текучку и напрямую влияет на качество обслуживания гостей.
 
-## Hiring
+## Найм
 
-### Writing a Job Description
+### Составление описания вакансии
 
-A good job description includes:
+Хорошее описание включает:
 
-- Job title and reporting structure
-- Key responsibilities
-- Required qualifications and experience
-- Desirable skills
-- Working hours and conditions
-- Remuneration range
+- Название должности и структуру подчинения
+- Ключевые обязанности
+- Необходимые квалификацию и опыт
+- Желательные навыки
+- Режим работы и условия труда
+- Вилку зарплаты
 
-### Interviewing
+### Проведение собеседований
 
-- Conduct structured interviews with consistent questions for all candidates.
-- Include a practical component — e.g., a cooking trial or a role-play guest interaction.
-- Check references before making an offer.
+- Используйте структурированные интервью с одинаковыми вопросами для всех кандидатов.
+- Включите практическую часть — например, пробный день на кухне или ролевое взаимодействие с гостем.
+- Проверяйте рекомендации перед оффером.
 
-## Onboarding
+## Адаптация
 
-A structured onboarding process helps new staff feel welcome and become productive quickly.
+Структурированный онбординг помогает новым сотрудникам почувствовать себя частью команды и быстро войти в рабочий ритм.
 
-### Week 1 Checklist
+### Чеклист первой недели
 
-- [ ] Complete employment paperwork (tax, superannuation, bank details)
-- [ ] Provide employee handbook
-- [ ] Tour of venue and introduction to team
-- [ ] Complete food safety and hygiene training
-- [ ] Shadow an experienced staff member
-- [ ] Review service standards and menu
+- [ ] Оформить трудовой договор и кадровые документы
+- [ ] Выдать правила внутреннего трудового распорядка
+- [ ] Провести экскурсию по заведению, познакомить с командой
+- [ ] Пройти инструктаж по санитарии и пищевой безопасности
+- [ ] Поработать в паре с опытным сотрудником
+- [ ] Изучить стандарты сервиса и меню
 
-## Scheduling
+## Составление расписания
 
-### Building a Roster
+### Формирование графика
 
-- Review forecasted covers or occupancy before building the roster.
-- Ensure adequate coverage for peak periods (Friday/Saturday evenings, public holidays).
-- Provide staff with at least **1 week's notice** of their schedule.
-- Account for minimum rest periods between shifts as required by relevant awards or contracts.
+- Анализируйте прогнозируемую загрузку перед составлением графика.
+- Обеспечьте достаточное покрытие в пиковые часы (пятница/суббота вечером, праздники).
+- Сообщайте сотрудникам расписание минимум за **1 неделю**.
+- Соблюдайте минимальное время отдыха между сменами в соответствии с ТК РФ.
 
-### Managing Leave
+### Управление отпусками
 
-- Maintain a leave calendar visible to management.
-- Approve leave requests in writing.
-- Plan for cover during busy periods and restrict leave during peak trading windows in advance.
+- Ведите общий календарь отпусков, доступный руководству.
+- Фиксируйте согласование отпусков письменно.
+- Планируйте замены в периоды высокой загрузки, заранее ограничивайте отпуска в пиковый сезон.
 
-## Performance Management
+## Оценка эффективности
 
-### Regular Reviews
+### Регулярные ревью
 
-Conduct formal performance reviews at least annually, with informal check-ins every quarter. Cover:
+Проводите формальные оценки минимум раз в год и неформальные — ежеквартально. Обсуждайте:
 
-- Achievement of goals
-- Strengths and areas for improvement
-- Training and development opportunities
-- Career aspirations
+- Достижение целей
+- Сильные стороны и зоны роста
+- Возможности обучения и развития
+- Карьерные амбиции
 
-### Addressing Performance Issues
+### Работа с нарушениями
 
-1. Document the issue clearly.
-2. Hold a private meeting with the staff member.
-3. Provide specific, actionable feedback.
-4. Agree on a performance improvement plan with clear timelines.
-5. Follow up and document progress.
+1. Чётко задокументируйте проблему.
+2. Проведите приватную беседу с сотрудником.
+3. Дайте конкретную и конструктивную обратную связь.
+4. Согласуйте план улучшений с чёткими сроками.
+5. Отслеживайте прогресс и документируйте результаты.
 
-## Staff Retention
+## Удержание персонала
 
-High turnover is costly. Strategies to retain staff include:
+Высокая текучка дорого обходится. Инструменты для удержания сотрудников:
 
-- Competitive pay and conditions
-- Recognition and reward programs
-- Clear career progression pathways
-- Positive workplace culture
-- Regular social events and team-building activities
-- Flexible scheduling where possible
+- Конкурентная оплата труда и условия работы
+- Программы признания и поощрения
+- Прозрачные пути карьерного роста
+- Позитивная корпоративная культура
+- Регулярные командные мероприятия
+- Гибкий график там, где это возможно

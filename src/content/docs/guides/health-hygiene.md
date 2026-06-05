@@ -1,86 +1,86 @@
 ---
-title: Health & Hygiene
-description: Workplace health and hygiene standards for HoReCa venues.
+title: Санитария и гигиена
+description: Стандарты санитарии и гигиены на предприятиях HoReCa.
 ---
 
-## Health & Hygiene
+## Санитария и гигиена
 
-Maintaining high standards of health and hygiene is essential for the safety of both guests and staff. This guide covers cleaning protocols, pest control, and workplace health requirements.
+Высокие стандарты санитарии и гигиены обязательны для безопасности гостей и персонала. Основной нормативный документ: **СанПиН 2.3/2.4.3590-20**.
 
-## Cleaning and Sanitising
+## Уборка и дезинфекция
 
-There is an important distinction between **cleaning** and **sanitising**:
+Важно различать **уборку** и **дезинфекцию**:
 
-- **Cleaning** removes visible dirt, grease, and food residue.
-- **Sanitising** kills pathogens (bacteria, viruses, fungi) on a surface.
+- **Уборка** — удаляет видимые загрязнения: жир, грязь, пищевые остатки.
+- **Дезинфекция** — уничтожает патогены (бактерии, вирусы, грибки) на поверхности.
 
-Both steps are required. A surface must be cleaned before it can be effectively sanitised.
+Оба этапа обязательны. Поверхность должна быть убрана перед тем, как её можно эффективно дезинфицировать.
 
-### Cleaning Schedule
+### График уборки
 
-Create a cleaning schedule that specifies:
+Разработайте план уборки, который включает:
 
-- What is to be cleaned
-- How often it is cleaned
-- Who is responsible
-- What products and methods to use
-- A sign-off column for completion
+- Что убирается
+- Периодичность
+- Ответственный сотрудник
+- Используемые средства и методы
+- Графа для отметки о выполнении
 
-Typical cleaning frequencies:
+Типичная периодичность уборки:
 
-| Item                      | Frequency            |
-|---------------------------|----------------------|
-| Food contact surfaces     | After every use      |
-| Chopping boards           | After every use      |
-| Kitchen floors            | Daily                |
-| Grease filters/rangehoods | Weekly               |
-| Cool rooms                | Weekly               |
-| Grease traps              | As required (quarterly minimum) |
-| Exhaust fans              | Monthly              |
+| Объект                        | Периодичность                       |
+|-------------------------------|-------------------------------------|
+| Контактные поверхности        | После каждого использования         |
+| Разделочные доски             | После каждого использования         |
+| Полы кухни                    | Ежедневно                           |
+| Жироуловители и вытяжки       | Еженедельно                         |
+| Холодильные камеры            | Еженедельно                         |
+| Жировые ловушки               | Ежеквартально (минимум)             |
+| Вытяжные вентиляторы          | Ежемесячно                          |
 
-## Pest Control
+## Дезинсекция и дератизация
 
-Pests (rodents, cockroaches, flies) pose a serious food safety risk. Implement the following controls:
+Насекомые и грызуны (тараканы, мухи, мыши, крысы) — серьёзная угроза пищевой безопасности. Меры контроля:
 
-- Seal all gaps in walls, floors, and ceilings where pests could enter.
-- Keep all food stored in sealed containers off the floor.
-- Remove rubbish regularly and use covered bins.
-- Keep external areas clean and free of food scraps.
-- Engage a licensed pest control operator for regular inspections (minimum quarterly).
-- Document all pest control visits and any findings.
+- Заделайте все щели в стенах, полах и потолках, через которые могут проникнуть вредители.
+- Храните все продукты в закрытой таре, без контакта с полом.
+- Регулярно выносите мусор, используйте баки с крышками.
+- Содержите прилегающую территорию в чистоте, без пищевых остатков.
+- Заключите договор с лицензированной службой дезинсекции/дератизации — не реже раза в квартал.
+- Документируйте все визиты санитарной службы и выявленные нарушения.
 
-## Waste Management
+## Обращение с отходами
 
-- Use colour-coded bins for general waste, recycling, and organic/food waste.
-- Empty bins at the end of each shift or when full.
-- Clean and sanitise bins regularly.
-- Store waste in a designated area away from food preparation zones.
+- Используйте цветную маркировку баков: общий мусор, вторсырьё, пищевые отходы.
+- Опустошайте баки в конце каждой смены или по мере заполнения.
+- Регулярно мойте и дезинфицируйте баки.
+- Зона хранения отходов — отдельно от зон приготовления пищи.
 
-## Workplace Health and Safety (WHS)
+## Охрана труда
 
-All venues must comply with workplace health and safety legislation. Key requirements include:
+Все заведения обязаны соблюдать требования охраны труда согласно **ТК РФ** и **ФЗ № 52-ФЗ «О санитарно-эпидемиологическом благополучии населения»**.
 
-### Manual Handling
+### Ручные операции с грузами
 
-- Train staff in safe lifting techniques.
-- Use trolleys and mechanical aids for heavy loads where possible.
-- Report any injuries or near-misses immediately.
+- Обучайте персонал безопасным приёмам подъёма и переноски.
+- Используйте тележки и механические средства для тяжёлых грузов.
+- Немедленно сообщайте о травмах и предотвращённых несчастных случаях.
 
-### Burns and Cuts
+### Ожоги и порезы
 
-- Use cut-resistant gloves when handling sharp equipment.
-- Use oven mitts and pot holders when handling hot cookware.
-- Keep knives sharp — blunt knives require more force and increase the risk of slipping.
+- Используйте кольчужные перчатки при работе с острым инвентарём.
+- Используйте прихватки и рукавицы при работе с горячей посудой.
+- Содержите ножи острыми — тупой нож требует большего усилия и опаснее.
 
-### Slips, Trips, and Falls
+### Скользкие поверхности
 
-- Clean up spills immediately.
-- Use non-slip floor mats in high-risk areas.
-- Ensure adequate lighting throughout the venue.
-- Keep walkways clear of obstacles.
+- Убирайте разливы немедленно.
+- Используйте противоскользящие коврики в зонах риска.
+- Обеспечьте достаточное освещение.
+- Содержите проходы свободными.
 
-### First Aid
+### Первая помощь
 
-- Maintain a fully stocked first aid kit accessible to all staff.
-- Ensure at least one trained first-aider is present at all times during operation.
-- Record all injuries in the workplace incident register.
+- Держите аптечку первой помощи в доступном для всего персонала месте.
+- Убедитесь, что во время работы присутствует минимум один сотрудник с удостоверением по оказанию первой помощи.
+- Фиксируйте все травмы в журнале производственного травматизма.

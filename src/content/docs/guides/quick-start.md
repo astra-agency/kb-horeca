@@ -1,40 +1,42 @@
 ---
-title: Quick Start
-description: Get up and running with the HoReCa Knowledge Base.
+title: Быстрый старт
+description: Как начать работу с базой знаний HoReCa.
 ---
 
-## Getting Started with the HoReCa Knowledge Base
+## Начало работы с базой знаний HoReCa
 
-This guide will help you navigate the knowledge base and find the information most relevant to your role.
+Это руководство поможет вам ориентироваться в базе знаний и быстро найти нужную информацию.
 
-## Who Is This For?
+## Для кого этот ресурс
 
-The HoReCa Knowledge Base is designed for:
+База знаний HoReCa предназначена для:
 
-- **Owners and managers** of hotels, restaurants, and cafés
-- **Front-of-house staff** including servers, hosts, and bartenders
-- **Back-of-house staff** including chefs, cooks, and kitchen hands
-- **New employees** completing onboarding
+- **Владельцев и управляющих** отелей, ресторанов и кафе
+- **Персонала зала** — официантов, хостес, барменов
+- **Персонала кухни** — шеф-поваров, поваров, кухонных работников
+- **Новых сотрудников** на этапе адаптации
 
-## How to Use This Knowledge Base
+## Как пользоваться базой знаний
 
-Navigate using the sidebar on the left. Content is organised into four main sections:
+Навигация — через боковое меню слева. Материалы разделены на блоки:
 
-1. **Getting Started** — Introduction and quick-start guides
-2. **Operations** — Day-to-day procedures for running your venue
-3. **Compliance & Safety** — Food safety, hygiene, and regulatory requirements
-4. **Reference** — Glossary, checklists, and quick-reference materials
+1. **Отели и гостиницы** — автоматизация, операции, управление персоналом
+2. **Рестораны и кафе** — POS, меню, сервис, кухня
+3. **Сервисы** — сравнительные таблицы ИТ-решений для HoReCa
+4. **Регуляторика РФ** — 54-ФЗ, ЕГАИС, учёт гостей в МВД
+5. **Гайды по выбору** — как выбрать PMS, POS и другие системы
+6. **Справочник** — глоссарий, чеклисты, карта интеграций
 
-## Key Concepts
+## Ключевые понятия
 
 ### HoReCa
 
-**HoReCa** stands for **Ho**tels, **Re**staurants, and **Ca**fés. It is the standard industry term for the food service and hospitality sector.
+**HoReCa** — от английских слов **Ho**tel, **Re**staurant, **Ca**fé. Стандартный отраслевой термин для индустрии гостеприимства и общественного питания.
 
-### Service Standards
+### Стандарты сервиса
 
-Consistent service is the foundation of a successful HoReCa business. Refer to the [Front of House](/guides/front-of-house/) guide for service standards and procedures.
+Единый стандарт обслуживания — основа успешного HoReCa-бизнеса. Смотрите раздел [Зал — работа персонала](/kb-horeca/guides/front-of-house/) для стандартов и процедур.
 
-### Food Safety
+### Безопасность пищевых продуктов
 
-All HoReCa businesses are legally required to comply with food safety regulations. Review the [Food Safety Standards](/guides/food-safety/) guide for your obligations.
+Все предприятия общепита обязаны соблюдать требования санитарного законодательства. Смотрите [Стандарты пищевой безопасности](/kb-horeca/guides/food-safety/) для понимания ваших обязательств.

@@ -1,65 +1,65 @@
 ---
-title: Inventory Management
-description: How to manage stock, reduce waste, and optimise ordering for your HoReCa business.
+title: Управление запасами
+description: Как управлять складом, сокращать потери и оптимизировать закупки в HoReCa.
 ---
 
-## Inventory Management
+## Управление запасами
 
-Effective inventory management reduces food waste, controls costs, and ensures you never run out of essential items during service.
+Грамотное управление запасами сокращает пищевые потери, контролирует себестоимость и гарантирует, что во время сервиса ничего не кончится.
 
-## Stock Control Principles
+## Принципы складского учёта
 
-### FIFO — First In, First Out
+### FIFO — первым пришёл, первым ушёл
 
-Always use older stock before newer stock. When receiving deliveries:
+Всегда используйте более старые запасы раньше новых. При получении поставки:
 
-1. Move existing stock to the front of shelves.
-2. Place new deliveries at the back.
-3. Check date labels and discard anything past its use-by date.
+1. Переместите имеющиеся запасы к передней части полки.
+2. Новые поставки разместите сзади.
+3. Проверяйте маркировку дат — списывайте всё с истёкшим сроком.
 
-### Par Levels
+### Пороговые уровни запасов (Par Level)
 
-A **par level** is the minimum quantity of an item you should always have on hand. When stock falls to or below par, it triggers a reorder.
+**Пороговый уровень** — минимальное количество позиции, которое всегда должно быть в наличии. Когда запасы достигают порога или опускаются ниже — это сигнал к заказу.
 
-To calculate par level:
+Формула расчёта:
 ```
-Par Level = (Average daily usage × Lead time in days) + Safety stock
+Пороговый уровень = (Среднедневной расход × Срок поставки в днях) + Страховой запас
 ```
 
-## Receiving Deliveries
+## Приёмка поставок
 
-When a delivery arrives:
+При получении товара:
 
-1. **Check the delivery against your purchase order** — Ensure quantities and items match.
-2. **Inspect quality** — Check for damage, expiry dates, and correct temperature of chilled/frozen goods.
-3. **Weigh items sold by weight** — Verify you have received the correct amount.
-4. **Sign the delivery note** — Only sign once you are satisfied with the delivery. Note any discrepancies.
-5. **Store items immediately** — Refrigerated and frozen goods must be stored within 15 minutes of arrival.
+1. **Сверьте с заказом** — проверьте соответствие количества и номенклатуры.
+2. **Оцените качество** — проверьте целостность упаковки, сроки годности, температуру охлаждённых и замороженных продуктов.
+3. **Взвесьте весовой товар** — убедитесь в точности поставки.
+4. **Подпишите накладную** — только после проверки. Зафиксируйте расхождения.
+5. **Немедленно уберите товар** — охлаждённые и замороженные продукты должны попасть на хранение в течение 15 минут после приёмки.
 
-## Stocktaking
+## Инвентаризация
 
-Conduct a full stocktake at least once per month. For high-value items, consider weekly counts.
+Проводите полную инвентаризацию не реже одного раза в месяц. Для высокооборотных позиций — еженедельно.
 
-### Stocktake Process
+### Процесс инвентаризации
 
-1. Count all items in storage areas, fridges, freezers, and at service stations.
-2. Record quantities in your stock management system.
-3. Compare against expected stock levels (opening stock + received − used).
-4. Investigate and document any significant variances.
+1. Пересчитайте все позиции на складе, в холодильниках, морозильниках и на рабочих станциях.
+2. Занесите количество в систему учёта.
+3. Сравните с ожидаемыми остатками (остаток на начало + поступления − расход).
+4. Расследуйте и документируйте значимые расхождения.
 
-## Waste Management
+## Управление потерями
 
-Tracking waste helps identify problems in ordering, preparation, or service.
+Учёт потерь помогает выявить проблемы в закупках, приготовлении или сервисе.
 
-| Waste Type     | Cause                          | Solution                         |
-|----------------|--------------------------------|----------------------------------|
-| Spoilage       | Over-ordering, poor FIFO       | Reduce order quantities, enforce FIFO |
-| Preparation    | Over-portioning, poor skills   | Train staff, use portion scales  |
-| Plate returns  | Quality issues, incorrect order | Improve QC, clarify orders      |
+| Тип потерь       | Причина                                 | Решение                                      |
+|------------------|-----------------------------------------|----------------------------------------------|
+| Порча            | Избыточные закупки, нарушение FIFO      | Уменьшить объём заказов, соблюдать FIFO      |
+| Потери при обработке | Избыточные порции, низкая квалификация | Обучение персонала, порционные весы          |
+| Возвраты с тарелок | Проблемы с качеством, неверный заказ | Контроль качества, чёткая коммуникация       |
 
-## Ordering
+## Закупки
 
-- Review sales data before placing orders to avoid over-stocking.
-- Negotiate with suppliers for better pricing on high-volume items.
-- Consolidate orders where possible to reduce delivery frequency.
-- Build relationships with backup suppliers for critical items.
+- Анализируйте данные продаж перед оформлением заказов — избегайте затоваривания.
+- Договаривайтесь с поставщиками о лучших ценах на высокооборотные позиции.
+- Консолидируйте заказы, чтобы сократить количество доставок.
+- Выстраивайте отношения с резервными поставщиками по критически важным позициям.

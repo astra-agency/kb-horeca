@@ -1,32 +1,41 @@
 ---
-title: Glossary
-description: Key terms and definitions used in the HoReCa industry.
+title: Глоссарий
+description: Ключевые термины HoReCa-индустрии с определениями.
 ---
 
-## Glossary
+## Глоссарий
 
-A reference guide to key terms used throughout the HoReCa industry and this knowledge base.
+Справочник основных понятий, используемых в индустрии HoReCa и в этой базе знаний.
 
-| Term                    | Definition |
-|-------------------------|------------|
-| **86'd**                | Out of stock or unavailable. When a menu item is "86'd", it cannot be served. |
-| **À la carte**          | A menu where each item is priced individually, as opposed to a set/fixed-price menu. |
-| **Back of House (BOH)** | Areas of a venue not accessible to guests — typically the kitchen and storage areas. |
-| **Cover**               | A single guest. "Covers" refers to the total number of guests served in a period. |
-| **Cross-contamination** | The transfer of harmful bacteria or allergens from one food or surface to another. |
-| **Expeditor**           | The person responsible for coordinating the pass, calling orders, and ensuring dishes leave the kitchen correctly. |
-| **FIFO**                | First In, First Out. A stock rotation method where older stock is used before newer stock. |
-| **Front of House (FOH)** | Areas of a venue accessible to guests — the dining room, bar, and entrance. |
-| **HACCP**               | Hazard Analysis and Critical Control Points. A food safety management system. |
-| **HoReCa**              | Hotels, Restaurants, and Cafés. The collective term for the food service and hospitality industry. |
-| **Mise en Place**       | French for "everything in its place". The preparation and organisation of ingredients and equipment before service. |
-| **No-show**             | A reservation that was not honoured by the guest. |
-| **Par Level**           | The minimum quantity of stock that should be on hand at any given time. |
-| **Pass**                | The service window between the kitchen and the dining room where dishes are plated and checked before delivery. |
-| **POS**                 | Point of Sale. The system used to process orders and payments. |
-| **Rostering**           | The process of scheduling staff shifts. |
-| **Sequencing**          | The order in which courses are served (e.g., entrée, main, dessert). |
-| **Table Turn**          | The cycle of seating, serving, and clearing a table for the next group of guests. |
-| **Temperature Danger Zone** | The temperature range (5°C to 60°C) in which bacteria multiply most rapidly. |
-| **Upselling**           | Encouraging guests to purchase higher-value items or additional items. |
-| **Yield**               | The proportion of a product that is usable after trimming, cooking, or preparation. |
+| Термин                      | Определение |
+|-----------------------------|-------------|
+| **86 (стоп)**               | Позиция в стоп-листе. Блюдо «стоит» — его нельзя заказать. |
+| **ADR**                     | Average Daily Rate — средняя стоимость номера за ночь. Ключевой KPI отеля. |
+| **Аля карт (À la carte)**   | Меню, где каждое блюдо оценивается отдельно — в отличие от сет-меню по фиксированной цене. |
+| **Аллерген**                | Вещество, способное вызвать аллергическую реакцию. 14 основных аллергенов подлежат обязательному декларированию по ТР ТС 022/2011. |
+| **Банкет**                  | Организованное мероприятие с питанием для группы гостей по предварительному заказу. |
+| **Гость**                   | Клиент заведения. «Количество гостей» — общее число обслуженных за период. |
+| **ЕГАИС**                   | Единая государственная автоматизированная информационная система учёта алкоголя. Обязательна для всех, кто работает с алкоголем. |
+| **Экспедитор (Expeditor)**  | Сотрудник, координирующий раздачу: контролирует заказы и коммуникацию между кухней и залом. |
+| **FIFO**                    | First In, First Out — принцип складского учёта: первым используется товар с более ранней датой. |
+| **Зал (FOH, Front of House)** | Зоны заведения, доступные гостям: обеденный зал, бар, вход. |
+| **ХАССП (HACCP)**           | Система анализа рисков и критических контрольных точек. Международный стандарт управления пищевой безопасностью, обязательный в РФ. |
+| **KDS**                     | Kitchen Display System — экранная система отображения заказов на кухне. Заменяет бумажные чеки. |
+| **Channel Manager**         | Система централизованного управления доступностью и ценами номеров на всех OTA одновременно. |
+| **Кухня (BOH, Back of House)** | Зоны заведения, скрытые от гостей: кухня, склад, подсобные помещения. |
+| **Медкнижка**               | Личная медицинская книжка установленного образца. Обязательна для всего персонала, контактирующего с пищевыми продуктами, по законодательству РФ. |
+| **Мизансцен (Mise en Place)** | Фр. «всё на своём месте». Подготовка и раскладка всех ингредиентов и инвентаря до начала смены. |
+| **No-show**                 | Бронирование, которое гость не отменил и не пришёл. Потеря выручки для заведения. |
+| **OTA**                     | Online Travel Agency — онлайн-агрегатор бронирования: Booking.com, Ostrovok, Авиасейлс Отели и др. |
+| **Пороговый уровень (Par Level)** | Минимальный остаток запасов, при достижении которого формируется заказ. |
+| **Раздача (Pass)**          | Окно выдачи между кухней и залом. Здесь блюда собираются, проверяются и передаются официантам. |
+| **PMS**                     | Property Management System — система управления отелем: бронирования, заезд/выезд, расчёты, housekeeping. |
+| **POS**                     | Point of Sale — система приёма и обработки заказов в ресторане/кафе. |
+| **RevPAR**                  | Revenue Per Available Room — выручка на доступный номер. RevPAR = ADR × Occupancy. Главный KPI эффективности отеля. |
+| **Резервация**              | Предварительное бронирование столика или номера. |
+| **Росписание (Rostering)**  | Процесс составления графика рабочих смен. |
+| **Оборачиваемость стола (Table Turn)** | Цикл: посадка гостей → обслуживание → уборка стола для следующих гостей. |
+| **Опасная температурная зона** | Диапазон температур (+5°C … +60°C), при которых бактерии размножаются наиболее активно. |
+| **Апселл (Upselling)**      | Предложение гостю более дорогой позиции или дополнительных услуг с целью увеличения чека. |
+| **Выход (Yield)**           | Доля продукта, пригодная к использованию после чистки, термической обработки или разделки. |
+| **Загрузка (Occupancy)**    | Процент занятых номеров от общего номерного фонда отеля за период. |

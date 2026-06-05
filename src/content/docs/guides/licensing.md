@@ -1,74 +1,88 @@
 ---
-title: Licensing & Regulations
-description: Overview of licensing and regulatory requirements for HoReCa businesses.
+title: Лицензирование и регуляторика
+description: Обзор лицензионных и регуляторных требований для предприятий HoReCa в России.
 ---
 
-## Licensing & Regulations
+## Лицензирование и регуляторика
 
-Operating a food and hospitality business requires a range of licences and registrations. Requirements vary by jurisdiction, so always consult your local council and regulatory bodies for specific requirements in your area.
-
-## Business Registration
-
-Before trading, you will typically need to:
-
-- Register your business name
-- Apply for an ABN (Australia) / Company Number / equivalent
-- Register for GST if your annual turnover exceeds the threshold
-- Set up a business bank account
-
-## Food Business Registration
-
-Most jurisdictions require food businesses to register with their local council before commencing operations. Registration requirements typically include:
-
-- Completing an application form
-- Paying an annual registration fee
-- Having premises inspected by an environmental health officer
-
-Notify your local council of any significant changes to your business, such as a change of address, ownership, or nature of business.
-
-## Liquor Licence
-
-If your venue intends to sell or serve alcohol, you must obtain a liquor licence. There are typically several licence categories:
-
-| Licence Type          | Description                                      |
-|-----------------------|--------------------------------------------------|
-| On-premises           | Consumption on-site (restaurants, cafés, bars)   |
-| Club licence          | Not-for-profit clubs                             |
-| Packaged liquor       | Takeaway retail sales                            |
-| Producer/wholesaler   | Manufacturers and distributors                   |
-
-Application processes vary significantly by state/country. Allow several months for approval and involve a legal professional if needed.
-
-## Food Handler Training
-
-Most jurisdictions require food handlers to have completed food safety training. Common certifications include:
-
-- **Food Handler Certificate** — Basic food safety for all food handlers
-- **Food Safety Supervisor Certificate** — Required for at least one person per food premises in many jurisdictions
-
-Ensure certificates are kept up to date and stored on file.
-
-## Employment Law
-
-All employers must comply with relevant employment legislation, including:
-
-- Minimum wage requirements
-- Working hours and overtime provisions
-- Leave entitlements (annual leave, sick leave, parental leave)
-- Anti-discrimination and workplace safety laws
-- Record-keeping and payslip obligations
-
-Consult the relevant Fair Work authority or equivalent in your jurisdiction.
-
-## Health Inspections
-
-Regulatory bodies conduct routine inspections of food premises to ensure compliance. To prepare:
-
-- Maintain all required records (temperature logs, cleaning schedules, HACCP documentation)
-- Ensure staff food safety training certificates are current
-- Keep the premises clean and well-maintained
-- Address any maintenance issues promptly (e.g., damaged equipment, pest entry points)
+Для открытия и работы заведения HoReCa в России требуется ряд разрешений и регистраций. Требования могут отличаться в зависимости от региона — всегда уточняйте актуальные правила в местных контролирующих органах.
 
 :::note
-This page provides general guidance only. Always seek advice from qualified legal or regulatory professionals for your specific circumstances and jurisdiction.
+Эта страница содержит общую информацию. За консультацией по конкретной ситуации обращайтесь к юристам или специалистам по регуляторике.
 :::
+
+## Регистрация бизнеса
+
+Перед началом деятельности необходимо:
+
+- Зарегистрировать ООО или ИП в налоговой инспекции
+- Получить ИНН и ОГРН (ОГРНИП для ИП)
+- Выбрать систему налогообложения (ОСН, УСН, ПСН)
+- Открыть расчётный счёт в банке
+- Встать на учёт в ПФР, ФСС (при наличии сотрудников)
+
+## Уведомление Роспотребнадзора
+
+Перед открытием предприятия общественного питания **обязательно** направить уведомление в Роспотребнадзор о начале деятельности (Постановление Правительства РФ № 584).
+
+Уведомление подаётся через:
+- Лично в территориальный отдел Роспотребнадзора
+- МФЦ
+- Портал Госуслуги
+
+## Лицензия на продажу алкоголя
+
+Если заведение продаёт алкогольную продукцию, требуется лицензия Росалкогольрегулирования.
+
+| Вид лицензии                  | Описание                                               |
+|-------------------------------|--------------------------------------------------------|
+| Розничная продажа (общепит)   | Продажа алкоголя в баре/ресторане для потребления на месте |
+| Розничная продажа (магазин)   | Продажа алкоголя навынос                               |
+| Производство                  | Для производителей алкоголя                            |
+
+Срок оформления лицензии — до 30 рабочих дней. Госпошлина — 65 000 руб. за 1 год. Подробнее: [rosalcohol.ru](https://rosalcohol.ru).
+
+## Санитарные требования к персоналу
+
+Все сотрудники, контактирующие с пищевыми продуктами, обязаны:
+
+- Иметь **личную медицинскую книжку** установленного образца
+- Проходить медицинские осмотры согласно Приказу Минздрава РФ № 302н
+- Пройти **гигиеническое обучение и аттестацию** (санминимум)
+
+## Кассовое оборудование (54-ФЗ)
+
+Все расчёты с покупателями должны проводиться через **онлайн-кассу** по требованиям Федерального закона 54-ФЗ. Касса должна быть:
+
+- Зарегистрирована в ФНС
+- Подключена к оператору фискальных данных (ОФД)
+- Оснащена фискальным накопителем
+
+Подробнее: [раздел Регуляторика → 54-ФЗ](/kb-horeca/regulations/54-fz/).
+
+## ЕГАИС
+
+При работе с алкоголем обязательно подключение к **ЕГАИС** (Единая государственная автоматизированная информационная система учёта алкоголя).
+
+Подробнее: [раздел Регуляторика → ЕГАИС](/kb-horeca/regulations/egais/).
+
+## Трудовое законодательство
+
+Все работодатели обязаны соблюдать требования **Трудового кодекса РФ**:
+
+- Минимальный размер оплаты труда (МРОТ)
+- Режим рабочего времени и нормы переработок
+- Виды отпусков (ежегодный, больничный, декретный)
+- Запрет дискриминации и соблюдение охраны труда
+- Ведение кадровой документации и выдача расчётных листков
+
+По вопросам трудовых споров обращайтесь в **Роструд**: [rostrud.gov.ru](https://rostrud.gov.ru).
+
+## Проверки
+
+Роспотребнадзор проводит плановые и внеплановые проверки предприятий. Для успешного прохождения:
+
+- Ведите все обязательные журналы (температурный контроль, уборка, ХАССП)
+- Обеспечьте актуальность медкнижек персонала
+- Содержите помещение в чистоте и исправном состоянии
+- Оперативно устраняйте технические неисправности

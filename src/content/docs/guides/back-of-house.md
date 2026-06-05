@@ -1,55 +1,55 @@
 ---
-title: Back of House
-description: Procedures and best practices for back-of-house kitchen operations.
+title: Кухня — работа персонала
+description: Процедуры и стандарты работы кухонного персонала в заведениях HoReCa.
 ---
 
-## Back of House Operations
+## Работа кухонного персонала (Back of House)
 
-The back of house (BOH) refers to all areas hidden from guests — primarily the kitchen, storage areas, and staff facilities. Efficient BOH operations are essential for delivering consistent, high-quality food on time.
+Кухня и подсобные помещения — всё, что скрыто от гостей. Эффективная работа кухни — основа стабильного качества блюд и соблюдения сроков подачи.
 
-## Kitchen Organisation
+## Организация кухни
 
-### Mise en Place
+### Мизансцен (Mise en Place)
 
-*Mise en place* (French for "everything in its place") is the practice of preparing and organising all ingredients and equipment before service begins. A strong mise en place reduces stress during service and prevents errors.
+*Mise en place* (фр. «всё на своём месте») — подготовка и раскладка всех ингредиентов и оборудования до начала смены. Хороший мизансцен снижает стресс во время сервиса и предотвращает ошибки.
 
-- Prepare all sauces, stocks, and bases in advance.
-- Pre-portion ingredients where possible.
-- Label all containers with the item name and date prepared.
-- Organise the pass so that it flows logically from order to delivery.
+- Заготовьте все соусы, бульоны и базы заранее.
+- Нарежьте и отпорционируйте ингредиенты там, где это возможно.
+- Маркируйте все контейнеры: название продукта и дата приготовления.
+- Организуйте раздачу так, чтобы маршрут от заказа до выдачи был логичным.
 
-### Station Assignments
+### Распределение станций
 
-Assign clear stations to each team member before service:
+Назначьте каждому сотруднику станцию до начала смены:
 
-| Station       | Responsibility                        |
-|---------------|---------------------------------------|
-| Grill/Fry     | Proteins and fried items              |
-| Sauté         | Pan-cooked dishes and sauces          |
-| Cold/Larder   | Salads, starters, and cold desserts   |
-| Pastry        | Desserts and baked goods              |
-| Expeditor     | Coordinating pass and communicating with FOH |
+| Станция        | Зона ответственности                              |
+|----------------|---------------------------------------------------|
+| Гриль/Фритюр   | Белки, жареные блюда                             |
+| Соте           | Блюда на сковороде, соусы                        |
+| Холодный цех   | Салаты, закуски, холодные десерты                |
+| Кондитерская   | Десерты, выпечка                                 |
+| Экспедитор     | Координация раздачи, коммуникация с залом        |
 
-## Opening the Kitchen
+## Открытие кухни
 
-1. Check the delivery schedule and receive any incoming stock.
-2. Review the day's menu and confirm all ingredients are available.
-3. Brief kitchen staff on specials, 86'd items, and any dietary notes.
-4. Complete temperature checks on refrigerators and freezers and record in the log.
-5. Prepare mise en place for all stations.
+1. Проверьте расписание поставок, примите входящий товар.
+2. Просмотрите меню дня, убедитесь в наличии всех ингредиентов.
+3. Проведите брифинг с кухонным персоналом: спецпредложения, стоп-лист, особые пометки.
+4. Проверьте температуру холодильников и морозильников, зафиксируйте в журнале.
+5. Подготовьте мизансцен на всех станциях.
 
-## During Service
+## Во время сервиса
 
-- Communicate clearly with calls such as "Behind!", "Hot!", and "Corner!" for safety.
-- Call out orders when they are fired and when they are ready for the pass.
-- Monitor ticket times — aim for main courses within **20 minutes** of order.
-- Keep workstations clean and organised throughout service.
+- Общайтесь чётко: «Сзади!», «Горячо!», «Угол!» — для безопасности.
+- Объявляйте заказы при постановке на огонь и при готовности к раздаче.
+- Контролируйте время заказов — основные блюда подавайте в течение **20 минут** после заказа.
+- Держите рабочее место чистым и организованным на протяжении всей смены.
 
-## Closing the Kitchen
+## Закрытие кухни
 
-1. **Deep clean all surfaces** — Use food-safe sanitiser on all benches, chopping boards, and equipment.
-2. **Clean equipment** — Clean grills, fryers, ovens, and other cooking equipment according to manufacturer instructions.
-3. **Store food correctly** — Transfer all prepared food to labelled containers and refrigerate or freeze appropriately.
-4. **Take out rubbish** — Empty all bins and dispose of waste correctly.
-5. **Complete the cleaning schedule** — Sign off all completed tasks.
-6. **Record temperature logs** — Ensure all temperature readings are logged before leaving.
+1. **Генеральная уборка всех поверхностей** — обработайте все столы, разделочные доски и оборудование пищевым дезинфицирующим средством.
+2. **Чистка оборудования** — очистите грили, фритюрницы, духовки и прочую технику согласно инструкциям производителя.
+3. **Правильное хранение еды** — переложите всё приготовленное в маркированные контейнеры, отправьте в холодильник или морозильник.
+4. **Вынос мусора** — опустошите все баки и утилизируйте отходы правильно.
+5. **Заполните журнал уборки** — подпишите все выполненные задачи.
+6. **Занесите температурные показания** — убедитесь, что все показания зафиксированы перед уходом.

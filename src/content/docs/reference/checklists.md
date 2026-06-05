@@ -1,73 +1,73 @@
 ---
-title: Checklists
-description: Quick-reference checklists for daily operations in a HoReCa venue.
+title: Чеклисты
+description: Оперативные чеклисты для ежедневной работы заведения HoReCa.
 ---
 
-## Operational Checklists
+## Операционные чеклисты
 
-Use these checklists to ensure consistent daily operations. Print and laminate them for use at service stations, in the kitchen, and at management workstations.
+Используйте эти чеклисты для стабильной работы заведения день за днём. Распечатайте и заламинируйте их для рабочих станций зала, кухни и рабочего места управляющего.
 
-## Opening Checklist — Front of House
+## Открытие — Зал
 
-- [ ] Check and confirm reservations for the day
-- [ ] Brief all FOH staff on reservations, specials, and 86'd items
-- [ ] Inspect all tables — clean, correctly set, chairs wiped down
-- [ ] Check menus are clean and up to date
-- [ ] Test POS terminals and printers
-- [ ] Stock all service stations (condiments, napkins, cutlery, glassware)
-- [ ] Ensure all lighting is working and set to appropriate level
-- [ ] Check and clean bathrooms
-- [ ] Confirm music/ambiance is set appropriately
+- [ ] Проверить и подтвердить бронирования на день
+- [ ] Провести брифинг с персоналом зала: бронирования, спецпредложения, стоп-лист
+- [ ] Осмотреть все столы — чистые, правильно сервированные, стулья протёрты
+- [ ] Проверить меню — чистые, актуальные
+- [ ] Проверить POS-терминалы и принтеры
+- [ ] Пополнить рабочие станции (соусы, салфетки, приборы, стаканы)
+- [ ] Убедиться в исправности освещения и настроить уровень яркости
+- [ ] Проверить и убрать туалеты
+- [ ] Настроить музыку и атмосферу зала
 
-## Opening Checklist — Kitchen
+## Открытие — Кухня
 
-- [ ] Check temperature logs for overnight refrigeration
-- [ ] Inspect all deliveries and sign off delivery notes
-- [ ] Store incoming stock using FIFO
-- [ ] Brief kitchen staff on menu, specials, and any changes
-- [ ] Complete mise en place for all stations
-- [ ] Confirm all equipment is operational
-- [ ] Check stock levels and request emergency ordering if required
+- [ ] Проверить температурные журналы за ночное время
+- [ ] Принять поставки и подписать накладные
+- [ ] Разместить новый товар по принципу FIFO
+- [ ] Провести брифинг с кухонным персоналом: меню, спецпредложения, изменения
+- [ ] Подготовить мизансцен на всех станциях
+- [ ] Убедиться в исправности всего оборудования
+- [ ] Проверить остатки — при необходимости сделать срочный заказ
 
-## Closing Checklist — Front of House
+## Закрытие — Зал
 
-- [ ] All tables cleared and reset or stripped
-- [ ] Dining room cleaned (floors swept/mopped, surfaces wiped)
-- [ ] POS reconciled and till balanced
-- [ ] Close-down documentation completed
-- [ ] Bathrooms cleaned and restocked
-- [ ] All lights, music, and non-essential equipment turned off
-- [ ] Premises locked and alarm set
+- [ ] Убрать все столы и пересервировать или снять скатерти
+- [ ] Убрать зал (подмести/помыть полы, протереть поверхности)
+- [ ] Закрыть кассу и сверить выручку по POS
+- [ ] Оформить закрывающую документацию смены
+- [ ] Убрать и пополнить туалеты
+- [ ] Выключить освещение, музыку, ненужное оборудование
+- [ ] Запереть помещение, поставить на охрану
 
-## Closing Checklist — Kitchen
+## Закрытие — Кухня
 
-- [ ] All food labelled and stored correctly
-- [ ] All surfaces cleaned and sanitised
-- [ ] Floors swept and mopped
-- [ ] All equipment cleaned (grill, fryer, oven, etc.)
-- [ ] Temperature logs completed
-- [ ] Cleaning schedule signed off
-- [ ] Bins emptied and taken out
-- [ ] All appliances and gas turned off
-- [ ] Cool room and freezer temperatures checked and logged
+- [ ] Промаркировать и правильно убрать все продукты
+- [ ] Убрать и продезинфицировать все поверхности
+- [ ] Подмести и помыть полы
+- [ ] Очистить всё оборудование (гриль, фритюрница, духовка и др.)
+- [ ] Заполнить температурные журналы
+- [ ] Подписать журнал уборки
+- [ ] Вынести мусор
+- [ ] Выключить все приборы и перекрыть газ
+- [ ] Проверить и зафиксировать температуру в холодильной камере и морозильнике
 
-## Daily Food Safety Checklist
+## Ежедневный чеклист пищевой безопасности
 
-- [ ] Fridge temperatures checked and recorded (target: below 5°C)
-- [ ] Freezer temperatures checked and recorded (target: below -18°C)
-- [ ] Hot holding temperatures checked (target: above 60°C)
-- [ ] Date labels checked — remove any items past use-by date
-- [ ] New deliveries inspected and stored correctly
-- [ ] Cleaning tasks completed and signed off
-- [ ] Staff illness check completed — no symptomatic staff handling food
+- [ ] Проверить и записать температуру в холодильниках (норма: ниже +4°C)
+- [ ] Проверить и записать температуру в морозильниках (норма: ниже −18°C)
+- [ ] Проверить температуру горячего хранения (норма: выше +60°C)
+- [ ] Проверить маркировку дат — списать всё с истёкшим сроком
+- [ ] Принять и правильно разместить новые поставки
+- [ ] Выполнить и подписать уборочные задачи
+- [ ] Провести опрос персонала о самочувствии — не допускать к работе с симптомами болезни
 
-## Weekly Management Checklist
+## Еженедельный чеклист управляющего
 
-- [ ] Review stock levels and place orders
-- [ ] Complete or delegate partial stocktake of high-value items
-- [ ] Review staff roster for the coming week
-- [ ] Review sales data and identify trends
-- [ ] Check maintenance issues and follow up on outstanding repairs
-- [ ] Review complaint log and identify recurring issues
-- [ ] Check pest control bait stations
-- [ ] Review waste log and identify opportunities to reduce waste
+- [ ] Оценить остатки и разместить заказы
+- [ ] Провести частичную инвентаризацию высокооборотных позиций
+- [ ] Проверить и утвердить расписание персонала на следующую неделю
+- [ ] Проанализировать данные продаж, выявить тенденции
+- [ ] Проверить технические проблемы, проследить за устранением неисправностей
+- [ ] Просмотреть журнал жалоб, выявить повторяющиеся проблемы
+- [ ] Проверить ловушки от вредителей
+- [ ] Проанализировать журнал потерь, найти возможности для их сокращения

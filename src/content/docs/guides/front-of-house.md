@@ -1,50 +1,50 @@
 ---
-title: Front of House
-description: Procedures and best practices for front-of-house operations in a HoReCa setting.
+title: Зал — работа персонала
+description: Процедуры и стандарты работы персонала зала в заведениях HoReCa.
 ---
 
-## Front of House Operations
+## Работа персонала зала (Front of House)
 
-The front of house (FOH) encompasses all areas that guests interact with directly — the dining room, bar, reception, and entrance. A well-run FOH creates a positive first impression and ensures guests have an excellent experience.
+Зал — всё, с чем гость контактирует напрямую: обеденный зал, бар, рецепция, вход. Правильно выстроенная работа зала формирует первое впечатление и обеспечивает положительный опыт гостя.
 
-## Opening Procedures
+## Процедуры открытия
 
-Before service begins, complete the following steps:
+Перед началом смены выполните следующие шаги:
 
-1. **Inspect the dining room** — Check that all tables are set correctly, chairs are clean, and the floor is swept.
-2. **Review reservations** — Check the booking system and brief staff on table allocations and any special requests.
-3. **Check menus** — Ensure printed menus are clean and up to date. Brief staff on daily specials and any items that are unavailable.
-4. **Test equipment** — Confirm POS terminals, printers, and payment devices are operational.
-5. **Prepare service stations** — Stock condiments, napkins, cutlery, and glassware at service stations.
-6. **Pre-shift meeting** — Hold a brief staff meeting to communicate reservations, specials, and any important information.
+1. **Осмотрите зал** — все столы сервированы корректно, стулья чистые, пол подметён.
+2. **Проверьте бронирования** — просмотрите систему резервации, проведите брифинг с распределением столов и особыми пожеланиями гостей.
+3. **Проверьте меню** — распечатанные меню чистые, актуальные. Сообщите персоналу о блюдах дня и стоп-листе.
+4. **Проверьте оборудование** — POS-терминалы, принтеры, платёжные устройства работают.
+5. **Подготовьте рабочие станции** — пополните запасы соусов, салфеток, приборов, стаканов.
+6. **Проведите предсменный брифинг** — кратко сообщите персоналу о бронированиях, спецпредложениях и важных вопросах.
 
-## Service Standards
+## Стандарты сервиса
 
-### Greeting Guests
+### Приветствие гостей
 
-- Acknowledge guests within **30 seconds** of their arrival.
-- Use a warm, friendly greeting: "Good evening, welcome to [Venue Name]. Do you have a reservation?"
-- If there is a wait, provide an honest estimate and offer alternatives (e.g., waiting at the bar).
+- Приветствуйте гостей в течение **30 секунд** после появления.
+- Тёплое приветствие: «Добрый вечер, добро пожаловать в [название заведения]. Вы бронировали столик?»
+- Если есть ожидание — честно назовите время и предложите альтернативу (например, подождать за баром).
 
-### Table Service
+### Обслуживание за столом
 
-- Take orders accurately and confirm any dietary requirements or allergies.
-- Deliver food and beverages promptly and in the correct order.
-- Check back with the table **within 2 minutes** of food being delivered.
-- Clear empty plates and glasses promptly without being intrusive.
+- Принимайте заказ точно, уточняйте диетические требования и аллергии.
+- Приносите еду и напитки своевременно, в правильной последовательности.
+- Проверяйте гостя **в течение 2 минут** после подачи блюда.
+- Убирайте пустые тарелки и стаканы своевременно, не навязчиво.
 
-### Handling Complaints
+### Работа с жалобами
 
-1. Listen to the guest without interrupting.
-2. Apologise sincerely, even if you are not at fault.
-3. Offer a solution — replacement dish, refund, or discount.
-4. Escalate to a manager if necessary.
-5. Follow up to ensure the guest is satisfied.
+1. Выслушайте гостя без перебиваний.
+2. Искренне извинитесь — даже если вы не виноваты.
+3. Предложите решение: замену блюда, возврат средств или скидку.
+4. Привлеките управляющего при необходимости.
+5. Убедитесь, что гость удовлетворён.
 
-## Closing Procedures
+## Процедуры закрытия
 
-1. **Reset tables** — Clear and re-set all tables for the next service.
-2. **Clean the dining room** — Vacuum or sweep floors, wipe down surfaces.
-3. **Cash up** — Reconcile the POS and count the till.
-4. **Complete the close-down checklist** — Record any incidents or maintenance issues.
-5. **Secure the premises** — Lock all entry points and set the alarm.
+1. **Пересервируйте столы** — уберите и накройте заново для следующей смены.
+2. **Уберите зал** — подметите/помойте полы, протрите поверхности.
+3. **Закройте кассу** — сверьте POS и пересчитайте выручку.
+4. **Заполните документацию** — зафиксируйте инциденты и замечания по техническому обслуживанию.
+5. **Закройте помещение** — заприте все входы, поставьте на охрану.

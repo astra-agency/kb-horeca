@@ -1,83 +1,86 @@
 ---
-title: Food Safety Standards
-description: HACCP principles, allergen management, and food safety requirements for HoReCa businesses.
+title: Стандарты пищевой безопасности
+description: Принципы ХАССП, управление аллергенами и требования пищевой безопасности для предприятий HoReCa.
 ---
 
-## Food Safety Standards
+## Стандарты пищевой безопасности
 
-All food businesses are legally required to implement food safety practices that prevent foodborne illness. Failure to comply can result in fines, closure, and serious harm to guests.
+Все предприятия общественного питания обязаны соблюдать требования пищевой безопасности для предотвращения пищевых отравлений. Нарушения влекут штрафы, приостановку деятельности и вред здоровью гостей.
 
-## HACCP Principles
+Основные нормативные документы: **СанПиН 2.3/2.4.3590-20**, **ТР ТС 021/2011 «О безопасности пищевой продукции»**.
 
-**HACCP** (Hazard Analysis and Critical Control Points) is the internationally recognised framework for food safety management. It consists of seven principles:
+## Принципы ХАССП
 
-1. **Conduct a hazard analysis** — Identify biological, chemical, and physical hazards at each stage of food preparation.
-2. **Identify Critical Control Points (CCPs)** — Determine which steps are critical to preventing hazards (e.g., cooking temperature, refrigeration).
-3. **Establish critical limits** — Set measurable limits for each CCP (e.g., core temperature of 75°C for cooked poultry).
-4. **Establish monitoring procedures** — Define how and how often each CCP will be monitored.
-5. **Establish corrective actions** — Define what to do when a CCP is not within its critical limit.
-6. **Establish verification procedures** — Confirm that the HACCP system is working effectively.
-7. **Establish record-keeping** — Maintain documentation of all monitoring and corrective actions.
+**ХАССП** (Hazard Analysis and Critical Control Points / Анализ рисков и критические контрольные точки) — международно признанная система управления пищевой безопасностью. Состоит из семи принципов:
 
-## Temperature Control
+1. **Анализ опасностей** — выявите биологические, химические и физические угрозы на каждом этапе приготовления.
+2. **Определение критических контрольных точек (ККТ)** — определите, какие этапы критически важны для предотвращения угроз (например, температура приготовления, охлаждение).
+3. **Установка критических пределов** — задайте измеримые параметры для каждой ККТ (например, температура внутри готовой птицы — не менее 85°C).
+4. **Система мониторинга** — определите, как и как часто контролируется каждая ККТ.
+5. **Корректирующие действия** — определите, что делать при выходе ККТ за критические пределы.
+6. **Верификация** — подтвердите, что система ХАССП работает эффективно.
+7. **Ведение документации** — фиксируйте все результаты мониторинга и корректирующих действий.
 
-Temperature is one of the most critical factors in food safety. Bacteria multiply rapidly in the **Temperature Danger Zone: 5°C to 60°C**.
+## Температурный контроль
 
-| Food State        | Safe Temperature      |
-|-------------------|-----------------------|
-| Refrigerated food | Below 5°C             |
-| Frozen food       | Below -18°C           |
-| Hot holding       | Above 60°C            |
-| Cooked poultry    | Core temp ≥ 75°C      |
-| Cooked mince      | Core temp ≥ 75°C      |
-| Whole cuts        | Core temp ≥ 63°C      |
+Температура — один из важнейших факторов пищевой безопасности. Бактерии активно размножаются в **опасной температурной зоне: от +5°C до +60°C**.
 
-## Allergen Management
+| Состояние продукта    | Безопасная температура     |
+|-----------------------|----------------------------|
+| Охлаждённые продукты  | Ниже +4°C                  |
+| Замороженные продукты | Ниже −18°C                 |
+| Горячее хранение      | Выше +60°C                 |
+| Готовая птица         | Внутри не менее +85°C      |
+| Фарш                  | Внутри не менее +85°C      |
+| Куски мяса цельные    | Внутри не менее +72°C      |
 
-The **14 major allergens** that must be declared are:
+## Управление аллергенами
 
-1. Celery
-2. Cereals containing gluten (wheat, rye, barley, oats)
-3. Crustaceans
-4. Eggs
-5. Fish
-6. Lupin
-7. Milk
-8. Molluscs
-9. Mustard
-10. Peanuts
-11. Sesame
-12. Soybeans
-13. Sulphur dioxide / sulphites
-14. Tree nuts
+Согласно **ТР ТС 022/2011**, при реализации блюд необходимо информировать потребителей о наличии следующих аллергенов:
 
-### Allergen Procedures
+1. Глютенсодержащие злаки (пшеница, рожь, ячмень, овёс)
+2. Ракообразные
+3. Яйца
+4. Рыба
+5. Арахис
+6. Соя
+7. Молоко (включая лактозу)
+8. Орехи (грецкий, кешью, пекан, бразильский, фисташки, миндаль, фундук, макадамия)
+9. Сельдерей
+10. Горчица
+11. Кунжут
+12. Диоксид серы / сульфиты (при содержании более 10 мг/кг)
+13. Люпин
+14. Моллюски
 
-- Train all staff to identify allergens in menu items.
-- Maintain an up-to-date allergen matrix for your menu.
-- When a guest declares an allergy, inform the kitchen and use a dedicated allergen order process.
-- Avoid cross-contamination by using separate equipment and preparation areas.
+### Процедуры работы с аллергенами
 
-## Personal Hygiene
+- Обучите весь персонал определять аллергены в блюдах меню.
+- Ведите актуальную матрицу аллергенов по каждому блюду.
+- Когда гость сообщает об аллергии — немедленно оповестите кухню и используйте отдельный процесс обработки заказа.
+- Исключите перекрёстное загрязнение: отдельный инвентарь и зоны приготовления.
 
-All food handlers must:
+## Личная гигиена персонала
 
-- Wash hands thoroughly for at least 20 seconds with soap and warm water:
-  - Before handling food
-  - After handling raw meat
-  - After using the toilet
-  - After sneezing, coughing, or blowing their nose
-- Not work when ill with symptoms including diarrhoea, vomiting, or sore throat with fever.
-- Keep nails short and clean.
-- Tie back hair and use a hat or hairnet in food preparation areas.
-- Not wear jewellery (other than a plain wedding band) in food preparation areas.
+Все сотрудники, работающие с пищевой продукцией, обязаны:
 
-## Record Keeping
+- Мыть руки тщательно не менее 20 секунд с мылом и тёплой водой:
+  - Перед работой с продуктами
+  - После работы с сырым мясом
+  - После посещения туалета
+  - После кашля, чихания, высмаркивания
+- Не работать при симптомах болезни: диарея, рвота, высокая температура.
+- Коротко стричь и содержать ногти в чистоте.
+- Убирать волосы под головной убор или сетку в зонах приготовления пищи.
+- Не носить украшения в зонах приготовления пищи.
+- Иметь действующую **личную медицинскую книжку** (обязательно по законодательству РФ).
 
-Maintain the following records:
+## Документооборот
 
-- Temperature logs (fridges, freezers, cooking, hot holding)
-- Cleaning schedules
-- Delivery records
-- Staff food safety training certificates
-- Pest control records
+Ведите следующие журналы:
+
+- Температурные журналы (холодильники, морозильники, приготовление, горячее хранение)
+- Журналы уборки и дезинфекции
+- Журналы приёмки товара
+- Медицинские книжки сотрудников
+- Журналы дезинсекции и дератизации
