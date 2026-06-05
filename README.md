@@ -1,80 +1,93 @@
-# база знаний про ИТ сервисы для HoReCa
+# HoReCa KB — База знаний для отелей и ресторанов
 
-A knowledge base for the **HoReCa** (Hotels, Restaurants, and Cafés) industry, built with [Astro](https://astro.build/) and [Starlight](https://starlight.astro.build/).
+Публичная база знаний по управлению и автоматизации для индустрии HoReCa (отели, рестораны, кафе).
 
-## Getting Started
+**Сайт:** [kb-horeca.site](http://kb-horeca.site/)
 
-### Prerequisites
+---
 
-- [Node.js](https://nodejs.org/) v18 or higher
-- npm v7 or higher
+## О проекте
 
-### Installation
+База знаний охватывает два направления:
+
+**Управление и операции** — практические статьи для владельцев и управляющих:
+- Отели: управление доходом (RevPAR, ADR, тарифная политика, работа с OTA), персонал, гостевой опыт, операции
+- Рестораны: меню и экономика (инжиниринг меню, food cost), персонал, оборачиваемость столов, работа с гостями
+
+**IT-сервисы** — обзоры систем автоматизации:
+- PMS для отелей: TravelLine, Bnovo, Контур.Отель, Saby Hotel, Logus HMS, MaxiBooking
+- POS для ресторанов: iiko, r_keeper, Poster
+- Channel Manager, онлайн-бронирование, репутационный менеджмент, CRM, программы лояльности
+
+**Кейсы внедрений** — 16 практических кейсов автоматизации:
+- CRM и продажи, лояльность и гостевой опыт, онлайн-бронирование, автоматизация HR/маркетинга/юрслужбы, мобильные решения
+
+---
+
+## Ключевые разделы
+
+| Раздел | URL |
+|---|---|
+| Главная | [kb-horeca.site](http://kb-horeca.site/) |
+| Отели — управление доходом | [/hotels/revenue/](http://kb-horeca.site/hotels/revenue/) |
+| Отели — персонал | [/hotels/staff/](http://kb-horeca.site/hotels/staff/) |
+| Отели — гостевой опыт | [/hotels/guest-experience/](http://kb-horeca.site/hotels/guest-experience/) |
+| Рестораны — меню | [/restaurants/menu/](http://kb-horeca.site/restaurants/menu/) |
+| PMS — системы управления | [/hotels/pms/](http://kb-horeca.site/hotels/pms/) |
+| POS — кассовые системы | [/restaurants/pos/](http://kb-horeca.site/restaurants/pos/) |
+| Кейсы внедрений | [/cases/](http://kb-horeca.site/cases/) |
+| Сервисы — обзор | [/services/](http://kb-horeca.site/services/) |
+
+---
+
+## Технологии
+
+- [Astro 6.4.4](https://astro.build/) + [Starlight 0.39.3](https://starlight.astro.build/)
+- Деплой: GitHub Pages via GitHub Actions
+- Язык: ru-RU
+
+---
+
+## Локальная разработка
 
 ```bash
 npm install
+npm run dev      # http://localhost:4321/
+npm run build    # сборка в dist/
+npm run preview  # превью сборки
 ```
 
-### Development
+---
 
-Start the local development server:
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:4321](http://localhost:4321) in your browser.
-
-### Build
-
-Build the site for production:
-
-```bash
-npm run build
-```
-
-The output will be in the `dist/` directory.
-
-### Preview
-
-Preview the production build locally:
-
-```bash
-npm run preview
-```
-
-## Project Structure
+## Структура проекта
 
 ```
 kb-horeca/
-├── astro.config.mjs        # Astro + Starlight configuration
-├── package.json
-├── tsconfig.json
-├── public/
-│   └── favicon.svg
-└── src/
-    ├── content.config.ts
-    └── content/
-        └── docs/
-            ├── index.mdx           # Home page
-            ├── guides/
-            │   ├── quick-start.md
-            │   ├── front-of-house.md
-            │   ├── back-of-house.md
-            │   ├── inventory.md
-            │   ├── staff.md
-            │   ├── food-safety.md
-            │   ├── health-hygiene.md
-            │   └── licensing.md
-            └── reference/
-                ├── glossary.md
-                └── checklists.md
+├── astro.config.mjs              # Конфиг Astro + Starlight (sidebar, домен)
+├── src/content/docs/
+│   ├── index.mdx                 # Главная страница
+│   ├── hotels/                   # Отели
+│   │   ├── revenue/              # Управление доходом (6 статей)
+│   │   ├── staff/                # Персонал (4 статьи)
+│   │   ├── guest-experience/     # Гостевой опыт (5 статей)
+│   │   ├── operations/           # Операции (4 статьи)
+│   │   └── pms/                  # PMS-системы (7 систем + сравнение)
+│   ├── restaurants/              # Рестораны
+│   │   ├── menu/                 # Меню и экономика (5 статей)
+│   │   ├── staff/                # Персонал (3 статьи)
+│   │   ├── operations/           # Операции (4 статьи)
+│   │   ├── guest-experience/     # Гостевой опыт (4 статьи)
+│   │   └── pos/                  # POS-системы (3 системы + сравнение)
+│   ├── cases/                    # Кейсы внедрений (16 кейсов)
+│   └── services/                 # Сводные таблицы и матрица выбора
+├── docs/                         # Проектная документация
+└── .github/workflows/deploy.yml  # GitHub Actions деплой
 ```
 
-## Content
+---
 
-The knowledge base covers:
+## Контент
 
-- **Operations** — Front of house, back of house, inventory, and staff management
-- **Compliance & Safety** — Food safety (HACCP), health & hygiene, and licensing
-- **Reference** — Glossary and operational checklists
+**~70 страниц** на русском языке. Целевая аудитория — владельцы и управляющие объектов HoReCa.
+
+Обновление: июнь 2026.
