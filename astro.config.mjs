@@ -14,9 +14,9 @@ export default defineConfig({
           lang: 'ru',
         },
       },
-      social: {
-        github: 'https://github.com/astra-agency/kb-horeca',
-      },
+      social: [
+        { icon: 'github', label: 'GitHub', href: 'https://github.com/astra-agency/kb-horeca' },
+      ],
       head: [
         {
           tag: 'script',
