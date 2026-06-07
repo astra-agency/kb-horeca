@@ -2,7 +2,7 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
 export default defineConfig({
-  site: 'http://kb-horeca.site',
+  site: 'https://kb-horeca.site',
   integrations: [
     starlight({
       title: 'HoReCa KB',
@@ -14,7 +14,9 @@ export default defineConfig({
           lang: 'ru',
         },
       },
-      social: [],
+      social: {
+        github: 'https://github.com/astra-agency/kb-horeca',
+      },
       head: [
         {
           tag: 'script',

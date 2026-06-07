@@ -2,7 +2,7 @@
 
 Публичная база знаний по управлению и автоматизации для индустрии HoReCa (отели, рестораны, кафе).
 
-**Сайт:** [kb-horeca.site](http://kb-horeca.site/)
+**Сайт:** [kb-horeca.site](https://kb-horeca.site/)
 
 ---
 
@@ -28,15 +28,15 @@
 
 | Раздел | URL |
 |---|---|
-| Главная | [kb-horeca.site](http://kb-horeca.site/) |
-| Отели — управление доходом | [/hotels/revenue/](http://kb-horeca.site/hotels/revenue/) |
-| Отели — персонал | [/hotels/staff/](http://kb-horeca.site/hotels/staff/) |
-| Отели — гостевой опыт | [/hotels/guest-experience/](http://kb-horeca.site/hotels/guest-experience/) |
-| Рестораны — меню | [/restaurants/menu/](http://kb-horeca.site/restaurants/menu/) |
-| PMS — системы управления | [/hotels/pms/](http://kb-horeca.site/hotels/pms/) |
-| POS — кассовые системы | [/restaurants/pos/](http://kb-horeca.site/restaurants/pos/) |
-| Кейсы внедрений | [/cases/](http://kb-horeca.site/cases/) |
-| Сервисы — обзор | [/services/](http://kb-horeca.site/services/) |
+| Главная | [kb-horeca.site](https://kb-horeca.site/) |
+| Отели — управление доходом | [/hotels/revenue/](https://kb-horeca.site/hotels/revenue/) |
+| Отели — персонал | [/hotels/staff/](https://kb-horeca.site/hotels/staff/) |
+| Отели — гостевой опыт | [/hotels/guest-experience/](https://kb-horeca.site/hotels/guest-experience/) |
+| Рестораны — меню | [/restaurants/menu/](https://kb-horeca.site/restaurants/menu/) |
+| PMS — системы управления | [/hotels/pms/](https://kb-horeca.site/hotels/pms/) |
+| POS — кассовые системы | [/restaurants/pos/](https://kb-horeca.site/restaurants/pos/) |
+| Кейсы внедрений | [/cases/](https://kb-horeca.site/cases/) |
+| Сервисы — обзор | [/services/](https://kb-horeca.site/services/) |
 
 ---
 
