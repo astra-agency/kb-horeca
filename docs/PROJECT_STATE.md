@@ -1,8 +1,8 @@
 # Текущее состояние проекта
 
-**Версия:** 1.0-rc (release candidate)
-**Дата обновления:** 2026-06-05 (сессия 4)
-**Ветка:** `feature/restructure-horeca-kb`
+**Версия:** 1.0
+**Дата обновления:** 2026-06-05 (сессия 5)
+**Ветка:** `main` (задеплоено)
 
 ---
 
@@ -10,9 +10,12 @@
 
 | Что | Статус |
 |---|---|
-| Локальная разработка (`npm run dev`) | ✅ `http://localhost:4321/kb-horeca/` |
+| Локальная разработка (`npm run dev`) | ✅ `http://localhost:4321/` |
 | Сборка (`npm run build`) | ✅ YAML-ошибки исправлены |
-| GitHub Actions workflow (`deploy.yml`) | ✅ Создан |
+| GitHub Actions workflow (`deploy.yml`) | ✅ Запущен, main задеплоен |
+| **Домен kb-horeca.site** | ⏳ DNS/Pages custom domain не настроен |
+| **Яндекс Метрика (109685688)** | ✅ Добавлена в head |
+| **README.md** | ✅ Переписан |
 | Главная страница (ru) | ✅ |
 | **Sidebar: вложенная структура** | ✅ Отели/Рестораны → подгруппы |
 | **Отели — нетехнический контент** | ✅ 4 подраздела, ~28 страниц |
@@ -43,8 +46,7 @@
 
 | Что | Приоритет | Примечание |
 |---|---|---|
-| Деплой на GitHub Pages | Высокий | Нужно включить Pages в настройках репо |
-| Merge в main | Высокий | Ветка `feature/restructure-horeca-kb` не смержена |
+| DNS + custom domain kb-horeca.site | Высокий | CNAME + Pages settings |
 | Автопортье | Средний | Страница не создана |
 | HotelCloud | Средний | Страница не создана |
 | Перелинковка кейсов (оставшиеся статьи) | Средний | ~15+ статей без «Кейсы по теме» |
@@ -72,11 +74,9 @@
 
 ---
 
-## Как задеплоить v1
+## Как подключить кастомный домен
 
-1. `git add -A && git commit -m "feat: add cases section (16 articles), restructure sidebar, cross-link KB articles"`
-2. `git checkout main && git merge feature/restructure-horeca-kb`
-3. `git push origin main`
-4. GitHub → Settings → Pages → Source → GitHub Actions → Save
-5. Дождаться выполнения Actions (~2 мин)
-6. Открыть `https://astra-agency.github.io/kb-horeca/`
+1. GitHub → репо → **Settings → Pages → Source → GitHub Actions → Save**
+2. Custom domain → `kb-horeca.site` → Save
+3. DNS у регистратора: CNAME `kb-horeca.site` → `astra-agency.github.io`
+4. Дождаться DNS propagation → открыть `https://kb-horeca.site/`

@@ -13,7 +13,7 @@
 | Генератор | Astro 6.4.4 |
 | Тема | @astrojs/starlight 0.39.3 |
 | Деплой | GitHub Pages via GitHub Actions |
-| Домен | https://astra-agency.github.io/kb-horeca/ |
+| Домен | https://kb-horeca.site/ |
 | Язык контента | ru-RU |
 
 ## Структура контента
@@ -116,8 +116,7 @@ src/content/docs/
 ## Репозиторий
 
 - GitHub: `git@github.com:astra-agency/kb-horeca.git`
-- Основная ветка: `main`
-- Рабочая ветка: `feature/restructure-horeca-kb`
+- Основная ветка: `main` (задеплоена)
 
 ## Деплой
 
@@ -128,7 +127,7 @@ Push в `main` → GitHub Actions → `npm run build` → GitHub Pages.
 ## Команды
 
 ```bash
-npm run dev      # Локалка: http://localhost:4321/kb-horeca/
+npm run dev      # Локалка: http://localhost:4321/
 npm run build    # Сборка в dist/
 npm run preview  # Превью сборки
 ```

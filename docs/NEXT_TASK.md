@@ -1,27 +1,16 @@
 # Следующие задачи
 
-## Сейчас (готово к деплою)
+## Сейчас
 
-Ветка `feature/restructure-horeca-kb` содержит полную v1 KB с кейсами и перелинковкой.
+`main` запушен. Сайт задеплоен на GitHub Pages. Осталось активировать кастомный домен.
 
-### Шаги для выпуска v1
+### Включить кастомный домен kb-horeca.site
 
-```bash
-# 1. Закоммитить всё
-git add -A
-git commit -m "feat: add cases section (16 articles), restructure sidebar, cross-link KB articles"
-
-# 2. Смержить в main
-git checkout main
-git merge feature/restructure-horeca-kb
-
-# 3. Запушить
-git push origin main
-```
-
-Затем вручную:
-- GitHub → Settings → Pages → Source → **GitHub Actions** → Save
-- Подождать ~2 минуты → открыть `https://astra-agency.github.io/kb-horeca/`
+1. GitHub → репо `kb-horeca` → **Settings → Pages**
+2. Source → **GitHub Actions**
+3. Custom domain → `kb-horeca.site` → Save
+4. DNS у регистратора: CNAME `kb-horeca.site` → `astra-agency.github.io`
+5. Дождаться DNS propagation (~10–60 мин) → открыть `https://kb-horeca.site/`
 
 ---
 
@@ -29,22 +18,20 @@ git push origin main
 
 ### Высокий
 
-- [ ] **Деплой v1** — merge + push + включить Pages
+- [ ] **DNS + Pages custom domain** — см. шаги выше
 
 ### Средний
 
-- [ ] **Автопортье** — PMS для малых отелей, создать `hotels/pms/avtoportye.md` + sidebar
-- [ ] **HotelCloud** — облачная PMS, создать `hotels/pms/hotelcloud.md` + sidebar
+- [ ] **Автопортье** — PMS для малых отелей, создать `hotels/pms/avtoportye.md` + добавить в sidebar
+- [ ] **HotelCloud** — облачная PMS, создать `hotels/pms/hotelcloud.md` + добавить в sidebar
 - [ ] **Обновить PMS comparison table** в `hotels/pms/index.md` — добавить Автопортье и HotelCloud
-- [ ] **Перелинковка кейсов**: охвачено 11 статей; проверить оставшиеся (revenue/revpar, menu/food-cost, staff/service-standards и т.д.)
-- [ ] **Обновить `docs/`** — привести project-overview.md в соответствие с реальной структурой папок
+- [ ] **Перелинковка кейсов**: добавить «Кейсы по теме» в оставшиеся статьи (revenue/revpar, menu/food-cost, staff/service-standards и др.)
 
 ### Низкий
 
 - [ ] **EN-заглушки** — заполнить или убрать из sidebar: `guides/quick-start`, `guides/front-of-house`, `guides/back-of-house`, `guides/inventory`, `guides/staff`, `guides/food-safety`, `guides/health-hygiene`, `guides/licensing`, `reference/glossary`, `reference/checklists`
-- [ ] **Даты последней проверки** на страницах с ценами (цены меняются)
+- [ ] **Даты последней проверки** на страницах с ценами
 - [ ] **Glossary (ru)** — термины HoReCa: PMS, CM, OTA, POS, KDS, RevPAR, ADR и т.д.
-- [ ] **Аналитика** — подключить Umami или Plausible
 
 ---
 
