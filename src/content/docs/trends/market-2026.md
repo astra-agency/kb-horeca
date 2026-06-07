@@ -1,6 +1,6 @@
 ---
 title: Рынок HoReCa IT в России — 2025–2026
-description: Объём рынка, ключевые игроки, тренды цифровизации HoReCa в России
+description: Объём рынка, ключевые игроки, тренды информатизации HoReCa в России
 ---
 
 ## Объём рынка
@@ -77,6 +77,6 @@ description: Объём рынка, ключевые игроки, тренды 
 
 ## Источники
 
-- TAdviser: обзор рынка цифровизации HoReCa
+- TAdviser: обзор рынка информатизации HoReCa
 - Barneo: HoReCa Future Day 2026
 - McKinsey: Restaurant analytics impact study
