@@ -7,29 +7,7 @@ export default defineConfig({
     starlight({
       title: 'HoReCa KB',
       description: 'База знаний по ИТ-сервисам для HoReCa',
-      defaultLocale: 'root',
-      locales: {
-        root: {
-          label: 'Русский',
-          lang: 'ru',
-        },
-      },
-      social: [
-        { icon: 'github', label: 'GitHub', href: 'https://github.com/astra-agency/kb-horeca' },
-      ],
-      editLink: {
-        baseUrl: 'https://github.com/astra-agency/kb-horeca/edit/main/',
-      },
-      head: [
-        {
-          tag: 'script',
-          content: `(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,'script','https://mc.yandex.ru/metrika/tag.js?id=109685688','ym');ym(109685688,'init',{ssr:true,webvisor:true,clickmap:true,ecommerce:"dataLayer",referrer:document.referrer,url:location.href,accurateTrackBounce:true,trackLinks:true});`,
-        },
-        {
-          tag: 'noscript',
-          content: '<div><img src="https://mc.yandex.ru/watch/109685688" style="position:absolute; left:-9999px;" alt="" /></div>',
-        },
-      ],
+      favicon: '/favicon.png',
       sidebar: [
         {
           label: 'Главная',
@@ -262,6 +240,30 @@ export default defineConfig({
             { label: 'Глоссарий', slug: 'reference/glossary' },
             { label: 'Чеклисты', slug: 'reference/checklists' },
           ],
+        },
+      ],
+
+      defaultLocale: 'root',
+      locales: {
+        root: {
+          label: 'Русский',
+          lang: 'ru',
+        },
+      },
+      social: [
+        { icon: 'github', label: 'GitHub', href: 'https://github.com/astra-agency/kb-horeca' },
+      ],
+      editLink: {
+        baseUrl: 'https://github.com/astra-agency/kb-horeca/edit/main/',
+      },
+      head: [
+        {
+          tag: 'script',
+          content: `(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();for(var j=0;j<document.scripts.length;j++){if(document.scripts[j].src===r){return;}}k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window,document,'script','https://mc.yandex.ru/metrika/tag.js?id=109685688','ym');ym(109685688,'init',{ssr:true,webvisor:true,clickmap:true,ecommerce:"dataLayer",referrer:document.referrer,url:location.href,accurateTrackBounce:true,trackLinks:true});`,
+        },
+        {
+          tag: 'noscript',
+          content: '<div><img src="https://mc.yandex.ru/watch/109685688" style="position:absolute; left:-9999px;" alt="" /></div>',
         },
       ],
     }),
