@@ -1,21 +1,12 @@
 ---
-title: Гостевой опыт в ресторане
-description: Постоянные гости, работа с жалобами и создание атмосферы в ресторане.
+title: Restaurant Guest Experience
+description: Building regular guest relationships, complaint handling, and atmosphere management for restaurants.
 ---
 
-Гостевой опыт — это не только еда. Атмосфера, сервис и ощущение «меня здесь знают» — вот что возвращает гостей.
+Guest experience in restaurants goes beyond food quality. This section covers how to build loyalty, handle problems, and create an atmosphere guests return to.
 
-## Статьи раздела
+## Topics
 
-| Тема | Уровень |
-|---|---|
-| [Постоянные гости: как узнавать и запоминать](/restaurants/guest-experience/regular-guests/) | Практический |
-| [Работа с жалобами в ресторане](/restaurants/guest-experience/complaints/) | Операционный |
-| [Атмосфера и концепция ресторана](/restaurants/guest-experience/atmosphere/) | Стратегический |
-
-## Ключевые факты
-
-- Постоянный гость тратит на **67% больше** за визит, чем новый
-- **91%** людей с большей вероятностью вернутся туда, где их помнят
-- Гость с правильно обработанной жалобой нередко лоялен **больше**, чем тот, у кого не было проблем (service recovery paradox)
-- Правильно подобранная музыка увеличивает выручку ресторана на **9%**
+- [Regular Guests](regular-guests)
+- [Complaint Handling](complaints)
+- [Atmosphere](atmosphere)

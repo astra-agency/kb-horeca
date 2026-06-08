@@ -1,24 +1,12 @@
 ---
-title: Операции и загрузка ресторана
-description: Оборачиваемость столов, управление бронированием и организация банкетов.
+title: Restaurant Operations
+description: Table turnover optimization, reservation management, and banquet and event planning for restaurants.
 ---
 
-Операционная эффективность ресторана — это баланс между скоростью обслуживания и качеством гостевого опыта.
+Operational efficiency determines how many guests you can serve and how consistently. This section covers the core operational workflows in a restaurant.
 
-## Статьи раздела
+## Topics
 
-| Тема | Уровень |
-|---|---|
-| [Оборачиваемость столов: как увеличить без ущерба](/restaurants/operations/table-turnover/) | Операционный |
-| [Бронирование без систем автоматизации](/restaurants/operations/reservations/) | Операционный |
-| [Банкеты и корпоративы: продажа и организация](/restaurants/operations/banquets/) | Стратегический |
-
-## Оборачиваемость по типам заведений
-
-| Тип | Норма за вечер | Время за столом |
-|---|---|---|
-| Fine dining | 1–1.5 оборота | ~2 часа |
-| Casual dining | 2–3 оборота | ~1 ч 15 мин |
-| Fast casual | 4–6 оборотов | ~30–45 минут |
-
-Цель — устранить мёртвое время (ожидание меню, задержки, долгий расчёт), а не торопить гостя.
+- [Table Turnover](table-turnover)
+- [Reservations](reservations)
+- [Banquets & Events](banquets)

@@ -1,121 +1,122 @@
 ---
-title: "Сезонность: стратегии заполнения в низкий сезон"
-description: Как заполнять отель в межсезонье — пересегментирование спроса, пакетные предложения, динамическое ценообразование без RMS.
+title: "Seasonality: Strategies for the Low Season"
+description: How to fill rooms during the off-season — segmentation, packaging, channel tactics, and a manual revenue management cadence without RMS software.
 ---
 
-## Три сезона, которые нужно видеть одновременно
+> **Series:** Hotels — Revenue & Demand Management
+> **Level:** Practical
+> **Audience:** Hotel GMs, sales directors, property owners
 
-Индустрия гостеприимства работает в трёх режимах: **пик** (высокий спрос, максимальные цены), **плечо** (переходный период, умеренный спрос) и **провал** (низкий сезон, минимальная загрузка). Большинство отельеров планируют пик — и выживают в провал. Умные — строят выручку в плечо и превращают провал в точку роста.
+## Three Seasons You Need to See Simultaneously
 
-> Понятие «низкий сезон» индивидуально. Для горнолыжного курорта это лето, для пляжного отеля — зима, для городского бизнес-отеля — выходные и августовский штиль.
+The hospitality industry operates in three modes: **peak** (high demand, premium rates), **shoulder** (transitional periods, moderate demand), and **trough** (low season, minimal occupancy). Most hoteliers plan for the peak — and survive the trough. Smart operators build revenue in the shoulder and turn the slow season into a growth opportunity.
 
----
-
-## Ошибка №1: Резать цены
-
-Снижение цены до минимума в низкий сезон — ловушка. Вы обучаете гостей ждать скидок, размываете бренд и разрушаете RevPAR.
-
-**Вместо «дешевле» — думайте «ценнее».**
+> Keep in mind: "low season" is property-specific. For a ski resort it's summer; for a beach hotel it's winter; for an urban business hotel it's weekends and the August lull.
 
 ---
 
-## 1. Пересегментирование спроса
+## The #1 Mistake: Slashing Rates First
 
-В низкий сезон ваши обычные гости не приедут. Найдите тех, кто приедет.
+Dropping to rock-bottom pricing in the off-season is a trap. You train guests to wait for discounts, dilute your brand, and destroy RevPAR. Competing on price alone in low season is a losing game.
 
-### Корпоративный сегмент
-Бизнес-поездки плохо коррелируют с туристическим сезоном. Заключите корпоративные соглашения с местными компаниями до начала межсезонья. Корпоративные гости — стабильный трафик круглый год.
-
-### Местные жители и стейкейшен
-Промотируйте «городской отпуск» для жителей вашего региона: бесплатный завтрак, кредиты в ресторан, включённый спа-доступ. Короткое расстояние и гибкий график делают их идеальной аудиторией для офсезона.
-
-### Велнес и ретриты
-Бандл «номер + спа-программа + фитнес» привлекает сегмент, ориентированный на здоровье.
-
-### Длительное проживание (Extended Stay)
-Низкий сезон — шанс привлечь digital nomads, дистанционных сотрудников. Предложите недельные и месячные тарифы с кухонным оснащением или коворкинг-зоной.
+**Instead of "cheaper," think "more valuable."**
 
 ---
 
-## 2. Пакетные предложения: добавляйте ценность, не снижая цену
+## 1. Re-Segmenting Demand
 
-Пакет скрывает реальную цену номера и создаёт восприятие выгоды.
+Your typical guests may not travel in the off-season. Find the ones who will.
 
-| Пакет | Что включить | Аудитория |
+### Corporate Segment
+Business travel is largely season-agnostic. Lock in corporate agreements with local companies before the slow period begins. Corporate guests deliver stable traffic year-round.
+
+### Locals and Staycations
+Promote the "city escape" to regional residents: complimentary breakfast, dining credits, bundled spa access. Short drive times and flexible schedules make local guests ideal for off-peak periods.
+
+### Wellness and Retreats
+A "room + spa program + fitness access" bundle attracts health-conscious travelers. A resort in Phuket that cut rates 20% during the rainy season and added a wellness package filled 15% more rooms while protecting margins.
+
+### Extended Stay
+Low season is an opportunity to attract digital nomads, remote workers, and project-based travelers. Offer weekly and monthly rates with a kitchenette or coworking access.
+
+---
+
+## 2. Packaging: Add Value, Don't Drop Price
+
+A package obscures the bare room rate and creates a perception of deal — even at the same or higher net rate. Guests see "all-inclusive" rather than "cheap room."
+
+**Packages that consistently work:**
+
+| Package | What to Include | Target Guest |
 |---|---|---|
-| «Романтические выходные» | Номер + шампанское + завтрак | Пары |
-| «Рабочая неделя» | Номер 5 ночей + парковка + WiFi Pro | Командировочные |
-| «Спортивный weekend» | Номер + трансфер на событие + ранний завтрак | Любители спорта |
-| «Сезон исследователя» | Номер + экскурсия с местным гидом + ужин | Туристы |
-| «Семейный» | 2 смежных номера + завтрак для детей бесплатно | Семьи |
+| Romantic Weekend | Room + champagne + breakfast | Couples |
+| Work Week | 5 nights + parking + premium WiFi | Road warriors |
+| Sports Weekend | Room + event transfer + early breakfast | Sports fans |
+| Explorer Season | Room + local tour + dinner | Leisure travelers |
+| Family Stay | 2 connecting rooms + kids eat free | Families |
 
-> **Ключевой принцип:** Добавляйте то, что дорого стоит гостю по ощущениям, но дёшево обходится вам. Завтрак, ранний заезд, поздний выезд, комплимент в номере — всё это работает.
-
----
-
-## 3. Работа с каналами в низкий сезон
-
-### OTA: ваш союзник в провал
-В межсезонье используйте инструменты OTA:
-- Акция «Last Minute» за 24-72 часа до заезда
-- Flash sales на 48 часов
-- Промо «Бронируй рано — плати меньше» за 60+ дней
-
-### Email и CRM: работайте с базой
-Выгружайте гостей, которые останавливались у вас в прошлые аналогичные периоды. Сегментированное письмо с персональным предложением даёт конверсию в 3-5 раз выше массовой рассылки.
-
-### Локальные партнёрства
-Договоритесь о кросс-промо с местными ресторанами, музеями, турагентами, spa-центрами. Совместный пакет снижает маркетинговые расходы для каждого участника.
+> Key principle: Include things that feel premium to the guest but cost you little — breakfast, early check-in, late checkout, a welcome amenity. These drive perceived value.
 
 ---
 
-## 4. Динамическое ценообразование без RMS
+## 3. Channel Strategy in the Off-Season
 
-RMS (Revenue Management System) — дорого. Но динамику можно делать вручную.
+### OTA: Your Ally in the Trough
+When direct demand is low, OTAs become an important acquisition channel. Leverage their promotional tools:
+- Last-minute deals: 24–72 hours before arrival
+- Flash sales: 48-hour windows
+- "Book early, save more": 60+ days out
 
-**Простая схема ручного revenue management:**
+### Email and CRM: Work Your Database
+Pull guests who stayed during the same period last year. A segmented email with a personalized offer converts 3–5× better than a mass blast.
 
-1. **Понедельник утром** — смотрите загрузку на следующие 3 недели
-2. **Красная зона (загрузка <50% за 14 дней)** → снижайте BAR на 10-15%, запускайте OTA-акцию
-3. **Жёлтая зона (50-70% за 7 дней)** → держите BAR, предлагайте пакеты
-4. **Зелёная зона (>70% за 3 дня)** → поднимайте BAR на 5-10%, убирайте скидки
-
-**Правило MinLOS:** Если ожидается пиковый weekend после провального периода — введите minimum 2 ночи. Это помогает заполнить номера в «слабые» дни.
-
----
-
-## 5. Что делать в действительно мёртвый сезон
-
-Если загрузка ниже 30% — операционные меры уже не помогут. Это время для инвестиций:
-
-- **Ремонт и renovation**: закройте часть номеров на обновление. После — фотосессия и переобивка маркетинга
-- **Обучение персонала**: тренинги, аттестации, стандартизация процессов
-- **Контент-маркетинг**: обновите профили на OTA, запишите видеотуры
-- **Ревизия партнёрств**: пересмотрите договоры с поставщиками, OTA, тур-операторами
+### Local Partnerships
+Cross-promote with restaurants, museums, tour operators, and spas. A joint package is more compelling to the guest and lowers marketing costs for everyone involved.
 
 ---
 
-## Чек-лист на начало каждого низкого сезона
+## 4. Dynamic Pricing Without Automation
 
-- [ ] Проанализирован прошлогодний период: какие даты были слабее всего?
-- [ ] Определены 2-3 целевых сегмента для межсезонья
-- [ ] Подготовлены 2-3 пакетных предложения с конкретной ценой
-- [ ] Запущена email-кампания по базе прошлых гостей
-- [ ] Обновлены профили на OTA с фото низкого сезона и спецпредложениями
-- [ ] Согласованы партнёрства с локальным бизнесом
-- [ ] Определён MinLOS для пиковых дат в рамках периода
+A full Revenue Management System costs money. But you can do dynamic pricing manually.
 
----
+**A simple manual revenue management cadence:**
 
-## Кейсы по теме
+1. **Every Monday morning** — review occupancy for the next three weeks
+2. **Red zone (under 50% with 14 days out)** → lower BAR by 10–15%, launch an OTA promo
+3. **Yellow zone (50–70% with 7 days out)** → hold BAR, push packages
+4. **Green zone (over 70% with 3 days out)** → raise BAR by 5–10%, pull discounts
 
-- [RMS — динамическое ценообразование](/cases/rms-dynamic-pricing/) — автоматическая реакция на изменение загрузки в межсезонье
-- [Автоматизация маркетинга и обратной связи](/cases/marketing-feedback-automation/) — триггерные кампании по базе для повторного визита
+**Minimum Length of Stay (MinLOS):** If a strong weekend follows a soft midweek, apply a 2-night minimum. This fills the shoulder nights attached to the peak.
 
 ---
 
-## Источники
+## 5. What to Do in a True Dead Season
 
-- Mediaboom — *How to Increase Hotel Occupancy in Low Season* (2025)
-- Tripleseat — *Hotel Shoulder Season: Tips to Maximize Performance* (2024)
-- Little Hotelier — *Thriving in shoulder season* (2025)
+If occupancy is under 30%, operational tactics won't move the needle. Use the time as an investment window:
+
+- **Renovation:** Close a floor or wing for refurbishment. Relaunch with a proper photo shoot
+- **Staff training:** Certifications, audits, SOP updates, cross-training
+- **Content production:** Property photography, updated OTA profiles, video tours
+- **Contract review:** Renegotiate supplier terms, OTA agreements, and tour operator deals
+
+---
+
+## Low-Season Pre-Season Checklist
+
+- [ ] Last year's same period analyzed: which dates were softest?
+- [ ] Two to three target segments identified for the off-peak
+- [ ] Two to three packages built with firm pricing
+- [ ] Email campaign deployed to past guest database
+- [ ] OTA profiles updated with off-season photos and promotions
+- [ ] Local business partnerships confirmed
+- [ ] MinLOS rules set for any peak dates within the period
+
+---
+
+## Sources
+
+- Mediaboom — *How to Increase Hotel Occupancy in Low Season* (2025). https://mediaboom.com/news/how-to-increase-hotel-occupancy-in-low-season/
+- Tripleseat — *Hotel Shoulder Season: Tips to Maximize Performance* (2024). https://tripleseat.com/blog/hotel-shoulder-season-tips-to-maximize-hotel-performance-during-non-peak-periods/
+- Hotelogix — *What Are the Best Strategies for Shoulder Season Bookings?* (2025). https://blog.hotelogix.com/shoulder-season/
+- HotelFriend — *10 Best Strategies to Sell Your Hotel Rooms During High and Low Seasons* (2024). https://hotelfriend.com/blogpost/strategic-shifts
+- Little Hotelier — *Thriving in Shoulder Season* (2025). https://www.littlehotelier.com/blog/get-more-bookings/shoulder-season/

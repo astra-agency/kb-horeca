@@ -1,27 +1,13 @@
 ---
-title: Меню и экономика ресторана
-description: Меню-инжиниринг, food cost, стоп-листы и сезонное меню для ресторанов.
+title: Menu & Economics
+description: Menu engineering, food cost calculation, pricing strategy, stop-list management, and seasonal menu planning.
 ---
 
-Меню — главный финансовый инструмент ресторана. Правильно выстроенное меню увеличивает прибыль на 10–15% без изменения цен.
+Menu design directly affects profitability. This section covers the analytical side of menu management — from food cost calculations to strategic dish placement.
 
-## Статьи раздела
+## Topics
 
-| Тема | Уровень |
-|---|---|
-| [Меню-инжиниринг: звёзды, лошади, загадки, собаки](/restaurants/menu/menu-engineering/) | Практический |
-| [Себестоимость блюд: food cost и расчёт цен](/restaurants/menu/food-cost-pricing/) | Практический |
-| [Стоп-листы: управление без потерь гостя](/restaurants/menu/stop-list/) | Операционный |
-| [Сезонное меню и локальные поставщики](/restaurants/menu/seasonal-menu/) | Стратегический |
-
-## Ключевые формулы
-
-```
-Food Cost % = (Себестоимость / Цена продажи) × 100
-
-Contribution Margin = Цена продажи − Себестоимость
-
-Prime Cost % = (Food Cost + Labor Cost) / Выручка × 100
-```
-
-**Целевые показатели:** Food cost 28–35%, Prime cost ≤65% для casual dining.
+- [Menu Engineering](menu-engineering)
+- [Food Cost & Pricing](food-cost-pricing)
+- [Stop List Management](stop-list)
+- [Seasonal Menu](seasonal-menu)

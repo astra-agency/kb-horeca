@@ -1,25 +1,12 @@
 ---
-title: Отели и гостиницы
-description: ИТ-сервисы и автоматизация для гостиничного бизнеса
+title: Hotel IT Systems
+description: IT infrastructure for hotels — PMS, channel manager, website booking module, CRM, and reputation management.
 ---
 
-## Ключевые процессы автоматизации
+This section covers the main IT systems used in hotel management. Each system solves a specific operational problem — from automating reservations to managing online reputation.
 
-Современный отель работает как единая экосистема сервисов. Вот основные блоки:
-
-| Блок | Что решает |
-|---|---|
-| [Сайт и онлайн-бронирование](/hotels/website-booking/) | Прямые продажи без комиссии OTA |
-| [PMS — система управления](/hotels/pms/) | Управление номерным фондом, заездами, расчётами |
-| [Channel Manager](/hotels/channel-manager/) | Синхронизация цен и доступности на всех площадках |
-| [Репутационный менеджмент](/hotels/reputation/) | Сбор и обработка отзывов |
-| [CRM и управление продажами](/hotels/crm/) | База гостей, повторные продажи, корпоративные клиенты |
-
-## Типичный стек отеля в РФ
-
-```
-Сайт (WordPress / Tilda)
-  └── Модуль бронирования (TravelLine / Bnovo)
-        └── PMS (TravelLine / Bnovo / Контур.Отель)
-              └── Channel Manager → OTA (Ostrovok, Яндекс.Путешествия, Booking)
-```
+- **PMS** — property management, reservations, billing
+- **Channel Manager** — OTA rate and availability sync
+- **Website Booking** — direct booking engine
+- **CRM** — guest database and sales management
+- **Reputation** — review monitoring and response

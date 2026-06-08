@@ -1,20 +1,12 @@
 ---
-title: Персонал отеля
-description: Найм, адаптация, мотивация и стандарты обслуживания для персонала отелей.
+title: Hotel Staff Management
+description: Hiring, onboarding, motivation, and retention strategies for hotel staff — front desk scripts, KPIs, and team development.
 ---
 
-Управление персоналом — один из ключевых факторов качества гостевого опыта. В HoReCa текучка достигает 30–73%, а замена одного сотрудника обходится в среднем в 18 000 $.
+Effective staff management determines guest satisfaction and operational consistency. This section covers recruiting, training, and retaining hotel employees.
 
-## Статьи раздела
+## Topics
 
-| Тема | Уровень |
-|---|---|
-| [Стандарты обслуживания: скрипты ресепшена](/hotels/staff/front-desk-scripts/) | Операционный |
-| [Найм и адаптация в отеле](/hotels/staff/hiring-onboarding/) | Управленческий |
-| [Мотивация и удержание сотрудников](/hotels/staff/retention-motivation/) | Управленческий |
-
-## Принцип HoReCa-рекрутинга
-
-> **Hire for attitude, train for skills** — нанимают за отношение, обучают навыкам.
-
-Улыбку и эмпатию нельзя обучить так же легко, как работе с PMS-системой. Оценивайте кандидата в первую очередь по личным качествам.
+- [Front Desk Scripts & SOPs](front-desk-scripts)
+- [Hiring & Onboarding](hiring-onboarding)
+- [Retention & Motivation](retention-motivation)

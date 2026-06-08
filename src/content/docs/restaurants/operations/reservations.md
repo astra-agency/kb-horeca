@@ -1,115 +1,154 @@
 ---
-title: Управление бронированием столов
-description: Системы принятия бронирований, работа с листом ожидания, политика no-show и депозитов, автоматизация.
+title: "Managing Reservations Without Automation"
+description: A complete manual reservation system — log structure, phone scripts, pre-service briefing, no-show prevention with the 15-minute rule, and when to go digital.
 ---
 
-## Зачем управлять бронированием активно
+> **Series:** Restaurants — Operations and Capacity
+> **Level:** Operational
+> **Audience:** Restaurant GMs, hosts, floor managers at independent properties
 
-Стихийный приём бронирований = потерянная выручка с двух сторон:
-- Двойная запись → скандал при приходе гостя
-- No-show 20–30% → пустые столы в пиковый вечер
-- Неравномерная рассадка → перегруз кухни в одно время и простой в другое
+## When the System Is a Notebook
 
-Профессиональная система бронирований решает все три проблемы.
-
----
-
-## Каналы приёма бронирований
-
-| Канал | Плюсы | Минусы |
-|---|---|---|
-| Телефон | Личный контакт | Нет в нерабочее время |
-| Instagram DM / Telegram | Удобно гостю | Нет структуры, можно пропустить |
-| Email | Фиксируется | Медленно |
-| Онлайн-виджет (Яндекс.Рестораны, Restoplace) | 24/7, без сотрудника | Требует настройки |
-| Google Reserve | Интеграция с поиском | Только через Google |
-
-**Рекомендация:** Основной канал — телефон или мессенджер + онлайн-виджет для снижения нагрузки. Все брони в единую систему.
+Not every restaurant needs OpenTable or Resy. For a small neighborhood spot, a family-run bistro, or an intimate tasting-menu concept, manual reservation management works — if you apply a consistent system. The notebook isn't the problem. The absence of a process is.
 
 ---
 
-## Что фиксировать при бронировании
+## Part 1: Core Tools for Manual Reservation Management
 
-Минимальный набор:
-- Имя и телефон гостя
-- Дата и время
-- Количество человек
-- Особые пожелания (детский стул, аллергия, праздник)
-- Источник (телефон, онлайн, соцсети)
+### The Reservation Book (Physical or Google Sheets)
 
-**Дополнительно для VIP / постоянных:**
-- История посещений
-- Любимый столик
-- Именинник / повод
+Minimum data per entry:
 
----
+| Field | Example |
+|---|---|
+| Date | Friday, June 15 |
+| Time | 7:30pm |
+| Name | Mitchell |
+| Phone | (555) 123-4567 |
+| Party size | 4 |
+| Table | #7 |
+| Special requests | Birthday — nut allergy |
+| Status | Confirmed / Arrived / No-show |
 
-## Политика no-show
+**Format options:**
+- **Physical book** — reliable, no tech required, harder to navigate at high volume
+- **Google Sheets** — accessible from any device, updates in real time. Build one tab per day of the week with a fixed template. Multiple staff can reference simultaneously.
 
-**Проблема:** В пятницу вечером 25% бронирований не пришли. 10 столов × 4 человека × 1200 руб = 48 000 руб потерянной выручки.
+**Tip:** Print the day's reservation sheet before every service. Your host should have it in hand — not searching for it on a phone while managing an incoming group.
 
-**Решения:**
+### The Floor Plan (Table Map)
 
-### 1. Подтверждение бронирования
-За 24 часа — звонок или сообщение:
-> «[Имя], напоминаем о вашем столике на [дата] в [время] на [N] человек. Всё в силе? Если планы изменились — пожалуйста, сообщите нам.»
-
-Снижает no-show на 40–60%.
-
-### 2. Депозит
-Для больших групп (6+ человек) или праздничных мероприятий — предоплата 20–50%.
-
-**Скрипт:**
-> «Для бронирования на [N] человек нам нужно подтверждение в виде депозита [X] рублей — он идёт в счёт вашего заказа. Если планы изменятся за 24 часа до визита — вернём полностью.»
-
-### 3. Кредитная карта на гарантии
-Номер карты берётся для гарантии. В случае no-show — снимается фиксированная сумма (300–500 руб). Работает в западной практике, в России применяется редко.
-
-### 4. Лист ожидания
-Параллельно с бронированием — лист ожидания. При no-show: немедленный звонок гостям из списка.
+A numbered diagram of the dining room — physical or printed — that shows:
+- Which tables are occupied, reserved, or available
+- Expected table release times
+- Default seating assignments by party type (window tables for couples, round tables for groups, booths for families)
 
 ---
 
-## Управление посадкой
+## Part 2: Taking Phone Reservations
 
-### Floor plan (план зала)
-Нарисованная или в системе схема зала с пронумерованными столами. Позволяет:
-- Видеть заполнение зала в реальном времени
-- Планировать рассадку заранее
-- Распределять нагрузку между официантами
+Phone is the primary booking channel when you're operating without a platform. The quality of that 90-second call creates the first impression of the restaurant.
 
-### Временные слоты
-Вместо «приходите к 19:00» — «стол с 19:00 до 21:00» (для заведений с высоким спросом). Явно коммуницируйте с гостем — это нормальная практика.
+### The Standard Phone Script
 
-### Staggered seating
-Не рассаживайте всех одновременно. Интервал 15–20 минут между посадками = равномерная нагрузка на кухню.
+**Host:** "[Restaurant Name], good evening — this is [Name]. How can I help you?"
 
----
+**Guest:** "I'd like to make a reservation."
 
-## Системы бронирования (российский рынок)
+**Host:** "Of course! What date were you thinking? [Pause.] And the time? [Pause.] And how many guests? [Pause.] Great — and your name and a phone number in case we need to reach you? [Pause.]"
 
-| Система | Тип | Особенности |
-|---|---|---|
-| Restoplace | Российская | Виджет на сайт, CRM гостей |
-| iiko (модуль бронирования) | Российская | Интеграция с кассой |
-| Яндекс.Рестораны | Агрегатор | Бесплатно, широкий охват |
-| LeMenu | Российская | Простой виджет |
-| Planado (телефония) | Российская | Автоматические напоминания |
+*(Once you have the basics):*
 
----
+"Perfect. We have a [table / spot by the window] available for you at [time]. Any special requests — dietary restrictions, or are you celebrating something?"
 
-## Обработка конфликтных ситуаций
+*(Closing:)*
 
-**Столик ещё занят, гость с бронью пришёл:**
-> «[Имя], рады вас видеть! Ваш столик освобождается буквально через несколько минут. Позвольте предложить вам аперитив у барной стойки — за наш счёт.»
+"All set. We have you down for [date] at [time] for [N] guests. If your plans change, please give us a call — we really appreciate the heads-up. Looking forward to seeing you!"
 
-**Гость пришёл без брони в пиковое время:**
-> «К сожалению, все столики сейчас заняты. Могу записать вас в лист ожидания — примерно [X] минут. Или хотите, чтобы мы связались с вами, как только освободится место?»
+**Critical:** Enter every booking into the reservation log while you're still on the call — not after. Details are lost the moment you hang up and move on to the next task.
+
+### Confirmation Calls
+
+For a manual system: call every reservation the day before to confirm.
+
+> "Good evening — this is [Restaurant Name] calling. I'm reaching out to confirm your reservation for [tomorrow / tonight] at [time] for [N] guests. Does everything still look good?"
+
+This reduces no-shows dramatically and gives you time to resell the table if a guest cancels.
 
 ---
 
-## Источники
+## Part 3: Running the Service with Your Reservation Book
 
-- OpenTable — *Restaurant Reservation Management Best Practices* (2025)
-- Restoplace — *Управление бронированием ресторана* (2025)
-- National Restaurant Association — *Reducing No-Shows* (2024)
+### Pre-Opening Briefing: Using the Sheet
+
+Thirty minutes before doors open, the manager and host review:
+- Total reservations and spread across time slots
+- Where the peaks fall (e.g., 7:00–8:00pm has three large parties)
+- Which tables are reserved vs. available for walk-ins
+- Special requests and occasions to note
+- Expected table release windows (when a table reserved at 6:00 will likely free up for the 8:00 sitting)
+
+### Managing the Waitlist
+
+When all tables are full and walk-ins arrive:
+- Ask how many guests and collect a name and phone number
+- Give a realistic wait time — slightly conservative is better than overpromising
+- Alert the guest by phone or in-person when their table is ready
+- Never leave someone waiting beyond the quoted time without an update
+
+**Waitlist script:**
+
+> "We're fully seated right now — but we should have a table opening up in approximately [X] minutes. Can I take your name and number? We'll call you as soon as we're ready."
+
+---
+
+## Part 4: No-Shows — Prevention and Response
+
+A no-show in a small restaurant is painful: a table stood empty during prime time with no ability to recover the revenue.
+
+### Prevention
+
+- **Confirmation text or call** the day before (most important single tool)
+- **The 15-minute rule:** If a reservation party hasn't arrived 15 minutes past their time — call. If no answer, hold the table a total of 20 minutes, then release it
+- For groups of 6 or more: take a **credit card hold or deposit**. This is standard industry practice — not an insult. Frame it as: "We'll hold that deposit against your tab — you won't even notice it when you sit down"
+
+### Script for Calling a Late Party
+
+> "Good evening — this is [Restaurant Name]. We have a reservation in your name for [time] for [N] guests. Just reaching out to make sure everything's on track. We're holding your table — if you're running late, just give us a quick call and we'll do our best to accommodate you."
+
+---
+
+## Part 5: When to Go Digital
+
+Manual reservation management has a ceiling. Signs it's time to add a digital tool:
+
+- More than 30–40 reservations per week
+- Recurring double-bookings or errors
+- Management spending more than 1 hour daily on confirmation calls
+
+**Minimum viable digital tools (in order of complexity):**
+- **Google Forms + Sheets:** A booking form on your website sends responses to a spreadsheet — free and functional
+- **Tableo:** Free baseline plan for small restaurants; handles basic reservation intake and floor management
+- **Resy / OpenTable:** Full ecosystem with POS integration, waitlist management, and guest profiles — appropriate when volume justifies the cost
+
+**Principle:** Start free. Upgrade only when you can see specific time savings or booking volume growth that justifies the investment.
+
+---
+
+## Manual Reservation Management Checklist
+
+- [ ] Reservation log exists in one consistent format accessible to the full team
+- [ ] Every entry contains: name, phone, date/time, party size, requests, status
+- [ ] Confirmation call or text standard for all reservations the day prior
+- [ ] Floor plan is current and at the host stand
+- [ ] 15-minute policy for late parties is documented and followed
+- [ ] Waitlist script is known by all floor staff
+- [ ] Deposit or credit card hold required for groups of 6+
+
+---
+
+## Sources
+
+- Toast POS — *Ultimate Guide to Restaurant Reservations* (n.d.). https://pos.toasttab.com/blog/on-the-line/restaurant-reservations
+- The Foodygram — *How To Manage Restaurant Reservations Like A Pro In 2026* (2026). https://www.thefoodygram.com/blogs/restaurant-resources/how-to-manage-restaurant-reservations/
+- Tableo — *Free Restaurant Reservation System* (2026). https://tableo.com/free/

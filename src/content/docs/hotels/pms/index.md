@@ -1,38 +1,8 @@
 ---
-title: PMS — системы управления отелем
-description: Обзор и сравнение PMS-систем для российского гостиничного рынка
+title: PMS — Property Management Systems
+description: Overview of hotel PMS systems — what they do, how to choose one, and a comparison of the main options.
 ---
 
-## Что такое PMS
+A Property Management System (PMS) is the central hub of hotel operations: reservations, check-in/checkout, billing, housekeeping, and reporting all flow through it.
 
-**Property Management System (PMS)** — ядро ИТ-инфраструктуры отеля. Управляет:
-- Номерным фондом и статусами номеров
-- Заездами и выездами (check-in / check-out)
-- Тарифами и ценообразованием
-- Взаиморасчётами с гостями
-- Отчётностью и аналитикой
-- Миграционным учётом (МВД)
-
-## Сравнение PMS на российском рынке
-
-| Система | Тип | Каналы | Объекты | Особенности |
-|---|---|---|---|---|
-| [TravelLine](/hotels/pms/travelline/) | Облако | 130+ | Любые | Полный стек, 6 200+ объектов, от 1 600 ₽/мес |
-| [Bnovo](/hotels/pms/bnovo/) | Облако | 40+ | Любые | 16 000+ объектов, +25% выручки |
-| [Контур.Отель](/hotels/pms/kontur-hotel/) | Облако | Есть | Малые/средние | Интеграция с экосистемой Контур |
-| [Saby Hotel](/hotels/pms/saby-hotel/) | Облако | Есть | Малые/средние | Интеграция с Saby (ex-СБИС) |
-| [Logus HMS](/hotels/pms/logus-hms/) | Облако/On-prem | Есть | Крупные/сети | Богатая функциональность |
-| [MaxiBooking](/hotels/pms/maxibooking/) | Облако | Есть | Любые | Без ограничений по номерам, 15 дней бесплатно |
-| Автопортье | Облако | — | Малые | Апартаменты, мини-отели |
-| HotelCloud | Облако | — | Малые | Быстрый старт |
-
-## Что выбрать
-
-| Тип объекта | Рекомендация |
-|---|---|
-| Мини-отель до 30 номеров | Bnovo, MaxiBooking, Автопортье |
-| Отель 30–150 номеров | TravelLine, Bnovo, Контур.Отель |
-| Крупный отель / сеть | TravelLine, Logus HMS, Saby Hotel |
-| Апартаменты / посуточная аренда | Bnovo, MaxiBooking |
-| Уже в экосистеме Контур | Контур.Отель |
-| Уже в экосистеме Saby/СБИС | Saby Hotel |
+*Full content available in Russian — [PMS для отелей](/ru/hotels/pms/)*

@@ -1,120 +1,139 @@
 ---
-title: Работа с постоянными гостями
-description: Как распознать, запомнить и удержать постоянных гостей ресторана — персонализация, программы лояльности, VIP-обслуживание.
+title: "Regulars: Recognizing and Remembering Guest Preferences"
+description: How to build a guest profile system, apply preferences gracefully without surveillance, create documentation culture across the team, and win back lapsed regulars.
 ---
 
-## Почему постоянные гости — главный актив
+> **Series:** Restaurants — Guest Experience
+> **Level:** Practical
+> **Audience:** Restaurant GMs, floor managers, hosts, senior servers
 
-- Постоянный гость тратит на 67% больше, чем новый
-- Привлечение нового гостя стоит в 5–7 раз дороже, чем удержание существующего
-- Постоянные гости рекомендуют ресторан в своём окружении (бесплатный маркетинг)
-- 20% постоянных гостей генерируют 80% выручки большинства ресторанов
+## Why Regulars Are Your Most Valuable Asset
 
-Тем не менее большинство ресторанов инвестируют в привлечение новых гостей и забывают об удержании.
+A returning guest spends on average 67% more per visit than a new one. Their acquisition cost is zero — they've already found you. They recommend you to others. They forgive minor mistakes. They keep your business stable during slow periods.
 
----
+Research confirms: 91% of people are more likely to return to a business that recognizes, remembers, and provides relevant recommendations to them.
 
-## Как распознать постоянного гостя
-
-**Формальный критерий:** Гость посещает ресторан 3+ раза за квартал.
-
-**Признаки в момент визита:**
-- Знает меню наизусть, делает заказ без раздумий
-- Здоровается с персоналом по имени
-- Спрашивает «а [блюдо X] сегодня есть?»
-- Занимает «свой» столик
-
-**Задача команды:** Узнавать таких гостей и отмечать в системе.
+Yet most restaurants focus their marketing entirely on acquiring new guests — and largely ignore the ones already loyal. That's a significant and correctable mistake.
 
 ---
 
-## Система учёта постоянных гостей
+## Part 1: Recognizing Returning Guests
 
-Минимальный вариант — таблица в Google Sheets или CRM:
-- Имя, телефон (по возможности)
-- Частота визитов
-- Любимые блюда / напитки
-- Предпочтения по столику
-- Особые даты (день рождения, годовщина)
-- Аллергии
+### At the Door — the Host or Manager's Responsibility
 
-**Расширенный вариант:** Программа лояльности с историей заказов (iiko, r_keeper, Poster).
+**Pre-shift preparation:**
+- Review the reservation list: who is a returning guest tonight?
+- Pull guest profiles or notes from your reservation system or notebook
+- Brief the assigned server before the table arrives
 
----
-
-## Персонализация как инструмент удержания
-
-### Уровень 1: Помните имя
-«Добрый вечер, [Имя]!» — самая сильная фраза для постоянного гостя. Это сигнал: «Вас здесь знают».
-
-### Уровень 2: Помните предпочтения
-> «Ваш обычный [напиток / столик] или хотите что-то другое сегодня?»
-
-### Уровень 3: Предвосхищайте
-> «К вашему столику уже несут воду без газа — как вы любите.»
-
-### Уровень 4: Удивляйте
-Комплимент к дню рождения, любимое блюдо без заказа в праздник, записка от шефа.
+**Visual recognition:**
+- If a guest comes frequently enough, your team should recognize them by face
+- Don't pretend to remember if you don't — that's worse than a graceful acknowledgment
+- "I believe we've had the pleasure before — am I right that you have a preference for the corner table?" is far better than a hollow greeting
 
 ---
 
-## Программы лояльности для ресторана
+## Part 2: A System for Storing Preferences
 
-### Вариант 1: Накопительные баллы
-За каждые X рублей — 1 балл. При наборе N баллов — скидка или блюдо бесплатно.
+Without a system, you start from zero every visit. A guest who goes unremembered doesn't become a regular.
 
-**Плюсы:** Стимулирует повторные визиты.
+### The Minimum: A Guest Log
 
-**Минусы:** Гость копит баллы, а не чувствует особого отношения.
+A simple guest profile (paper index card, Google Sheets, or Notion) with:
 
-### Вариант 2: Уровневая программа
-- Серебро (5+ визитов): приоритетное бронирование
-- Золото (20+ визитов): комплимент при каждом визите, закрытые события
-- Платина (50+ визитов): личный менеджер, именной столик
+```
+Name: John Mitchell
+Phone: (555) 123-4567
+Birthday: October 8
+Preferred table: #7 by the window
+Drinks: Scotch, neat — Glenfiddich 12
+Food: Ribeye, medium-rare; no garnish
+Allergies: Tree nuts
+Notes: Usually dines with his wife. Anniversary in July.
+```
 
-### Вариант 3: Закрытый клуб
-Для ТОП-гостей (по рекомендации / по приглашению):
-- Закрытые ужины с шефом
-- Первыми узнают о новом меню
-- Специальные цены на банкеты
+Updated after each visit. Reviewed before the next.
 
-### Вариант 4: Без программы, но с вниманием
-Самый простой и человечный: знайте имена, помните предпочтения, поздравляйте с важными датами. Не нужна система — нужна культура.
+### Digital Tools with Booking Integration
 
----
+Platforms like Resy, OpenTable, and SevenRooms allow notes to be attached to guest profiles, visible at time of booking. All staff see the same current information.
 
-## Работа с VIP-гостями
-
-**Кто такой VIP:** Частый гость С большим средним чеком ИЛИ медиа-персона / инфлюенсер ИЛИ лидер мнений в деловой среде.
-
-**Стандарт работы с VIP:**
-- Информация о визите передаётся управляющему заранее
-- Приветствие от управляющего / шефа лично
-- Любимый столик зарезервирован без предварительного запроса
-- Небольшой комплимент от кухни
-- Follow-up после визита
+**The essential rule:** Guest data must be available to the full team — not just the person who recorded it. The pre-shift briefing is where this information gets passed.
 
 ---
 
-## Как вернуть ушедшего постоянного гостя
+## Part 3: Applying Guest Knowledge Gracefully
 
-Если постоянный гость не появляется 2+ месяца:
-- Персональное сообщение (не рассылка): «[Имя], давно вас не видели. Всё в порядке? У нас новое блюдо, которое вам понравится.»
-- Специальное предложение при следующем визите
-- Звонок (если были близкие отношения)
+Knowing preferences is half the work. Applying them without making the guest feel surveilled is the skill.
+
+### Right way to use the information:
+
+**Seating:** "We've reserved your usual table by the window."
+
+**Beverage:** "Can I get you started with your usual [Scotch / glass of Chardonnay]?" (Only if you're confident)
+
+**Special occasion:** If the system shows a birthday or anniversary — a small, quiet gesture (a dessert, a glass of wine) without fanfare makes a disproportionate impression.
+
+**Name:** Use the guest's name once at arrival and once or twice naturally during the meal. Don't repeat it so often it sounds like a sales script.
+
+### What to avoid:
+
+- "I can see in our system that you..." — never reference the database directly
+- Projecting past preferences onto a guest who may want something new — always let them order freely
+- Emphasizing "we remember you" if it's been many months — acknowledge warmly, but naturally
 
 ---
 
-## Кейсы по теме
+## Part 4: Building a Documentation Culture
 
-- [Программа лояльности](/cases/loyalty-program/) — цифровая механика накопления баллов и статусов
-- [Реферальная система](/cases/referral-system/) — как постоянные гости приводят новых через реферальные ссылки
-- [Личный кабинет гостя](/cases/guest-portal/) — персональное пространство для истории визитов и бонусов
+One server knowing a regular is a nice coincidence. The whole team knowing is a system.
+
+**How to build it:**
+
+1. **Pre-shift briefings:** "John Mitchell is in tonight at 8pm. Table 7, Scotch neat, tree nut allergy. His usual preference is the ribeye."
+
+2. **Post-service notes:** After a notable visit, an unusual request, or feedback — the server adds it to the profile
+
+3. **System ownership:** Assign one manager to keep guest profiles current — quarterly review to remove stale data, update anything that's changed
 
 ---
 
-## Источники
+## Part 5: Loyalty Without a Complex Program
 
-- Harvard Business Review — *The Value of Keeping the Right Customers* (2014, актуально)
-- National Restaurant Association — *Guest Loyalty Programs* (2025)
-- Medallia — *Restaurant Guest Retention Research* (2024)
+You don't need a $1,000/month CRM. Simple mechanics work:
+
+### Punch Card (Analog)
+7 visits → a complimentary dessert or glass of wine. Low-tech, but surprisingly effective in casual concepts.
+
+### Personal SMS or WhatsApp
+Once a month — a short, personal message to loyal regulars: "We'd love to see you this Friday, [Name] — I've saved your usual table. A special on [dish they love] tonight."
+
+### Recognition Without Discounts
+The most powerful loyalty driver isn't points or coupons — it's feeling known:
+- Remembering the name
+- Knowing the preferred seat
+- Acknowledging milestones (birthday, anniversary)
+- Asking about a previous visit
+
+Research consistently shows: "We come back because they know us there" is a stronger motivator than any discount card.
+
+---
+
+## Part 6: Win-Back for Lapsed Regulars
+
+A guest who hasn't returned in 90+ days isn't lost. They're waiting to be invited.
+
+**A simple win-back sequence:**
+- **Day 0** (90 days without a visit): A personal message — "We've missed you"
+- **If no response in 7 days:** A modest offer (complimentary starter on next visit)
+- **If no response in 14 days:** Your best offer (15–20% off their next dinner)
+
+Important: avoid mass email blasts to regulars. They'll feel the difference between a broadcast and a personal message — because they know you're capable of the latter.
+
+---
+
+## Sources
+
+- Zenchef — *Offering a personalized customer experience in restaurants* (2026). https://blog.zenchef.com/blog-post/improve-customer-experience-in-your-restaurant
+- Ion Hospitality — *How to increase repeat customers at your restaurant* (2026). https://www.ionhospitality.com/2026/05/06/how-to-increase-repeat-customers-at-your-restaurant/
+- Break Bread Consulting — *The Power of Restaurant Personalization to Drive Customer Loyalty* (2025). https://www.breakbreadconsulting.com/blog-posts/the-power-of-restaurant-personalization-to-drive-customer-loyalty

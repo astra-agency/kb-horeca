@@ -1,47 +1,52 @@
 ---
-title: "Кейсы: Автоматизация отеля"
-description: "Реальные сценарии внедрения IT-решений в гостиничном бизнесе — от CRM и динамического ценообразования до мобильных приложений для персонала"
+title: Implementation Cases
+description: Real HoReCa automation cases — CRM, PMS, loyalty programs, booking engines, operations, and more.
 ---
 
-Раздел содержит подробные описания реализованных IT-проектов в гостиничном бизнесе.
-Каждый кейс включает контекст задачи, описание реализации, результаты и практические рекомендации.
+A catalog of real implementation cases for hotels, restaurants, and cafés.
 
-## CRM и продажи
+## CRM & Sales
 
-| Кейс | Описание |
-|---|---|
-| [Внедрение CRM для отеля](./crm-setup) | Каналы коммуникаций, цепочка касания с гостем, аналитика |
-| [Интеграция CRM с PMS/POS](./pms-crm-integration) | Сквозная аналитика, гостевая база, автоматизация продаж |
-| [Персонализированные КП](./personalized-proposals) | Автогенерация коммерческих предложений из данных сделки |
-| [Онлайн-оплата по ссылке](./online-payment-link) | Платёжные ссылки, СБП, автозачисление в PMS |
+- [CRM Setup](/en/cases/crm-setup/)
+- [PMS/CRM Integration](/en/cases/pms-crm-integration/)
+- [Personalized Proposals](/en/cases/personalized-proposals/)
+- [Online Payment Link](/en/cases/online-payment-link/)
 
-## Лояльность и гостевой опыт
+## Loyalty & Guest Experience
 
-| Кейс | Описание |
-|---|---|
-| [Программа лояльности](./loyalty-program) | Накопительные бонусы, статусы, персональные привилегии |
-| [Реферальная система](./referral-system) | Механика «Приведи друга», работа с блогерами |
-| [Личный кабинет гостя](./guest-portal) | Бронирования, допуслуги, экспресс-заезд, внутренняя валюта |
+- [Loyalty Program](/en/cases/loyalty-program/)
+- [Referral System](/en/cases/referral-system/)
+- [Guest Portal](/en/cases/guest-portal/)
 
-## Бронирование и ценообразование
+## Booking & Pricing
 
-| Кейс | Описание |
-|---|---|
-| [Модуль онлайн-бронирования](./booking-engine) | Прямые продажи, интеграция с PMS, подключение СБП |
-| [RMS — динамическое ценообразование](./rms-dynamic-pricing) | Автоматическое управление тарифами по загрузке |
-| [Rate Shopper — парсинг цен](./rate-shopper) | Мониторинг тарифов конкурентов в реальном времени |
+- [Booking Engine](/en/cases/booking-engine/)
+- [RMS — Dynamic Pricing](/en/cases/rms-dynamic-pricing/)
+- [Rate Shopper](/en/cases/rate-shopper/)
 
-## Автоматизация департаментов
+## Department Automation
 
-| Кейс | Описание |
-|---|---|
-| [Автоматизация HR-процессов](./hr-automation) | Приём, увольнение, отпуска, командировки |
-| [Автоматизация юридического отдела](./legal-automation) | Согласование договоров, реестр документов |
-| [Автоматизация маркетинга и обратной связи](./marketing-feedback-automation) | Сегментация базы, триггерные коммуникации, управление отзывами |
+- [HR Processes](/en/cases/hr-automation/)
+- [Legal Department](/en/cases/legal-automation/)
+- [Marketing & Feedback](/en/cases/marketing-feedback-automation/)
 
-## Мобильные и терминальные решения
+## Mobile & Kiosk Solutions
 
-| Кейс | Описание |
-|---|---|
-| [Служебное приложение для персонала](./staff-mobile-app) | NFC-идентификация гостей, система статусов детского лагеря |
-| [Приложения для киосков самообслуживания](./kiosk-apps) | Внутренняя валюта, баланс, транзакции, переводы |
+- [Staff Mobile App](/en/cases/staff-mobile-app/)
+- [Self-Service Kiosks](/en/cases/kiosk-apps/)
+
+## Operations & Supply Chain
+
+- [Inventory Management](/en/cases/inventory-management/)
+- [Vendor Management & Supply Chain](/en/cases/vendor-management/)
+- [Logistics & Distribution Optimization](/en/cases/logistics-optimization/)
+
+## Staff & Compliance
+
+- [Employee Training & Development](/en/cases/employee-training/)
+- [Compliance & Risk Management](/en/cases/compliance-risk/)
+
+## Finance & IT
+
+- [Financial Management & Cost Control](/en/cases/financial-management/)
+- [IT Infrastructure & Digital Transformation](/en/cases/it-infrastructure/)

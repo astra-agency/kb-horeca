@@ -1,132 +1,139 @@
 ---
-title: "Гостевой цикл: от бронирования до повторного визита"
-description: Пять этапов взаимодействия с гостем — как управлять впечатлением на каждом шаге и превращать разовых гостей в постоянных.
+title: "The Guest Journey: Pre-Arrival to Post-Stay"
+description: A five-stage guest cycle management framework with touchpoint checklists, benchmark metrics, and the tools that drive repeat bookings and positive reviews.
 ---
 
-## Что такое гостевой цикл
+> **Series:** Hotels — Guest Experience
+> **Level:** Operational
+> **Audience:** All hotel staff, training leads, hotel GMs
 
-Гостевой цикл — это полный путь гостя от первого контакта с отелем до возможного повторного визита. Каждый этап — точка касания, где отель может либо укрепить лояльность, либо разрушить её.
+## Why the Guest Journey Is Not Just a Metaphor
 
-Большинство отелей работают только с этапом «проживание». Лидеры работают со всеми пятью.
+The guest journey is a practical management tool. Each stage has specific objectives, touchpoints, and metrics. If you're not managing it deliberately — it manages you, through complaints and reviews.
 
----
+**Standard five-stage structure:**
 
-## Этап 1: Предбронирование (Pre-Arrival Stage 1)
-
-**Что происходит:** Гость ищет отель — Google, Booking, Instagram, отзывы, сайт.
-
-**Ключевые точки влияния:**
-- Рейтинг и отзывы на OTA и Яндекс Картах
-- Сайт: скорость, фотографии, понятные цены
-- Страницы в соцсетях (актуальность, реальные фото)
-
-**Чего хочет гость:** Убедиться, что это надёжное место, понять ценность.
-
-**Ошибки отелей:**
-- Фотографии 10-летней давности
-- Нет ответов на отзывы (положительные и отрицательные)
-- Цены, которые сложно найти и понять
+**Pre-Arrival → Arrival (Check-In) → Stay (Occupancy) → Departure (Checkout) → Post-Stay**
 
 ---
 
-## Этап 2: Бронирование и подготовка к заезду (Pre-Arrival Stage 2)
+## Stage 1: Pre-Arrival
 
-**Что происходит:** Гость оформил бронь, ждёт заезда.
+Begins the moment the booking is confirmed. The guest is already yours — but their experience hasn't started yet.
 
-**Окно возможностей:** За 24–72 часа до заезда — pre-arrival коммуникация. В этот момент открываемость писем > 80% — гость ждёт поездки.
+### What happens at this stage:
+- Booking confirmation (automated, immediate)
+- Pre-arrival communication 48–72 hours before check-in
+- Upsell opportunity at peak anticipation
 
-**Что отправить:**
-- Подтверждение брони с деталями
-- Предложение апгрейда, доп. услуг, раннего заезда
-- Полезная информация: как добраться, парковка, check-in time
-- «Есть ли у вас особые пожелания?»
+### What pre-arrival communication should include:
+- Confirmation of booking details (dates, room type, rate)
+- Arrival information (check-in time, parking, directions)
+- A personal welcome message
+- **An upgrade or add-on offer** — guests are most receptive here, when excitement about the trip is highest
 
-**Правило:** Письмо должно быть полезным, не рекламным.
+**Tip:** If the guest has a special occasion noted in the booking (birthday, anniversary), prepare a small in-room gesture. The cost is minimal; the impression is lasting.
 
----
-
-## Этап 3: Заезд (Arrival)
-
-**Критический момент.** Исследования Gallup: первые 10 минут после заезда определяют, каким запомнится всё проживание.
-
-**7-минутное правило:** Впечатление формируется в первые 7 минут контакта. После — фиксируется.
-
-**Стандарт заезда:**
-1. Визуальный контакт и улыбка до того, как гость подошёл к стойке
-2. Тёплое персонализированное приветствие (использовать имя из брони)
-3. Быстрое оформление (не более 3–5 минут)
-4. Ориентация в отеле: завтрак, парковка, WiFi, ключевые услуги
-5. Искренний интерес: «Как добрались?»
-
-**Что разрушает впечатление при заезде:**
-- Сотрудник смотрит в экран, не на гостя
-- Долгое ожидание без объяснений
-- Стандартные фразы без живого контакта
-- «Ваш номер ещё не готов» без альтернативы
+### Key metrics:
+- Pre-arrival email open rate (benchmark: >70%)
+- Pre-arrival upsell conversion rate (benchmark: 5–15%)
 
 ---
 
-## Этап 4: Проживание (Stay)
+## Stage 2: Arrival
 
-**Тихий этап, который решает всё.** Гость не должен ни о чём думать.
+First physical impression. Research indicates the **first 7 minutes** account for roughly 70% of a guest's overall impression of a stay.
 
-**Принцип:** Проблемы неизбежны. Реакция на проблему — нет.
+### Critical moments:
+- The greeting: warm, personal, immediate
+- Speed: a queue at check-in is the leading cause of negative first impressions
+- Orientation: brief but complete information about the property
 
-**Стандарты проживания:**
-- Уборка к расчётному времени (обычно 14:00 при позднем заезде накануне)
-- Фиксация пожеланий гостя — и выполнение без повторного запроса
-- Ненавязчивое присутствие: видеть, что нужно, прежде чем гость попросит
+### Check-In Checklist:
+- [ ] Agent standing, smiling, making eye contact when the guest approaches
+- [ ] Guest addressed by name
+- [ ] Reservation located quickly (under 2 minutes)
+- [ ] Upsell offered where appropriate
+- [ ] Breakfast time, WiFi, and key amenities communicated
+- [ ] Luggage assistance offered (if applicable)
+- [ ] Guest knows who to contact if they need anything
 
-**Service recovery — золотое правило:**
-Гость, жалоба которого была быстро и правильно решена, лояльнее, чем гость, у которого проблем не было вовсе. Это называется **Service Recovery Paradox**.
-
-При получении жалобы:
-- Немедленная реакция (не «разберёмся»)
-- Конкретное решение с временными рамками
-- Follow-up: «Всё ли в порядке?»
-- Небольшой бонус-извинение
-
----
-
-## Этап 5: Выезд и после (Departure + Post-Stay)
-
-**Выезд — последнее впечатление:**
-- Быстрое и чёткое оформление
-- Вопрос об опыте: «Всё ли вам понравилось?»
-- Приглашение вернуться с конкретным предложением
-
-**Post-stay (через 24–48 часов):**
-- Письмо с благодарностью и просьбой оставить отзыв
-- Ссылка на Booking / 2ГИС / Яндекс
-- Специальное предложение для следующего визита (прямое бронирование)
-
-**Через 30 дней:**
-- Email с актуальным предложением
-- Напоминание о следующем сезоне
+### Technology note:
+Mobile check-in — where guests receive a digital room key on their phone and go straight to the room — is especially valued by business travelers arriving after a long flight. Worth considering as your property grows.
 
 ---
 
-## KPI гостевого цикла
+## Stage 3: Stay (Occupancy)
 
-| Этап | Метрика |
-|---|---|
-| Бронирование | Conversion rate сайта; доля прямых броней |
-| Заезд | NPS при заезде; время оформления |
-| Проживание | Количество жалоб; скорость решения |
-| Выезд | Post-stay NPS |
-| Лояльность | % повторных визитов; email open rate |
+The longest stage. Most touchpoints here involve housekeeping, F&B, and response to in-stay requests.
+
+### What shapes the impression during the stay:
+- **Cleanliness** — consistently the top cited issue in negative reviews
+- **Response speed** — industry benchmark: requests acknowledged within 15 minutes
+- **Proactive service** — when staff anticipate a need before it's expressed
+- **Breakfast and dining** quality and atmosphere
+
+### Proactive touchpoints:
+- **Evening of day 1:** A brief call or text from the manager: "Is everything to your liking? Anything we can do for you?"
+- **Mid-stay (for longer stays, 5+ nights):** Check in and ask if anything needs adjusting
+- **Before checkout:** A reminder about late checkout availability if the option exists
+
+### Non-negotiable service rules:
+- Any staff member who encounters a guest in a hallway greets them and offers help
+- Complaints are never redirected with "that's not my department" — they're owned and passed with follow-through
+- If it was promised, it happens
 
 ---
 
-## Кейсы по теме
+## Stage 4: Departure (Checkout)
 
-- [Личный кабинет гостя](/cases/guest-portal/) — цифровая точка взаимодействия на каждом этапе цикла
-- [Мобильное приложение для персонала](/cases/staff-mobile-app/) — инструмент идентификации и экстренной связи в реальном времени
+The final impression. Properties invest heavily in check-in and neglect checkout — yet checkout is frequently the moment cited in reviews.
+
+### What an excellent checkout looks like:
+- Pre-checkout folio delivered the evening before (email or in-app) — no billing surprises
+- Under 5 minutes at peak times
+- A genuine farewell, using the guest's name
+- Assistance offered for onward transportation
+- A natural mention of the loyalty program or direct booking benefit for next time
+
+**Sample checkout closing line:**
+> "[Name], we really hope you enjoyed your time with us. For your next visit — booking directly on our website gives you the best available rate and [specific perk]. Safe travels, and we hope to see you again."
 
 ---
 
-## Источники
+## Stage 5: Post-Stay
 
-- Gallup — *Customer Experience Research* (2024)
-- Cornell Hospitality Quarterly — *The Hotel Guest Cycle* (2025)
-- Medallia — *Service Recovery Paradox in Hospitality* (2024)
+This is the stage most hotels skip — and it's where repeat business is won or lost. The guest journey is circular, not linear.
+
+### Post-stay tools:
+- **Email 24–48 hours after checkout:** "Thank you for staying with us. We'd love to hear how it went" — with a review link
+- **Review request** (Google, TripAdvisor, Booking.com)
+- **Return offer after 30 days:** "We'd love to have you back — here's a rate just for you"
+- **Anniversary or occasion follow-up:** If the stay was for a honeymoon or milestone, reach back out the following year
+
+### Review response — a separate standard:
+- Respond to all reviews within 24–48 hours
+- Thank guests for positive feedback with specific acknowledgments
+- Respond to negative reviews professionally, acknowledge the issue, describe what's changed
+- Never argue publicly — invite offline resolution
+
+---
+
+## Guest Journey Summary Map
+
+| Stage | Primary Goal | Tool | Owner |
+|---|---|---|---|
+| Pre-Arrival | Confirm details, upsell, build anticipation | Email/WhatsApp automation | Marketing / Front Desk |
+| Arrival | Warm welcome, efficient check-in | Scripts, PMS, upsell | Front Desk |
+| Stay | Quality service, proactive engagement | Housekeeping, F&B, all departments | Everyone |
+| Departure | Strong final impression | Scripts, pre-checkout folio | Front Desk |
+| Post-Stay | Drive return and reviews | Email, CRM | Marketing |
+
+---
+
+## Sources
+
+- Canary Technologies — *The Complete Guest Journey: From Pre-Arrival to Post-Stay* (2023). https://www.canarytechnologies.com/post/complete-hotel-guest-journey
+- Cloudbeds — *The Hotel Guest Journey* (2026). https://www.cloudbeds.com/hotel-guest/journey/
+- GoAudits — *Guest Experience in Hotels: How to Improve Guest Satisfaction* (2025). https://goaudits.com/blog/hotel-guest-experience/
+- Hospitality.Institute — *Understanding the Stages of the Guest Cycle* (2025). https://hospitality.institute/bha105/guest-cycle-stages-in-hotel-ops/

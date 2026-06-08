@@ -1,20 +1,12 @@
 ---
-title: Операции отеля
-description: Housekeeping, управление зонами общего пользования и работа с корпоративными клиентами.
+title: Hotel Operations
+description: Day-to-day hotel operations — housekeeping standards, lobby and breakfast management, and corporate client programs.
 ---
 
-Операционное управление отелем — это баланс между скоростью, качеством и стоимостью. Грязный номер и долгий завтрак — самые частые причины негативных отзывов.
+Smooth hotel operations require clear standards, checklists, and communication between departments. This section covers the practical side of running a hotel.
 
-## Статьи раздела
+## Topics
 
-| Тема | Уровень |
-|---|---|
-| [Housekeeping: нормы времени и стандарты](/hotels/operations/housekeeping/) | Операционный |
-| [Лобби и завтрак: управление зонами](/hotels/operations/lobby-breakfast/) | Операционный |
-| [Корпоративные клиенты и турагенты](/hotels/operations/corporate-clients/) | Стратегический |
-
-## Почему хаускипинг — это не просто уборка
-
-Повышение эффективности хаускипинга напрямую увеличивает GOP (Gross Operating Profit): быстрый оборот номеров позволяет принимать короткие бронирования, а снижение расхода химии и времени снижает себестоимость.
-
-**Норма:** checkout-номер — 30–45 минут, 10–13 номеров за смену. Норма «20–25 номеров» — путь к выгоранию персонала и жалобам.
+- [Housekeeping](housekeeping)
+- [Lobby & Breakfast](lobby-breakfast)
+- [Corporate Clients](corporate-clients)

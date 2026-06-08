@@ -1,26 +1,11 @@
 ---
-title: Персонал зала
-description: Стандарты сервиса, скрипты официанта, мотивация зала и система KPI для ресторанов.
+title: Restaurant Staff
+description: Service standards, staff motivation systems, KPIs, and team development for restaurant front-of-house and kitchen teams.
 ---
 
-Персонал зала — это голос и лицо ресторана. Официант, который знает меню, умеет рекомендовать и читает гостя, продаёт в 3 раза эффективнее.
+Restaurant staff are the primary driver of guest satisfaction and repeat visits. This section covers service standards and motivation systems.
 
-## Статьи раздела
+## Topics
 
-| Тема | Уровень |
-|---|---|
-| [Стандарты сервиса: скрипты от встречи до счёта](/restaurants/staff/service-standards/) | Операционный |
-| [Мотивация зала: чаевые, KPI, конкурсы](/restaurants/staff/motivation-kpi/) | Управленческий |
-
-## Сервисный цикл
-
-1. Встреча и рассадка
-2. Представление и предложение аперитива
-3. Приём заказа
-4. Подача блюд
-5. Mid-meal check-in
-6. Предложение десерта/кофе
-7. Счёт
-8. Прощание
-
-Официант, который знает эту последовательность наизусть, тратит усилия на гостя — а не на вспоминание «что делать дальше».
+- [Service Standards](service-standards)
+- [Motivation & KPI](motivation-kpi)

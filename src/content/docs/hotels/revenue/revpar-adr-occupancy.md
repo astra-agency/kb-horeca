@@ -1,152 +1,151 @@
 ---
-title: RevPAR, ADR, Occupancy — основы без систем
-description: Три ключевые метрики управления доходом отеля, формулы расчёта, бенчмарки и еженедельный мониторинг без RMS.
+title: "RevPAR, ADR, Occupancy: The Fundamentals"
+description: How RevPAR, ADR, and Occupancy work together — formulas, benchmarks, and a weekly tracking system without revenue management software.
 ---
 
-## Почему три цифры важнее одной
+> **Series:** Hotels — Revenue & Demand Management
+> **Level:** Foundational → Practical
+> **Audience:** Hotel GMs, operations managers, independent property owners
 
-Большинство отельеров смотрят на выручку. Умные смотрят на три метрики в связке. Вместе RevPAR, ADR и Occupancy дают полную картину здоровья бизнеса — и именно их требует любой инвестор или управляющая компания в первую очередь.
+## Why Three Numbers Beat One
 
----
-
-## 1. Occupancy Rate (Загрузка)
-
-**Формула:**
-
-```
-Occupancy = (Проданные номера / Доступные номера) × 100
-```
-
-**Пример:** 85 занятых номеров из 100 → Occupancy = 85%
-
-Occupancy — самая интуитивная метрика, но и самая обманчивая. Высокая загрузка не означает высокую прибыль. Отель с 95% загрузкой по бросовым ценам может зарабатывать меньше, чем отель с 70% загрузкой, но по правильным ценам.
-
-**На что смотреть:**
-- Сравнивайте Occupancy по дням недели, а не только по месяцам
-- Разбивайте по сегментам: розница, OTA, корпораты, группы
-- Следите за опережающими показателями: сколько броней уже есть на следующие 30/60/90 дней
+Most hoteliers track revenue. Smart hoteliers track three metrics together. RevPAR, ADR, and Occupancy give you a complete picture of your property's financial health — and they're the first numbers any investor or management company will ask for.
 
 ---
 
-## 2. ADR — Average Daily Rate (Средняя цена за номер)
+## 1. Occupancy Rate
 
-**Формула:**
+**Formula:**
 
 ```
-ADR = Выручка от номеров / Количество проданных номеров
+Occupancy = (Rooms Sold / Rooms Available) × 100
 ```
 
-**Пример:** Выручка 12 000 $ / 80 проданных номеров = ADR = 150 $
+**Example:** 85 occupied rooms out of 100 → Occupancy = 85%
 
-ADR отвечает на вопрос «по сколько мы продаём?». Высокий ADR при низкой загрузке — сигнал, что цена выше рыночной. Низкий ADR при высокой загрузке — сигнал, что вы недооцениваете продукт.
+Occupancy is the most intuitive metric — and the most misleading. High occupancy doesn't mean high profit. A hotel running at 95% on fire-sale rates can earn less than one at 70% with disciplined pricing.
 
-**Что учитывает ADR:**
-- Только проданные номера (не учитывает пустые)
-- Все скидки, которые уже в цене
+**What to track:**
+- Compare occupancy by day of week, not just by month
+- Break it down by segment: retail, OTA, corporate, groups
+- Watch leading indicators: how many bookings are already on the books for the next 30/60/90 days
 
-**Что НЕ учитывает:**
-- Дополнительный доход (F&B, spa, парковка)
-- Стоимость привлечения (комиссия OTA)
+---
+
+## 2. ADR — Average Daily Rate
+
+**Formula:**
+
+```
+ADR = Room Revenue / Rooms Sold
+```
+
+**Example:** $12,000 room revenue / 80 rooms sold = ADR of $150
+
+ADR answers the question: "What are we actually charging?" High ADR with low occupancy signals your rate is above market. Low ADR with high occupancy signals you're leaving money on the table.
+
+**What ADR includes:**
+- Sold rooms only (empty rooms don't factor in)
+- All discounts already baked into the rate
+
+**What ADR does NOT include:**
+- Ancillary revenue (F&B, spa, parking)
+- Distribution costs (OTA commissions)
 
 ---
 
 ## 3. RevPAR — Revenue Per Available Room
 
-**Формула — два равнозначных способа:**
+**Two equivalent formulas:**
 
 ```
-RevPAR = Выручка от номеров / Все доступные номера
-         ИЛИ
+RevPAR = Total Room Revenue / Total Available Rooms
+         OR
 RevPAR = ADR × Occupancy Rate
 ```
 
-**Пример:**
-- ADR = 150 $, Occupancy = 75% → RevPAR = **112.50 $**
-- Если снизить цену до 120 $ и поднять загрузку до 95% → RevPAR = **114.00 $**
+**Example:**
+- ADR = $150, Occupancy = 75% → RevPAR = **$112.50**
+- Drop rate to $120, lift occupancy to 95% → RevPAR = **$114.00**
 
-Второй сценарий выгоднее, даже несмотря на более низкую цену — именно это RevPAR и показывает.
+Scenario two is more profitable — even with a lower rate. That's exactly what RevPAR reveals.
 
-RevPAR — главный KPI revenue management, потому что учитывает одновременно и цену, и загрузку. Это единственная метрика, которая отвечает на вопрос: «Насколько эффективно мы монетизируем весь наш номерной фонд?»
+RevPAR is the primary KPI in revenue management because it captures both rate and occupancy in a single number. It answers the only question that matters: "How effectively are we monetizing every room we have?"
 
 ---
 
-## 4. Как три метрики работают вместе
+## 4. How the Three Metrics Work Together
 
-| Ситуация | Occupancy | ADR | RevPAR | Диагноз |
+| Scenario | Occupancy | ADR | RevPAR | Diagnosis |
 |---|---|---|---|---|
-| Нормальная работа | 70% | 150 $ | 105 $ | OK |
-| Цена слишком высокая | 40% | 200 $ | 80 $ | Снизить цену |
-| Цена слишком низкая | 95% | 80 $ | 76 $ | Поднять цену |
-| Идеальный баланс | 80% | 150 $ | 120 $ | Оптимум |
+| Healthy operation | 70% | $150 | $105 | On track |
+| Rate too high | 40% | $200 | $80 | Drop the rate |
+| Rate too low | 95% | $80 | $76 | Raise the rate |
+| Optimal balance | 80% | $150 | $120 | Target zone |
 
-**Практический вывод:** Стремитесь к максимальному RevPAR, а не к максимальной загрузке или максимальной цене по отдельности.
+**The takeaway:** Optimize for maximum RevPAR — not maximum occupancy or maximum rate in isolation.
 
 ---
 
-## 5. Продвинутые метрики (когда RevPAR становится мало)
+## 5. Advanced Metrics (When RevPAR Isn't Enough)
 
 ### NRevPAR — Net RevPAR
 ```
-NRevPAR = RevPAR − (Дистрибуционные расходы / Доступные номера)
+NRevPAR = RevPAR − (Distribution Costs / Available Rooms)
 ```
-Учитывает комиссии OTA. Если RevPAR вырос, а NRevPAR нет — вы просто больше платите посредникам.
+Accounts for OTA commissions. If RevPAR is up but NRevPAR is flat, you're just paying more to intermediaries.
 
-Данные HotStats (2025): глобальный RevPAR вырос на 19% с 2019 года, но дистрибуционные расходы выросли на 25% за тот же период.
+HotStats data (2025): global RevPAR grew 19% since 2019 — but distribution costs per available room surged 25% over the same period. That's the trap.
 
 ### GOPPAR — Gross Operating Profit Per Available Room
-Учитывает все операционные расходы. Нужен, когда хотите видеть реальную прибыль, а не выручку.
+Factors in all operating costs. Use this when you want to see real profitability, not just top-line revenue.
 
 ### ARPAR — Adjusted RevPAR
 ```
-ARPAR = (ADR − Переменные расходы на номер + Доп. доход на номер) × Occupancy
+ARPAR = (ADR − Variable Costs per Room + Ancillary Revenue per Room) × Occupancy
 ```
-Учитывает и расходы, и доходы от F&B. Более точная картина прибыльности каждого проданного номера.
+Introduced in 2015, ARPAR accounts for both costs and F&B revenue — giving a more accurate picture of what each occupied room actually earns.
 
 ---
 
-## 6. Как считать без систем автоматизации
+## 6. Tracking Without Revenue Management Software
 
-Вам не нужен RMS за 500 $/месяц, чтобы считать базовые метрики. Нужна таблица Excel и дисциплина.
+You don't need a $500/month RMS to track these fundamentals. A disciplined spreadsheet works.
 
-**Минимальная еженедельная таблица:**
+**Minimum weekly tracker:**
 
-| Дата | Доступных номеров | Продано | Occupancy% | Выручка от номеров | ADR | RevPAR |
+| Date | Available Rooms | Sold | Occupancy % | Room Revenue | ADR | RevPAR |
 |---|---|---|---|---|---|---|
-| Пн | 50 | 38 | 76% | 5 700 $ | 150 $ | 114 $ |
-| Вт | 50 | 41 | 82% | 6 355 $ | 155 $ | 127.1 $ |
+| Mon | 50 | 38 | 76% | $5,700 | $150 | $114 |
+| Tue | 50 | 41 | 82% | $6,355 | $155 | $127.10 |
 
-Заполняйте каждый день, смотрите тренд каждую неделю, сравнивайте с аналогичным периодом прошлого года.
+Update it daily. Review the trend weekly. Always compare to the same period last year.
 
-**Три вопроса на еженедельном разборе:**
-1. Где RevPAR ниже плана и почему?
-2. Какой канал бронирования дал лучший ADR?
-3. Какие дни идут слабо на следующие 2 недели?
+**Three questions for your weekly review:**
+1. Where is RevPAR below target — and why?
+2. Which booking channel delivered the best ADR?
+3. Which dates in the next two weeks are tracking soft?
 
 ---
 
-## 7. Бенчмарки по типам объектов (2025)
+## 7. Property-Type Benchmarks (2025)
 
-| Тип объекта | Typical Occupancy | ADR Range | RevPAR Range |
+| Property Type | Typical Occupancy | ADR Range | RevPAR Range |
 |---|---|---|---|
-| Бюджетный / 2* | 65–75% | 50–100 $ | 35–75 $ |
-| Средний класс / 3* | 70–80% | 100–200 $ | 70–160 $ |
-| Апскейл / 4* | 72–82% | 180–350 $ | 130–290 $ |
-| Люкс / 5* | 68–78% | 350–800 $+ | 240–625 $+ |
+| Budget / 2-star | 65–75% | $50–$100 | $35–$75 |
+| Midscale / 3-star | 70–80% | $100–$200 | $70–$160 |
+| Upscale / 4-star | 72–82% | $180–$350 | $130–$290 |
+| Luxury / 5-star | 68–78% | $350–$800+ | $240–$625+ |
 
-> Важнее сравнивать себя с конкурентами в своём сегменте (competitive set / compset), а не с отраслевыми средними.
-
----
-
-## Кейсы по теме
-
-- [RMS — динамическое ценообразование](/cases/rms-dynamic-pricing/) — как автоматика управляет RevPAR через загрузку
-- [Rate Shopper](/cases/rate-shopper/) — данные для обоснованных ценовых решений
+> Note: Figures vary significantly by market, location, and season. What matters most is benchmarking against your specific competitive set, not industry averages.
 
 ---
 
-## Источники
+## Sources
 
-- Canary Technologies — *Advanced Hotel Revenue Management: A Guide for 2026* (2026)
-- AltexSoft — *RevPAR, Occupancy Rate, ADR, and Other Hotel Metrics* (2026)
-- SiteMinder — *Hotel RevPAR: The Complete Guide* (2026)
-- HotStats — *Global hotel performance data* (2025)
+- Canary Technologies — *Advanced Hotel Revenue Management: A Guide for 2026* (2026). https://www.canarytechnologies.com/post/hotel-revenue-management
+- Touchstay — *What is RevPAR?* (2026). https://touchstay.com/blog/what-is-revpar-revenue-per-available-room
+- AltexSoft — *RevPAR, Occupancy Rate, ADR, and Other Hotel Metrics* (2026). https://www.altexsoft.com/blog/revpar-occupancy-rate-adr-hotel-metrics/
+- SiteMinder — *Hotel RevPAR: The Complete Guide* (2026). https://www.siteminder.com/r/calculate-revpar/
+- ProStay — *What is RevPAR in Hotel* (2026). https://www.prostay.com/blog/what-is-revpar/
+- Prosper Hotels — *RevPAR: Hotel Revenue Management Explained* (2025). https://www.prosperhotels.com/blog/revenue-per-available-room-revpar-hotel-revenue-management-explained/

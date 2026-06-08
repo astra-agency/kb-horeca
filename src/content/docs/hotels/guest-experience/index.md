@@ -1,21 +1,13 @@
 ---
-title: Гостевой опыт
-description: Гостевой цикл, работа с жалобами, mystery guest и ответы на отзывы в отеле.
+title: Hotel Guest Experience
+description: Guest cycle management, complaint handling, mystery guest programs, and review response strategies for hotels.
 ---
 
-Гостевой опыт — совокупность всех точек касания от бронирования до пост-пребывания. Управление им осознанно — ключ к высоким оценкам и возвратным гостям.
+Guest experience shapes repeat bookings and online reputation. This section covers every stage of the guest journey and how to turn complaints into loyalty.
 
-## Статьи раздела
+## Topics
 
-| Тема | Уровень |
-|---|---|
-| [Гостевой цикл: от pre-arrival до post-stay](/hotels/guest-experience/guest-cycle/) | Операционный |
-| [Работа с жалобами и конфликтными гостями](/hotels/guest-experience/complaints/) | Операционный |
-| [Mystery Guest: проверки качества](/hotels/guest-experience/mystery-guest/) | Управленческий |
-| [Ответы на отзывы: тон, скорость, шаблоны](/hotels/guest-experience/review-responses/) | Практический |
-
-## Ключевая статистика
-
-- Только **5–10%** недовольных гостей жалуются напрямую — остальные пишут отзыв
-- Первые **7 минут** при заезде формируют ~70% общего впечатления
-- **91%** путешественников с большей вероятностью забронируют отель, где менеджмент отвечает на отзывы
+- [The Guest Cycle](guest-cycle)
+- [Complaint Handling](complaints)
+- [Mystery Guest Programs](mystery-guest)
+- [Responding to Reviews](review-responses)
