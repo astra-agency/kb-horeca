@@ -1,26 +1,14 @@
 ---
-title: Управление загрузкой и доходом
-description: Revenue management для отелей без дорогих систем — RevPAR, ADR, тарифы, прямые продажи, upselling.
+title: Revenue Management
+description: Revenue management strategies for hotels — RevPAR, ADR, occupancy, rate strategy, and upselling without expensive software.
 ---
 
-Раздел охватывает практические инструменты управления доходом для отелей любого размера — без дорогостоящих систем автоматизации.
+Revenue management helps hotels maximize income from available rooms. This section covers the core metrics, seasonal tactics, and practical strategies you can implement without a dedicated RMS.
 
-## Статьи раздела
+## Topics
 
-| Тема | Уровень |
-|---|---|
-| [RevPAR, ADR, Occupancy — основы](/hotels/revenue/revpar-adr-occupancy/) | Базовый → Практический |
-| [Стратегии заполнения в низкий сезон](/hotels/revenue/seasonality/) | Практический |
-| [Прямые продажи vs OTA](/hotels/revenue/direct-vs-ota/) | Стратегический |
-| [Upselling и cross-selling](/hotels/revenue/upselling/) | Практический |
-| [Тарифная политика и пакетные предложения](/hotels/revenue/rate-strategy/) | Практический |
-
-## Ключевые метрики
-
-**RevPAR** (Revenue Per Available Room) — главный KPI эффективности отеля. Считается как ADR × Occupancy или Выручка / Доступные номера.
-
-**ADR** (Average Daily Rate) — средняя цена проданного номера.
-
-**Occupancy** — процент заполненности номерного фонда.
-
-Высокая загрузка ≠ высокий доход. Управляйте тремя метриками в связке.
+- [RevPAR, ADR, Occupancy: The Fundamentals](revpar-adr-occupancy)
+- [Seasonality: Strategies for the Low Season](seasonality)
+- [Direct Sales vs OTA](direct-vs-ota)
+- [Upselling & Cross-Selling](upselling)
+- [Rate Strategy](rate-strategy)

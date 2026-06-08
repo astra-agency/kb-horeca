@@ -1,111 +1,115 @@
 ---
-title: Upselling и cross-selling в отеле
-description: Техники апгрейда номера и допродажи услуг — скрипты для ресепшена, точки касания, метрики программы.
+title: "Upselling and Cross-Selling: Room Upgrades and Ancillary Revenue"
+description: How to increase revenue at every stage of the guest journey — from booking through checkout — with practical scripts and training principles.
 ---
 
-## Два понятия, которые путают
+> **Series:** Hotels — Revenue & Demand Management
+> **Level:** Practical
+> **Audience:** Hotel GMs, front desk managers, training leads
 
-**Upselling** — предложение продукта более высокого класса, чем забронирован. Пример: гость взял стандарт, вы предлагаете делюкс за 30 $ в сутки доплаты.
+## Two Terms People Confuse
 
-**Cross-selling** — предложение дополнительных услуг к основному продукту. Пример: к номеру предлагаете завтрак, трансфер, спа, экскурсию.
+**Upselling** means encouraging a guest to purchase a higher-tier product than originally booked. Example: a guest reserved a standard room; you offer a deluxe for $30/night more.
 
-Оба инструмента при правильном применении не воспринимаются как продажа — только как забота о госте.
+**Cross-selling** means offering complementary products or services alongside the core booking. Example: with the room, you offer breakfast, a spa treatment, airport transfer, or a city tour.
 
----
-
-## Почему это важно финансово
-
-- Вероятность продажи существующему гостю — **60–70%** (против 5–20% для нового контакта)
-- В период COVID американские отели с сильными upsell-программами показали падение выручки на **31.7%** против **63.3%** у конкурентов без таких программ
-- Front desk upsell в момент заезда генерирует **в 5–9 раз** больше дохода, чем pre-arrival upsell по email — при этом комбинация обоих даёт максимальный результат
+Both work together. When executed well, neither feels like a sales pitch — they feel like thoughtful service.
 
 ---
 
-## Точки касания для upsell: весь гостевой цикл
+## Why This Matters Financially
 
-### 1. При бронировании
-На странице оформления бронирования предлагайте апгрейд номера, завтрак, парковку.
-
-### 2. Pre-arrival (за 24-72 часа до заезда)
-Email или WhatsApp с предложением:
-- Апгрейд номера (сьют, вид на море, отдельный этаж)
-- Ранний заезд / поздний выезд
-- Цветы, шампанское, романтический ужин
-
-Письмо имеет открываемость > 80% — гость в максимальном предвкушении поездки.
-
-### 3. Check-in — золотой момент
-При заезде сотрудник ресепшена видит гостя лично.
-
-**Правила:**
-- Сначала тепло поприветствуйте и подтвердите бронь
-- Никогда не начинайте с критики забронированной категории
-- Подавайте апгрейд как персональную возможность
-
-**Пример скрипта:**
-> «Добро пожаловать, [Имя]! Вижу, что у вас бронь на стандартный номер. У меня для вас хорошие новости — сегодня есть возможность занять делюкс с видом на город за [X] в сутки доплаты. Хотите посмотреть фото?»
-
-### 4. Во время проживания
-- «Наш ресторан работает до 22:00, хотите, я забронирую вам столик?»
-- Консьерж-предложения: экскурсии, аренда авто, спа
-- In-room dining и мини-бар
-
-### 5. Check-out
-- Предложение вступить в программу лояльности
-- Скидка на следующее бронирование при прямой брони
+- The probability of selling to an existing guest is **60–70%** (versus 5–20% for a new contact)
+- During COVID, US hotels with strong upsell programs saw revenue drop **31.7%** per occupied room — versus **63.3%** for properties without them
+- Front desk upselling at check-in generates **5–9× more revenue** than pre-arrival email upselling — though combining both approaches delivers the highest return
 
 ---
 
-## Матрица upsell/cross-sell
+## Where to Upsell: Every Stage of the Guest Journey
 
-| Тип | Примеры upsell | Примеры cross-sell |
+### 1. At Booking
+On the checkout page, offer room upgrades, breakfast, parking. Conversion here is lower than at check-in, but requires zero staff time.
+
+### 2. Pre-Arrival (24–72 Hours Before Check-In)
+An email or WhatsApp message with a subject line like "Make the most of your stay" — offering:
+- Room category upgrades (suite, ocean view, club floor)
+- Early check-in / late checkout
+- In-room amenities (flowers, champagne, romantic setup)
+
+Booking confirmation emails have open rates above 80% — guests are at peak anticipation.
+
+### 3. Check-In — The Golden Moment
+The front desk agent sees the guest in person. This is the highest-converting upsell touchpoint.
+
+**Rules:**
+- Greet warmly and confirm the booking first
+- Never open by pointing out the drawbacks of the booked room
+- Frame the upgrade as a personal opportunity: "We have a room with a panoramic view available at a small additional charge — would you like to take a look?"
+- Offer one option, two at most. Too much choice reduces conversion
+
+**Sample script:**
+> "Welcome, [Name]! I can see you're booked in a Standard room. I actually have some good news — we have a Deluxe with a city view available tonight for an additional [X] per night. Want me to pull up a photo?"
+
+### 4. During the Stay
+- At restaurant: "Our dining room is open until 10pm — would you like me to reserve a table?"
+- Concierge touchpoints: tours, car rental, spa
+- In-room dining and minibar
+
+### 5. Checkout
+- Invite the guest to join your loyalty program
+- Offer a discount on their next direct booking
+- "If you come back, I'll make a note of your preferences"
+
+---
+
+## Upsell and Cross-Sell Menu by Category
+
+| Category | Upsell Examples | Cross-Sell Examples |
 |---|---|---|
-| Номер | Апгрейд категории, вид, этаж | Соседний номер для семьи |
-| Заезд/выезд | Ранний check-in (от 6:00), поздний (до 18:00) | Трансфер аэропорт–отель |
-| F&B | Завтрак, полупансион | Ужин в ресторане, вино в номер |
-| Отдых | Spa-процедуры, массаж | Аренда велосипеда, экскурсии |
-| Бизнес | Премиум WiFi | Конференц-зал, кейтеринг |
-| Романтика | Цветы, шампанское, декор номера | Couples spa, фотосессия |
+| Room | Upgrade category, floor, view, size | Adjoining room for families |
+| Arrival / Departure | Early check-in (from 6am), late checkout (until 6pm) | Airport transfer |
+| F&B | Breakfast, half-board | Restaurant dinner, bottle of wine in-room |
+| Leisure | Spa treatments, massage | Bike rental, excursions |
+| Business | Premium WiFi, printer service | Meeting room, catering |
+| Romance | Flowers, champagne, in-room décor | Couples spa, photo session |
 
 ---
 
-## Обучение персонала: ключевые принципы
+## Training Your Team: Key Principles
 
-**Предлагайте пользу, не характеристики:**
+### Never lead with a downside
+"You have a standard room" is neutral. "You have a smaller room" kills trust.
 
-❌ «Номер 45 кв. м с балконом»
+### Sell benefits, not specs
+❌ "It's 484 sq ft with a balcony"
+✅ "The view from that room is perfect for morning coffee — you can see the whole waterfront"
 
-✅ «Оттуда открывается вид на набережную — отличное место для утреннего кофе»
+### Offer once, accept gracefully
+If the guest declines — accept it without pressure. A pushy upsell can torpedo an otherwise excellent stay and affect the review.
 
-**Не давите, предлагайте один раз.** Если гость отказал — принимайте с достоинством. Давление портит впечатление от заезда.
+### Read non-verbal signals
+Crossed arms, averted gaze, evident exhaustion after a long flight — these are not the right moments to pitch. A smooth, fast check-in beats an upsell here.
 
-**Читайте невербальные сигналы.** Закрытые позы, усталость после длинного перелёта — не лучший момент для продажи. Скорость заселения важнее допродажи.
-
-**Система мотивации:** Многие отели платят сотрудникам ресепшена 5–10% от суммы upsell-продаж.
+### Incentivize your front desk team
+Many properties pay front desk agents 5–10% of upsell revenue. It's fair, it's effective, and it aligns everyone's interests.
 
 ---
 
-## Метрики upsell-программы
+## Measuring Your Upsell Program
 
-| Показатель | Как считать |
+| Metric | How to Calculate |
 |---|---|
-| Upsell Conversion Rate | Апгрейды проданные / Апгрейды предложенные × 100 |
-| Upsell Revenue per Check-in | Upsell выручка / Количество заездов |
-| Cross-sell Attachment Rate | Допуслуги к брони / Всего броней × 100 |
+| Upsell Conversion Rate | Upgrades sold / Upgrades offered × 100 |
+| Upsell Revenue per Check-In | Upsell revenue / Total check-ins |
+| Cross-Sell Attachment Rate | Add-ons sold / Total bookings × 100 |
 
-Хороший ориентир для conversion rate при физическом предложении на ресепшене — 15–30%.
-
----
-
-## Кейсы по теме
-
-- [Персонализированные КП](/cases/personalized-proposals/) — автогенерация предложений под конкретного гостя с таймером
-- [Личный кабинет гостя](/cases/guest-portal/) — допродажи через цифровой канал до заезда
+A healthy in-person conversion rate at the front desk runs 15–30%.
 
 ---
 
-## Источники
+## Sources
 
-- Cloudbeds — *Hotel Upselling: 12 Upsell Techniques + Examples* (2026)
-- Oaky — *Hotel front desk upselling: How to make it profitable* (2025)
-- Canary Technologies — *15 Upselling Techniques for Hotels* (2023)
+- Cloudbeds — *Hotel Upselling: 12 Upsell Techniques + Examples* (2026). https://www.cloudbeds.com/hotel-guest/upsell/
+- Oaky — *Hotel front desk upselling: How to make it profitable* (2025). https://oaky.com/en/blog/hotel-front-desk-upselling
+- Social Tables — *9 Clever Upselling Sales Techniques to Increase Hotel Business* (2025). https://www.socialtables.com/blog/hotel-sales/upselling-techniques-2/
+- Canary Technologies — *15 Upselling Techniques for Hotels To Make More Money* (2023). https://www.canarytechnologies.com/post/upselling-techniques-in-hotel

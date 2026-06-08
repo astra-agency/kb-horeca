@@ -1,131 +1,131 @@
 ---
-title: Найм и адаптация персонала в отеле
-description: Как искать, отбирать и вводить в работу сотрудников гостиничного фронт-офиса и хозяйственной службы.
+title: "Hiring and Onboarding in Hospitality"
+description: Why HoReCa is a different labor market, how to hire for attitude over credentials, and a structured 4-week onboarding program that drives 3-year retention.
 ---
 
-## Цена плохого найма
+> **Series:** Hotels — Staff
+> **Level:** Managerial
+> **Audience:** HR managers, hotel GMs, department heads
 
-Замена одного сотрудника обходится в 50–200% его годовой зарплаты: рекрутинг, обучение, потери производительности пока новый человек входит в темп. В отелях с высокой текучестью (>40% в год) это становится непрерывным кровотечением.
+## Why HoReCa Is a Different Labor Market
 
-Правильный найм + правильная адаптация = инвестиция, которая окупается.
+The hotel business is one of the most demanding employers in any economy. Around-the-clock operations, seasonal demand spikes, direct customer-facing work under pressure, physical demands, holidays as regular workdays. This is not an office job — and candidates must understand that before they start, not after.
 
----
-
-## Какие качества искать
-
-Гостиничный бизнес — это сервис. Профессиональные навыки можно обучить. Отношение к людям — нельзя.
-
-**Обязательные личные качества (нанимайте за них):**
-- Эмпатия — способность почувствовать состояние гостя
-- Стрессоустойчивость — спокойствие при жалобах и конфликтах
-- Инициативность — действие без инструкции, когда видит проблему
-- Командность — помогает коллегам без «это не моя работа»
-
-**Профессиональные навыки (обучите сами):**
-- Работа в PMS
-- Знание стандартов уборки
-- Скрипты общения
-- Условия тарифов и бронирования
+Key characteristics of hospitality hiring:
+- **High turnover:** Industry rates run 30–73%, versus 12–15% in most other sectors
+- **Seasonal labor crunches:** Peak periods amplify every staffing gap
+- **Attitude over credentials:** In HoReCa, you hire for character and train for skill. A genuine smile and natural empathy cannot be trained as easily as a PMS system.
 
 ---
 
-## Источники кандидатов
+## Part 1: Recruiting
 
-| Канал | Подходит для | Примечания |
+### Where to Find Hospitality Staff
+
+| Channel | Best For | Notes |
 |---|---|---|
-| hh.ru / Авито Работа | Широкий поиск | Много нерелевантных откликов |
-| Телеграм-каналы отрасли | Опытный персонал | Поиск по «отель вакансия [город]» |
-| Кулинарные / сервисные колледжи | Стажёры, старт-карьера | Нужна программа стажировки |
-| Рекомендации сотрудников | Любые позиции | Лучшее соотношение цены и качества |
-| Профессиональные сообщества | Линейный/мидл персонал | ВКонтакте-группы по гостеприимству |
+| Industry job boards (Indeed, Hospitality Jobs, LinkedIn) | All levels | Standard reach, broad pool |
+| Culinary and hospitality schools | Entry-level | Motivated, trainable, may lack experience |
+| Internal referrals (referral program) | All levels | Highest quality source. Both parties have reputations on the line |
+| Instagram / social media | Younger candidates | Works well for guest-facing roles: servers, front desk |
+| Internal promotion | Middle to senior | Sends the right signal to your entire team |
+
+**Referral program:** Pay existing staff for successful hires — with a 3–6 month retention condition before the bonus is released. It's your cheapest and most reliable sourcing channel.
+
+### What to Assess in an Interview
+
+In hospitality: hire for attitude, train for skills.
+
+**Three assessment areas:**
+
+1. **Service orientation:** Ask for a specific example of when the candidate exceeded a customer's expectations. No concrete example is a red flag.
+
+2. **Stress tolerance:** "Walk me through the most difficult shift you've ever worked. What did you do?" Evaluate the reaction under pressure — not just the outcome.
+
+3. **Teamwork:** A hotel runs as a system. Lone stars break processes. Ask about a time the candidate navigated conflict with a colleague.
+
+### Common Hiring Mistakes
+
+- **Hiring under pressure:** Peak season arrives and you take whoever's available. You get mismatched staff during your most critical period
+- **Not communicating conditions upfront:** The candidate finds out about holiday shifts after the offer. They leave in two weeks
+- **Overweighting credentials:** Focusing on resume and experience while ignoring the human qualities that define hospitality performance
 
 ---
 
-## Процесс найма: 4 этапа
+## Part 2: Onboarding
 
-### 1. Скрининг резюме (10–15 минут на кандидата)
-Смотрите на:
-- Продолжительность работы на каждом месте (красный флаг — менее 6 месяцев)
-- Был ли опыт в сервисе (не только в гостиницах — ресторан, банк, магазин)
-- Грамотность текста резюме
+SHRM research: **69% of employees** who experience a structured onboarding are still with the company three years later. The average cost of replacing one hospitality employee — recruiting, retraining, and lost productivity — runs approximately **$18,000**.
 
-### 2. Телефонное интервью (10 минут)
-Цель — отсеять 60% кандидатов, не тратя время на очную встречу.
+### Day One: Don't Throw Them In
 
-Три вопроса:
-1. «Расскажите о ситуации, когда гость был сильно недоволен. Что вы сделали?»
-2. «Почему уходите/ушли с предыдущего места?»
-3. «Что для вас важно в работе с людьми?»
+**Day one agenda:**
 
-### 3. Очное интервью (30–45 минут)
-Включите ситуационные вопросы (метод STAR):
-- «Опишите ситуацию, когда вам пришлось справляться с несколькими проблемами одновременно»
-- «Расскажите о самом сложном госте, которого вы обслуживали»
+1. Greeted by a manager or senior colleague — not handed a stack of paperwork
+2. Property tour: all guest-facing and back-of-house areas
+3. Team introductions — real conversations, not a hallway parade
+4. Uniform, badge, access credentials issued
+5. Brand values, culture, and history — not just rules and procedures
 
-Для ресепшена: пробное упражнение — разыграйте сценку с конфликтным гостем.
+**The Buddy System:**
+Pair every new hire with an experienced team member for the first 2–4 weeks. The buddy is the go-to contact for questions that new hires feel awkward asking a supervisor.
 
-### 4. Проверка рекомендаций
-Звоните предыдущему работодателю. Вопрос: «Вы бы взяли этого человека обратно?» — даёт честный ответ даже при дипломатических формулировках.
+### Onboarding Timeline by Week
 
----
+| Week | Focus |
+|---|---|
+| 1 | Culture, core standards, key procedures; team integration |
+| 2 | Shadow shifts with buddy; first supervised independent tasks |
+| 3–4 | Independent work with regular check-ins |
+| Month 3 | Formal performance review; feedback; goal adjustment |
 
-## Онбординг: первые 90 дней
+### What Front Desk Onboarding Should Cover
 
-### День 1 — Welcome
-- Встреча и знакомство с командой
-- Экскурсия по объекту: все зоны, технические помещения, аварийные выходы
-- Оформление документов (трудовой договор, медкнижка, инструктаж по охране труда)
-- Вводный инструктаж: культура сервиса, правила внешнего вида, базовые правила отеля
-
-**Принцип:** День 1 должен вызывать гордость за место работы, не страх.
-
-### Дни 2–7 — Обучение стандартам
-- Изучение стандартов отдела (письменно + практика рядом с наставником)
-- Работа в тени: новый сотрудник наблюдает, задаёт вопросы, не самостоятелен
-- Тест по базовым стандартам в конце недели
-
-### Недели 2–4 — Работа под наблюдением
-- Самостоятельная работа, наставник рядом
-- Ежедневная короткая обратная связь (5–10 минут)
-- Сотрудник получает чеклист компетенций и знает, что от него ждут
-
-### Месяц 2–3 — Полная самостоятельность
-- Работа без наставника
-- Встреча с руководителем в конце 1-го месяца: «Как вам у нас? Что мешает работать?»
-- Встреча в конце 3-го месяца: оценка компетенций, решение о подтверждении найма
+- Brand values and guest positioning
+- Key guest segments and their expectations
+- PMS navigation (property management system basics)
+- Check-in and checkout procedure
+- Standard scripts for greeting and service recovery
+- Full property knowledge: every room type, every amenity
+- Upsell opportunities and when to offer them (with role-play)
+- Emergency and safety procedures
+- Complaint handling (HEARD method, role-play)
 
 ---
 
-## Чеклист онбординга (минимум)
+## Part 3: Hospitality Labor Market Realities
 
-- [ ] Трудовой договор подписан
-- [ ] Медицинская книжка оформлена
-- [ ] Инструктаж по охране труда проведён (под подпись)
-- [ ] Сотрудник знает правила внешнего вида
-- [ ] Сотрудник знает план эвакуации
-- [ ] Доступ в системы выдан
-- [ ] Наставник назначен
-- [ ] Первый check-in с руководителем запланирован
+### Seasonal Workforce
+For resort properties, seasonal hiring is standard. Best practices:
+- Invite your best seasonal staff back first the following season — build a returning pool
+- Extend offers 3–4 months before the season opens — the market is competitive
+- Track anyone who returns two or more times; they're candidates for permanent roles
 
----
+### Non-Linear Career Paths
+In hospitality, lateral growth is as valuable as vertical. Front desk agent → senior agent → front office supervisor → front office manager is a real career. Make the path visible from day one.
 
-## Красные флаги при найме
-
-- Кандидат жалуется на всех прошлых работодателей
-- «Я умею всё» без конкретных примеров
-- Не может описать сложную ситуацию из опыта
-- Опоздание на собеседование без звонка
-- Неухоженный внешний вид (для сервисных позиций)
+### Document Everything
+Standards must exist in writing. Oral tradition breaks down entirely with high turnover. Every new hire effectively starts from zero without documented SOPs.
 
 ---
 
-## Кейсы по теме
+## Front Desk Onboarding Checklist
 
-- [Автоматизация HR-процессов](/cases/hr-automation/) — цифровой онбординг, задачи по приёму, обходной лист
+- [ ] Property tour completed
+- [ ] Uniform, badge, and access keys issued
+- [ ] Buddy assigned
+- [ ] Greeting standard explained and practiced
+- [ ] PMS training completed (basic level)
+- [ ] Role-play: standard check-in completed
+- [ ] Role-play: guest complaint handled
+- [ ] Full room types and services briefed
+- [ ] Safety and emergency procedure briefing completed
+- [ ] 7-day check-in conducted: "How's it going? Any questions?"
 
 ---
 
-## Источники
+## Sources
 
-- Cornell Hospitality Quarterly — *Hotel Turnover and Retention Strategies* (2025)
-- hh.ru Аналитика — *Рынок труда в гостиничном бизнесе России* (2025)
+- Mews — *6 strategies to reduce staff turnover in the hospitality industry* (2026). https://www.mews.com/en/blog/hotel-staff-turnover
+- Canary Technologies — *10 Proven Employee Retention Strategies for the Hotel Industry* (2026). https://www.canarytechnologies.com/post/hotel-employee-retention-strategies
+- StaffedUp — *How to Retain Top Hospitality Talent in 2025* (2026). https://staffedup.com/how-to-retain-top-hospitality-talent-in-2025-proven-employee-retention-strategies/
+- MDPI — *Challenges and Strategies for Employee Retention in the Hospitality Industry* (2022). https://www.mdpi.com/2071-1050/14/5/2885

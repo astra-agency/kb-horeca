@@ -23,6 +23,28 @@ git checkout en-version
 ### Высокий
 
 - [ ] **DNS + Pages custom domain** — kb-horeca.site
+- [ ] **EN как дефолтная локаль** — поменять `defaultLocale` в `astro.config.mjs`:
+  - Сейчас: `defaultLocale: 'root'` (RU без префикса, EN на `/en/`)
+  - Цель: EN на корне `/`, RU на `/ru/`
+  - Потребует: переместить все RU файлы из `src/content/docs/` в `src/content/docs/ru/`, обновить все внутренние ссылки, обновить sidebar slugs
+  - ⚠️ Большой рефакторинг — делать отдельной веткой
+- [ ] **Badges в sidebar** — пометить EN-only группы кейсов и новый контент:
+  ```js
+  { label: 'Operations & Supply Chain', badge: { text: 'EN', variant: 'tip' }, ... }
+  { label: 'Staff & Compliance', badge: { text: 'EN', variant: 'tip' }, ... }
+  { label: 'Finance & IT', badge: { text: 'EN', variant: 'tip' }, ... }
+  ```
+
+### Средний
+
+- [ ] **Перевод RU статей на EN** — оставшийся контент без EN-версии:
+  - `src/content/docs/services/` — IT сервисы (PMS, POS, Channel Manager, CRM и др.)
+  - `src/content/docs/hotels/pms/` — 7 PMS систем + сравнение
+  - `src/content/docs/restaurants/pos/` — iiko, r_keeper, Poster + сравнение
+  - `src/content/docs/hotels/` — website-booking, channel-manager, reputation, crm
+  - `src/content/docs/restaurants/` — delivery, loyalty, reservation
+  - `src/content/docs/regulations/` — 54-ФЗ, ЕГАИС, ФМС (адаптировать для EN аудитории или пропустить)
+  - Итого: ~30+ страниц
   1. GitHub → репо `kb-horeca` → **Settings → Pages → Source → GitHub Actions**
   2. Custom domain → `kb-horeca.site` → Save
   3. DNS: CNAME `kb-horeca.site` → `astra-agency.github.io`

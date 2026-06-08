@@ -1,126 +1,148 @@
 ---
-title: "Инжиниринг меню: матрица звёзды/рабочие лошади"
-description: Классическая матрица анализа меню по прибыльности и популярности — Stars, Plowhorses, Puzzles, Dogs — и как применять результаты.
+title: "Menu Engineering: Stars, Plowhorses, Puzzles, and Dogs"
+description: The 2×2 menu engineering matrix with step-by-step analysis, contribution margin calculations, guest psychology design principles, and quarterly review cadence.
 ---
 
-## Что такое инжиниринг меню
+> **Series:** Restaurants — Menu and Economics
+> **Level:** Practical
+> **Audience:** Restaurant owners, executive chefs, general managers
 
-Инжиниринг меню (menu engineering) — это систематический анализ каждого блюда по двум параметрам: **прибыльность** (contribution margin) и **популярность** (объём продаж). Метод разработан в 1982 году Касаварой и Смитом, до сих пор остаётся стандартом отрасли.
+## What Menu Engineering Actually Is
 
-Цель: принять решения о ценообразовании, позиционировании и составе меню на основе данных, а не интуиции.
+Menu engineering is the analysis and optimization of your menu based on two metrics for each item: **how popular it is** (how often it sells) and **how profitable it is** (how much margin it generates).
 
----
+The result is a 2×2 matrix that gives you clear, actionable direction for every item on the menu: promote, reposition, reprice, or remove.
 
-## Ключевые понятия
+> Research shows guests spend an average of **109 seconds** studying a menu before ordering (Gallup). A well-engineered menu actively influences what they choose in those 109 seconds.
 
-### Food Cost (Себестоимость блюда)
-Стоимость ингредиентов для одной порции.
-
-### Contribution Margin (Маржинальный вклад)
-```
-CM = Цена продажи − Food Cost
-```
-
-Это деньги, которые покрывают операционные расходы и создают прибыль. Не путать с прибылью — из CM ещё нужно вычесть персонал, аренду и прочее.
-
-### Food Cost % (Процент себестоимости)
-```
-Food Cost % = Food Cost / Цена × 100
-```
-
-Норма: 25–35% для большинства ресторанов. Для дорогих протеинов (стейки, морепродукты) — до 40%.
+Menu optimization through engineering typically increases profitability by **10–15%** without changing prices.
 
 ---
 
-## Четыре категории матрицы
+## The Menu Engineering Matrix
 
-| | Высокая маржа (CM выше среднего) | Низкая маржа (CM ниже среднего) |
-|---|---|---|
-| **Высокая популярность** | ⭐ Stars (Звёзды) | 🐴 Plowhorses (Рабочие лошади) |
-| **Низкая популярность** | ❓ Puzzles (Загадки) | 🐕 Dogs (Собаки) |
+Two axes:
 
-### ⭐ Stars — Звёзды
-Высокий CM + высокий спрос. Флагманы меню.
+- **Y-axis (vertical):** Popularity — how often an item sells relative to the rest of the menu
+- **X-axis (horizontal):** Profitability — contribution margin (selling price minus food cost)
 
-**Стратегия:** Защищать, поддерживать качество. Размещать на лучших позициях в меню. Не снижать цену — можно осторожно повышать.
-
-### 🐴 Plowhorses — Рабочие лошади
-Низкий CM + высокий спрос. Гости любят, но они «дорогие» в производстве.
-
-**Стратегия:** Снизить food cost (другие поставщики, порция, замена ингредиентов без потери качества). Повысить цену осторожно. Сохранять в меню — гости их ищут.
-
-### ❓ Puzzles — Загадки
-Высокий CM + низкий спрос. Прибыльные, но непопулярные.
-
-**Стратегия:** Понять почему не продаются. Переименовать? Переместить в меню? Добавить описание или фото? Обучить персонал продавать активнее.
-
-### 🐕 Dogs — Собаки
-Низкий CM + низкий спрос. Не нужны никому.
-
-**Стратегия:** Как правило, убрать из меню. Исключения: блюда для специальных диет, где нет альтернативы, или блюда с очень низкой себестоимостью производства.
+This produces four quadrants:
 
 ---
 
-## Как провести анализ: шаг за шагом
+### ⭐ Stars
+**High popularity + High profitability**
 
-### Шаг 1: Соберите данные
-За период (оптимально: 1–3 месяца):
-- Количество продаж каждого блюда
-- Food cost каждого блюда
-- Цена продажи
+Your best performers. They sell well and generate strong margin. Think your signature burger, pasta carbonara, or fan-favorite dessert.
 
-### Шаг 2: Рассчитайте CM для каждого блюда
-```
-CM = Цена − Food Cost
-```
-
-### Шаг 3: Рассчитайте средний CM меню
-```
-Средний CM = Сумма всех CM / Количество блюд
-```
-
-### Шаг 4: Определите порог популярности
-```
-Ожидаемая доля = 1 / Количество блюд × 70%
-```
-Блюда, которые заказывают чаще ожидаемого = высокая популярность.
-
-### Шаг 5: Классифицируйте
-
-| Блюдо | Продажи | CM | Категория |
-|---|---|---|---|
-| Цезарь | 210 | 380 ₽ | ⭐ Star |
-| Стейк рибай | 85 | 250 ₽ | 🐴 Plowhorse |
-| Тар-тар из лосося | 40 | 520 ₽ | ❓ Puzzle |
-| Луковый суп | 12 | 180 ₽ | 🐕 Dog |
+**What to do:**
+- Feature them prominently (top-right of menu, first in a section)
+- Give them photos, descriptive copy, or a "recommended" badge
+- Brief servers to actively mention them
+- **Don't change them without strong reason** — these are your golden geese
 
 ---
 
-## Применение результатов в дизайне меню
+### 🐴 Plowhorses
+**High popularity + Low profitability**
 
-**Принципы расположения:**
-- Звёзды — на «золотых позициях»: правый верхний угол, начало секции, выделение рамкой
-- Загадки — в зонах активного внимания с описанием или фотографией
-- Рабочие лошади — стандартное размещение
-- Собаки — убрать или переместить в конец
+Guests love them but they don't earn much. Often this means expensive ingredients or historically under-priced items.
 
-**Психология меню:**
-- Ограничьте меню (7 + 2 позиции на секцию — правило выбора)
-- Якорное ценообразование: дорогое блюдо делает соседние «дешёвыми»
-- Описание увеличивает продажи на 27% (добавьте происхождение продукта, метод приготовления)
+**What to do:**
+- Slightly adjust the recipe (portion size, substitute one ingredient)
+- Test a modest price increase — 5–10%, no announcement needed
+- Add a profitable modifier or side (charged separately)
+- **Don't remove them** — they drive traffic. Without Plowhorses, guests go elsewhere
 
 ---
 
-## Когда проводить анализ
+### 🧩 Puzzles
+**Low popularity + High profitability**
 
-- **Минимум:** раз в 3 месяца
-- **Перед сменой сезонного меню:** обязательно
-- **После изменения цен поставщиков:** пересчитайте food cost
+Profitable items that guests aren't ordering. These are potential Stars — find out why they're being overlooked.
+
+**What to do:**
+- Move them to a more prominent position on the menu
+- Improve the description: add the story, the technique, the sensory language
+- Train servers to proactively recommend them
+- Add a photo or visual callout in the menu or on table cards
+- Consider a modest price reduction to stimulate trial
 
 ---
 
-## Источники
+### 🐕 Dogs
+**Low popularity + Low profitability**
 
-- Kasavana & Smith — *Menu Engineering: A Practical Guide* (1982, актуально)
-- National Restaurant Association — *Menu Profitability Guide* (2025)
-- Toast POS — *Restaurant Menu Engineering Guide* (2025)
+Nobody orders them and they earn nothing. They take up menu real estate, confuse guests, and complicate kitchen prep.
+
+**What to do:**
+- Generally — cut them. Fewer items = clearer choice for the guest
+- Exception: if the item is essential to your brand positioning or serves a critical dietary segment (e.g., the only vegan option), keep it — but don't promote it
+- Before removing: try renaming, repositioning, or reformulating first
+
+---
+
+## How to Run the Analysis: Step by Step
+
+### Step 1: Gather Your Data
+
+From your POS system over a defined period (4–12 weeks recommended):
+- Number of times each item was ordered
+- Revenue per item
+
+From your chef or kitchen manager:
+- Food cost per portion for each item
+
+### Step 2: Calculate Contribution Margin
+
+```
+Contribution Margin = Selling Price − Food Cost
+
+Example:
+Ribeye steak: $38 (price) − $14 (cost) = $24 CM
+Pasta: $18 − $5 = $13 CM
+```
+
+Note: a high CM in dollars beats a high CM percentage. The ribeye above generates more margin per sale than the pasta — even though the pasta may have a lower food cost percentage.
+
+### Step 3: Calculate Popularity (Menu Mix %)
+
+```
+Menu Mix % = Item Units Sold / Total Menu Items Sold × 100
+
+If a section has 20 items: average = 5%
+Above 5% = popular; below 5% = under-performing
+```
+
+### Step 4: Plot the Matrix
+
+Build a simple table in Excel or Google Sheets: two columns (CM and Menu Mix %), mark items as high/low relative to average. That's your matrix.
+
+---
+
+## Menu Design: Guest Psychology
+
+Data tells half the story. The other half is how you present information on the physical menu.
+
+**Evidence-based design principles:**
+- **The "sweet spot":** Guests look to the upper-right first. That's where your Stars go
+- **Remove currency symbols:** "28" sells better than "$28" — currency symbols activate what psychologists call "the pain of paying"
+- **Limit choice:** 7 ± 2 items per section is the cognitive optimum. More = decision paralysis
+- **Descriptions drive sales:** "Slow-braised over an open wood fire" outsells "braised" every time — the story matters
+
+---
+
+## How Often to Re-Engineer Your Menu
+
+- **Quarterly:** Full matrix analysis based on the previous quarter's sales data
+- **Seasonally:** Update items to align with seasonal availability and price shifts
+- **When supplier costs change:** Recalculate food costs and flag Plowhorses that may have crossed into Dog territory
+
+---
+
+## Sources
+
+- Toast POS — *Menu Engineering Matrix: Your Guide to Stars, Puzzles, & More* (n.d.). https://pos.toasttab.com/blog/on-the-line/menu-engineering-matrix
+- Meez — *Menu Engineering: How to Build a Profitable Restaurant Menu* (2025). https://www.getmeez.com/blog/the-ultimate-guide-to-menu-engineering
+- SpotOn — *Menu Engineering: Free Worksheet + Profitable Menu Tips* (2025). https://www.spoton.com/blog/menu-engineering/
+- Foodics — *Menu Engineering 101: How to Maximize Profit from Every Dish* (2025). https://www.foodics.com/menu-engineering-matrix-for-restaurants/

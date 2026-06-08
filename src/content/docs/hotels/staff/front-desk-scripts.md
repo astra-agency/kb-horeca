@@ -1,111 +1,148 @@
 ---
-title: Скрипты и стандарты ресепшена
-description: Речевые модули для администраторов отеля — приветствие, заезд, жалобы, выезд, телефонные звонки.
+title: "Service Standards: Front Desk Scripts and SOPs"
+description: Word-for-word scripts for check-in, checkout, phone calls, and complaint handling — plus the HEARD method and appearance standards.
 ---
 
-## Зачем скрипты, если у каждого гостя свой характер
+> **Series:** Hotels — Staff
+> **Level:** Operational
+> **Audience:** Front desk managers, training leads, hotel GMs
 
-Скрипты — не про роботов. Это минимальный гарантированный стандарт, ниже которого сотрудник не опустится. Хороший скрипт звучит естественно, оставляет пространство для личного контакта и защищает от двух крайностей: формального безразличия и неуместной фамильярности.
+## Why Scripts Work — and Why They Shouldn't Sound Like Scripts
 
----
+A script is not the goal — it's the framework. It gives your team confidence in high-pressure moments and maintains quality when they're tired or stressed. But a script read mechanically is worse than no script at all. Guests sense it immediately.
 
-## Стандарт телефонного звонка
+**The Hilton standard:** Greet every guest with a smile and by their last name, use professional language, respond to needs promptly. Answer phone calls within 3 rings. Use an open hand — never a pointed finger — when giving directions.
 
-**Входящий звонок:**
-> «[Название отеля], [имя сотрудника], добрый день! Чем могу помочь?»
-
-**Перевод на удержание:**
-> «Одну минуту, пожалуйста — соединю вас с нужным отделом. Не вешайте трубку.»
-
-**Правила:**
-- Ответить до 3-го звонка
-- Имя — обязательно (гость понимает, с кем говорит)
-- Никогда: «Алло», «Слушаю», «Ну»
+The goal of training is to make standards automatic, so your team can spend mental energy on the guest — not on remembering the procedure.
 
 ---
 
-## Стандарт приветствия при заезде
+## Block 1: Arrival — Check-In Script
 
-**Шаг 1 — визуальный контакт:**
-Подняться от компьютера, улыбнуться, установить зрительный контакт до того, как гость подойдёт к стойке.
+### Standard check-in with a reservation
 
-**Шаг 2 — приветствие:**
-> «Добро пожаловать в [название отеля]! [Имя], рад вас видеть. Позвольте уточнить вашу фамилию?»
+**Agent:** "Good [morning/afternoon/evening], welcome to [Hotel Name]! How can I help you today?"
 
-**Шаг 3 — подтверждение брони:**
-> «Всё верно, у вас забронирован [тип номера] с [дата] по [дата], [условия: завтрак включён / без завтрака]. Паспорт, пожалуйста.»
+**Guest:** "Hi, I have a reservation under [Name]."
 
-**Шаг 4 — upsell (если есть возможность):**
-> «[Имя], вижу, что у вас стандартный номер. Сегодня есть возможность занять делюкс с видом на [парк/набережную/центр] — за [X] рублей в сутки доплаты. Хотите посмотреть фото?»
+**Agent:** "Wonderful — let me pull that up for you... I have your booking here, [Guest Name] — [room type] for [number] nights. Does that all look correct?"
 
-**Шаг 5 — вручение ключей:**
-> «Ваш номер [номер] на [этаж] этаже. Лифт — прямо по коридору. Завтрак с [время] до [время] в [ресторане/зале]. Если что-то понадобится — звоните, ноль на внутреннем телефоне. Приятного отдыха!»
+*(After confirmation:)*
 
----
+**Agent:** "Before I get you settled, I wanted to mention — we do have a [higher category] available this evening for an additional [X] per night. It features [key benefit]. Would you like to take a look at photos?"
 
-## Стандарт телефонного обслуживания из номера
+*(At key handoff):*
 
-**Входящий звонок от гостя:**
-> «Ресепшен, [имя], слушаю вас.»
-
-**Запрос на услугу:**
-> «Конечно, [Имя]. Уточню и перезвоню вам в течение [5 минут / немедленно].»
-
-**Важно:** Всегда перезванивайте в обещанные сроки. Не перезвонить = сломать доверие.
+**Agent:** "Your room is [XXX] on the [Nth] floor. The elevator is just to your right. Breakfast is served [time] in [restaurant name]. If there's anything you need during your stay — just dial zero or stop by the desk. Enjoy your stay, [Guest Name]!"
 
 ---
 
-## Работа с жалобами: метод HEARD
+### Walk-In (No Reservation)
 
-| Шаг | Что делать | Фраза |
-|---|---|---|
-| **H** — Hear (Выслушать) | Дать гостю высказаться полностью, не перебивать | — |
-| **E** — Empathize (Сочувствовать) | «Я понимаю, как это неприятно.» | |
-| **A** — Apologize (Извиниться) | Даже если вашей вины нет | «Приношу свои извинения за доставленные неудобства.» |
-| **R** — Resolve (Решить) | Конкретное действие | «Сейчас же отправлю техника / переселим вас / принесём [X].» |
-| **D** — Delight (Порадовать) | Небольшой бонус: комплимент, скидка | «В знак внимания — комплимент от отеля.» |
+**Agent:** "Good evening! Do you have a reservation, or are you looking for a room for tonight?"
 
-**Что нельзя говорить при жалобе:**
-- «Это не наша проблема»
-- «Вы должны были сообщить раньше»
-- «Других жалоб не было»
-- «Правила отеля не позволяют»
+*(If requesting a room on the spot):*
+
+"We have a few options available tonight: [room types and rates]. That includes [breakfast/WiFi/etc.]. Would you like to see what's available?"
 
 ---
 
-## Стандарт выезда (Check-out)
+## Block 2: Phone Calls
 
-**Шаг 1:**
-> «Добрый день! Выезжаете сегодня? Как вам отдых / поездка?»
+**Standard:** Answer within 3 rings. Open with the hotel name, your name, and an offer to help.
 
-**Шаг 2 — счёт:**
-> «Позвольте, выведу счёт. [Объяснить позиции при наличии вопросов.] Оплата — картой или наличными?»
+**Agent:** "[Hotel Name], front desk, this is [Name]. How can I help you?"
 
-**Шаг 3 — обратная связь:**
-> «Будем рады видеть вас снова. Если у вас будет минута — мы будем очень благодарны за отзыв на [Booking / 2ГИС / Яндексе].»
+**When transferring:**
 
-**Шаг 4 — лояльность:**
-> «[Имя], у нас есть специальная цена для постоянных гостей при прямом бронировании. Могу оставить вам карточку с контактами?»
+"One moment please — I'll connect you with the right person."
 
----
+*(If hold exceeds 2 minutes):*
 
-## Типовые ситуации и ответы
-
-### Ранний заезд (номер не готов)
-> «[Имя], номер будет готов приблизительно в [время]. Вы можете оставить багаж у нас, воспользоваться лобби и [завтраком / кафе / спа]. Как только номер будет готов — сразу сообщим вам.»
-
-### Поздний выезд (запрос гостя)
-> «Уточню наличие — одну минуту. [Пауза.] Да, могу предложить выезд до [время] за [X] рублей / бесплатно для наших постоянных гостей.»
-
-### Гость пришёл без брони
-> «Конечно, посмотрим, что есть. Сколько ночей планируете? [Предложить доступные варианты с ценами.]»
-
-### Потеря карты-ключа
-> «Сейчас перепрограммирую новую карту — займёт секунду. [Сделать.] Пожалуйста! Если что — всегда рады помочь.»
+"Thank you for your patience. The line is still busy — I can take a message and have someone call you back within 15 minutes, or I can try again if you prefer to hold."
 
 ---
 
-## Источники
+## Block 3: Checkout Script
 
-- Cornell University School of Hotel Administration — *Front Desk Service Standards* (2025)
-- Hospitality Net — *Hotel Front Desk Scripts and Communication Standards* (2024)
+**Agent:** "Good [morning], [Guest Name]! Are you checking out today?"
+
+*(After confirmation):*
+
+"Let me pull your folio. How was everything during your stay?"
+
+*(If the guest was satisfied):*
+
+"Really glad to hear it! If you're planning another visit, we offer [loyalty program / a direct booking discount] — and I'd love to note any preferences for next time. Would that be helpful?"
+
+*(Closing):*
+
+"Thank you so much for choosing us, [Guest Name]. Your receipt has been sent to [email]. Safe travels — and we hope to see you again soon!"
+
+---
+
+## Block 4: Handling Complaints at the Front Desk
+
+Use the **HEARD** method:
+
+- **H — Hear:** Give the guest your full, undivided attention. Step away from the screen, make eye contact, and don't interrupt. Let them express their frustration completely.
+- **E — Empathize:** "I completely understand how frustrating that must be." / "That's not at all the experience we want you to have."
+- **A — Apologize:** Apologize on behalf of the property — even if you're personally not at fault. You represent the brand.
+- **R — Resolve:** Offer a concrete solution. Where possible, give options so the guest feels in control.
+- **D — Diagnose:** Log the incident and pass it to the relevant department to prevent recurrence.
+
+**Sample script:**
+
+**Guest:** "My room wasn't cleaned for the second day in a row!"
+
+**Agent:** *[Full attention, eye contact]* "I completely understand — you should always come back to a clean, fresh room. I'm truly sorry this happened. Let me contact housekeeping right now and get that taken care of within [X] minutes. While you wait, I'd be happy to offer [coffee in the lobby / a complimentary amenity]. Does that work for you?"
+
+---
+
+## Block 5: Common Challenging Situations
+
+### The Room Isn't Available
+
+"Unfortunately, that room type is fully booked for tonight. What I can offer instead is [alternative] — it has [positive differentiator]. Would that work for you?"
+
+### Guest Asks for a Discount
+
+"I understand completely. This is actually our best available rate for this period. What I can do is [add late checkout / an in-room amenity / a restaurant credit] — that way you get a bit more out of your stay."
+
+### Noise Complaint at Night
+
+"I'm so sorry for the disturbance. I'll address the guests in the adjacent room right now. If the noise continues in the next 15 minutes, please call down and we'll find a solution immediately. Have a restful night."
+
+---
+
+## Appearance and Behavior Standards
+
+| Area | Standard |
+|---|---|
+| Uniform | Clean, pressed, name badge visible at all times |
+| Guest's name | Use it naturally — once or twice in conversation, not excessively |
+| Body language | Upright posture, open gestures, eye contact maintained |
+| Personal phone | Never on the desk during a shift |
+| Gum | Not permitted |
+| Conversations with colleagues | Paused immediately when a guest approaches |
+
+---
+
+## Role-Play Training: Making Standards Stick
+
+Standards only work when they're practiced. Run weekly 15-minute sessions:
+
+1. Manager plays the guest in a real scenario
+2. Team member responds in real time
+3. Debrief: what worked, what didn't
+
+Rotate through five situations per month: greeting, complaint, upsell, declining a request, checkout. Repeat until responses feel natural, not rehearsed.
+
+---
+
+## Sources
+
+- Canary Technologies — *Welcoming & Greeting Hotel Guests: 13 Scripts To Follow* (2026). https://www.canarytechnologies.com/post/welcoming-and-greeting-the-guest-in-hotel-script
+- Cvent — *Hotel Front Desk Training: 8 Need-to-Know Tips* (2026). https://www.cvent.com/en/blog/hospitality/hotel-front-desk-training
+- GoAudits — *Hotel Front Office SOPs: Procedures, Templates* (2026). https://goaudits.com/blog/hotel-front-office-sop/
+- Oaky — *Hotel front desk training: 9 steps to stellar service* (n.d.). https://oaky.com/en/blog/hotel-front-desk-training

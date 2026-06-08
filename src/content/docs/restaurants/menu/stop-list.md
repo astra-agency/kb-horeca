@@ -1,99 +1,141 @@
 ---
-title: "Стоп-лист: управление и коммуникация"
-description: Как организовать систему стоп-листа в ресторане — предотвращение, коммуникация с залом, влияние на гостевой опыт.
+title: "The 86: Managing Out-of-Stock Items"
+description: Why items go 86, PAR level calculations, real-time communication protocols, guest-facing scripts for run-outs, and a substitution reference system.
 ---
 
-## Что такое стоп-лист и почему он разрушает гостевой опыт
+> **Series:** Restaurants — Menu and Economics
+> **Level:** Operational
+> **Audience:** Restaurant GMs, executive chefs, floor managers
 
-Стоп-лист — список блюд, которые временно недоступны из-за отсутствия ингредиентов или готового продукта.
+## What "86" Means and Why It's Inevitable
 
-Для гостя «этого нет в наличии» — разочарование. Для ресторана — потеря выручки и репутационный риск, если это повторяется.
+**"86'd"** — the restaurant shorthand for an item that's temporarily unavailable. This happens to every restaurant. Inventory runs out. Suppliers deliver late. Equipment breaks. Running an item off the menu occasionally is normal operations — not a failure.
 
-**Прямой ущерб стоп-листа:**
-- Гость заказывает блюдо, его нет → раздражение
-- Гость пересматривает заказ → снижение среднего чека
-- Гость уходит → потеря 100% выручки со стола
+The failure is in *how* it happens: proactively, with alternatives ready, or after a guest has already ordered.
 
-**Косвенный ущерб:**
-- Отзыв «постоянно нет блюд из меню»
-- Репутация заведения с хаотичным хозяйством
+A real scenario that plays out in restaurants daily: A server takes a steak order, goes to the kitchen, returns 5 minutes later with "I'm so sorry — we're out of steak." The guest is frustrated, the mood shifts, the evening is affected. And the steak ran out an hour ago. Nobody told the floor.
 
 ---
 
-## Причины возникновения стоп-листа
+## Why Items Get 86'd
 
-| Причина | Как предотвратить |
-|---|---|
-| Некорректный заказ продуктов | Анализ продаж + нормы расхода |
-| Порча продукта | Контроль хранения + ФИФО |
-| Неожиданный ажиотаж | Буферный запас топовых позиций |
-| Проблемы с поставщиком | Резервный поставщик на ключевые позиции |
-| Нет контроля расхода в течение дня | Система мониторинга расхода по сменам |
-
----
-
-## Система управления запасами для предотвращения
-
-### Нормы расхода
-Для каждой позиции меню должна быть норма расхода ингредиента в день (на основе среднего числа порций). Закупка = норма × дни до следующей поставки + буфер 15–20%.
-
-### FIFO (Первый пришёл — первый ушёл)
-Продукты с более ранним сроком годности всегда использовать первыми. Новые поставки — в конец стеллажа.
-
-### Контроль остатков в течение дня
-Повар или шеф-повар проверяет остатки ключевых продуктов минимум дважды: перед открытием и в середине смены.
-
-### Точка стоп-листа
-Установите заранее, при каком остатке блюдо уходит в стоп:
-
-| Позиция | Критический остаток | Действие |
+| Cause | Frequency | Preventable? |
 |---|---|---|
-| Стейк рибай | <2 порции | Уведомить зал, снять с меню доски |
-| Супы | <3 порции | Предложить альтернативу |
-| Рыба дня | <1 порция | Стоп |
+| Ingredient / product ran out | Very high | Mostly yes — purchasing management |
+| Supplier delivery failure | Medium | Partially — backup suppliers help |
+| Equipment breakdown | Low | No — only rapid response |
+| Seasonal unavailability | Predictable | Yes — seasonal menu planning |
+| Staffing gap (complex dishes) | Low | Yes — shift planning |
 
 ---
 
-## Алгоритм работы со стоп-листом в смену
+## Part 1: Prevention
 
-### 1. Перед открытием (briefing)
-- Шеф или су-шеф передаёт официантам список стоп-позиций
-- Официанты должны знать наизусть или иметь шпаргалку
+### PAR Levels: Inventory That Doesn't Hit Zero
 
-### 2. В течение смены
-- При добавлении позиции в стоп → немедленное уведомление зала
-- Обновление меню-досок, цифровых меню (если есть)
-- Официанты предлагают альтернативу
+**PAR (Periodic Automatic Replenishment)** is the minimum quantity of an item that should be on hand. When inventory drops to or below PAR, an order is triggered — automatically or manually.
 
-### 3. Работа с гостем, когда блюда нет
+**How to calculate PAR:**
+```
+PAR = Average consumption per period + Safety stock
 
-**Правило:** Никогда не говорить просто «нет» без альтернативы.
+Example: Steaks sold: 40 per week
+Delivery: every 3 days. Safety stock: 1 day of supply.
 
-**Скрипт:**
-> «К сожалению, [блюдо] сегодня закончилось — мы очень сожалеем. Могу предложить вам [альтернатива с описанием] — многие гости выбирают именно его. Или если хотите, могу рассказать, что сейчас особенно хорошо у нас есть?»
+PAR = (40/7 × 3) + (40/7 × 1) ≈ 17 + 6 = 23 steaks
+When on-hand drops to 23 or below → order immediately.
+```
 
-**Компенсация при частом стоп-листе одному гостю:** Небольшой комплимент (десерт, напиток) — снимает раздражение.
+### Multiple Suppliers on Critical Items
 
----
+Single-source for salmon, for example, is a risk. When that supplier has a problem, your salmon goes 86. Establish relationships with two or three suppliers on high-volume items: one primary (best price, preferred partner), one or two backups (emergency sourcing at need).
 
-## Цифровое меню и стоп-лист
+### Sales Forecasting
 
-Рестораны с QR-меню или планшетами имеют преимущество: блюдо в стоп можно убрать из меню мгновенно. Гость не видит недоступные позиции и не испытывает разочарования.
-
----
-
-## Аналитика стоп-листа
-
-Фиксируйте ежедневно:
-- Какие блюда попали в стоп
-- Когда (время дня)
-- Причина
-
-Ежемесячный анализ: если одно блюдо регулярно в стопе — пересмотрите нормы закупки или уберите из меню.
+Keep a 4-week rolling sales log by item. If Friday consistently moves 30 steaks and you ordered 20, you built the 86 yourself. Adjust ordering based on:
+- Day of week (Friday ≠ Monday)
+- Events in the area (game day, a concert downtown)
+- Weather (rain reduces walk-in traffic; heat drives cold item sales)
 
 ---
 
-## Источники
+## Part 2: Real-Time Management
 
-- Toast POS — *How to Manage a Restaurant's 86 List* (2025)
-- National Restaurant Association — *Inventory Management Best Practices* (2024)
+### Communication Is Everything
+
+**The rule:** The chef or sous chef communicates every 86 to the floor immediately — at pre-shift briefing and live during service as items run low.
+
+**Where to log the 86:**
+- **Physical board** in the service area (whiteboard or chalkboard)
+- **Staff chat** (WhatsApp or Slack channel — fastest)
+- **POS system** — lock the item so it can't be rung in; guests ordering from an app see it as unavailable
+
+Ideal: POS lock + team chat + verbal briefing. The guest should never learn about an 86 after placing an order.
+
+### Pre-Shift Briefing: Home for the 86 List
+
+Every pre-shift meeting should include:
+- Current 86 list as of that moment
+- Items running low ("We have about 4 steaks left — start steering toward alternatives")
+- Recommended substitutions for each 86'd item
+
+---
+
+## Part 3: Communicating with the Guest
+
+When a guest is affected by a run-out — how it's communicated is everything.
+
+### Wrong:
+
+"We're out of that." [Pause.] [Silence.]
+
+The guest is left wondering why, what's available, and what to do next.
+
+### Right:
+
+"Unfortunately, our ribeye went earlier tonight — it's been one of those evenings. What I'd love to tell you about, though, is [alternative dish], which [chef's description / how it compares]. Would you like to hear a bit more?"
+
+**Principles:**
+- Apologize briefly — don't linger on it
+- Immediately pivot to an alternative — the server should know it before approaching the table
+- Use "we ran out" rather than "we don't have any" — it implies demand, not shortage
+- Never make the guest ask what's available — come with a suggestion ready
+
+---
+
+## Part 4: Keeping a Substitution Reference
+
+Every item that's a potential 86 candidate should have a pre-assigned alternative — ready before it's needed.
+
+**Sample substitution table:**
+
+| 86'd Item | Recommended Alternative | Suggested Server Line |
+|---|---|---|
+| Ribeye steak | Flank steak or marinated chicken | "We have a fantastic flank tonight — actually my personal favorite" |
+| Salmon | Branzino or tuna | "The branzino came in fresh this morning — it's excellent" |
+| Tiramisu | Chocolate lava cake | "The lava cake is served warm with vanilla ice cream — it's worth it" |
+
+---
+
+## Part 5: Post-Incident Analysis
+
+Every 86 is a signal. Treat it as data.
+
+**Questions after an incident:**
+1. Why did the product run out? Underestimated demand or late ordering?
+2. Did we have enough warning before hitting zero?
+3. Did the floor know before guests were affected?
+4. Did guests accept the alternative — and was one offered every time?
+
+**Monthly tracking:**
+- Number of 86s by item (trend toward zero = operational improvement)
+- Time from 86 to floor notification (target: under 5 minutes)
+- Alternative acceptance rate (measures server execution)
+
+---
+
+## Sources
+
+- Rezku — *What Does 86 Mean in a Restaurant?* (2025). https://rezku.com/blog/what-does-86-mean-in-a-restaurant/
+- Qwick — *Restaurant Inventory Management Best Practices* (2025). https://www.qwick.com/blog/restaurant-inventory-management-best-practices/
+- 7Shifts — *Restaurant Inventory Management Best Practices* (n.d.). https://www.7shifts.com/blog/restaurant-inventory-management/
