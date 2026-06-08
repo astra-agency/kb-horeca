@@ -1,8 +1,8 @@
 # Текущее состояние проекта
 
-**Версия:** 1.1
-**Дата обновления:** 2026-06-07 (сессия 6)
-**Ветка:** `en-version` (ожидает мержа в `main`)
+**Версия:** 1.2
+**Дата обновления:** 2026-06-08 (сессия 7)
+**Ветка:** `en-version` (не закоммичено, ожидает пуша)
 
 ---
 
@@ -15,10 +15,10 @@
 | GitHub Actions workflow (`deploy.yml`) | ✅ |
 | **Домен kb-horeca.site** | ⏳ DNS/Pages custom domain не настроен |
 | **Яндекс Метрика (109685688)** | ✅ |
-| **i18n: RU (root) + EN (/en/)** | ✅ Starlight root locale |
-| **EN главная (`/en/`)** | ✅ CardGrid с разделами |
-| **EN кейсы (`/en/cases/`)** | ✅ 7 статей + индекс |
-| **EN нетехнический контент** | ✅ 27 статей |
+| **i18n: EN (root) + RU (/ru/)** | ✅ EN без префикса, RU на `/ru/` |
+| **EN главная (`/`)** | ✅ CardGrid с разделами |
+| **RU главная (`/ru/`)** | ✅ ссылки исправлены (`/ru/` prefix) |
+| **EN нетехнический контент (27 статей)** | ✅ |
 | — EN Hotels Revenue (5 статей) | ✅ |
 | — EN Hotels Staff (3 статьи) | ✅ |
 | — EN Hotels Guest Experience (4 статьи) | ✅ |
@@ -27,9 +27,18 @@
 | — EN Restaurants Staff (2 статьи) | ✅ |
 | — EN Restaurants Operations (3 статьи) | ✅ |
 | — EN Restaurants Guest Experience (3 статьи) | ✅ |
-| **RU стабы для EN-only кейсов** | ✅ 7 файлов в `cases/` |
-| **Sidebar: translations для EN** | ✅ все секции Hotels/Restaurants |
-| RU контент (все разделы) | ✅ без изменений |
+| **EN технический контент (34 статьи, переведены)** | ✅ |
+| — Selection Guides (2: POS, PMS) | ✅ |
+| — PMS (8: overview + 7 систем) | ✅ |
+| — POS (5: overview + iiko, r_keeper, Poster, comparison) | ✅ |
+| — Hotel services (4: channel-manager, reputation, crm, website-booking) | ✅ |
+| — Restaurant services (3: delivery, loyalty, reservation) | ✅ |
+| — Trends (1: market-2026) | ✅ |
+| — Guides/Operations (5) | ✅ |
+| — Sanitation & Licensing (3) | ✅ |
+| — Reference (3: integrations, glossary, checklists) | ✅ |
+| **EN кейсы (16)** | ✅ |
+| **Sidebar: translations + EN/RU badges** | ✅ |
 
 ---
 
@@ -37,12 +46,14 @@
 
 | Что | Приоритет | Примечание |
 |---|---|---|
+| Закоммитить и запушить | Высокий | Много незакоммиченных изменений |
 | DNS + custom domain kb-horeca.site | Высокий | CNAME + Pages settings |
-| Мерж `en-version` → `main` | Высокий | Готов к мержу |
-| RU переводы EN-only кейсов | Средний | Сейчас заглушки с редиректом на EN |
+| Sidebar badges Services/IT → убрать `RU` | Средний | Контент EN, badge говорит RU |
+| RU версии технических статей | Средний | `ru/hotels/pms/`, `ru/restaurants/pos/`, etc. |
+| RU кейсы — заменить стабы полным текстом | Средний | Сейчас заглушки |
 | Автопортье | Средний | Страница не создана |
 | HotelCloud | Средний | Страница не создана |
-| Перелинковка кейсов (оставшиеся статьи) | Средний | ~15+ статей без «Кейсы по теме» |
+| Перелинковка кейсов (оставшиеся статьи) | Низкий | ~15+ статей без «Кейсы по теме» |
 
 ---
 
@@ -50,6 +61,7 @@
 
 | Что | Примечание |
 |---|---|
+| Регуляции: 54-ФЗ, ЕГАИС, ФМС — заполнить стабы | Низкий приоритет |
 | Сравнение зарубежных vs российских систем | Не запланирован |
 | Видео-контент / скриншоты | Не запланирован |
 | Аналитика (Umami, GA) | Не запланирован |
@@ -61,9 +73,10 @@
 
 | Проблема | Решение |
 |---|---|
-| `guides/*` — оригинальный EN контент (заглушки) | Заполнить или убрать из sidebar |
-| `reference/glossary`, `reference/checklists` — заглушки | То же |
-| 7 RU стабов для EN-only кейсов | Написать полноценный RU-контент или убрать из sidebar RU |
+| Services/IT sidebar badges = `RU` но контент теперь EN | Обновить badges на `EN` или убрать |
+| RU версии технических статей отсутствуют | Создать `ru/hotels/pms/`, `ru/restaurants/pos/` и т.д. |
+| 16 RU кейсов — стабы | Написать полноценный RU-контент |
+| Регуляции 54-ФЗ / ЕГАИС / ФМС — стабы на EN | Заполнить или убрать из sidebar |
 
 ---
 

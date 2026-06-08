@@ -2,13 +2,13 @@
 
 ## Сейчас
 
-Ветка `en-version` готова. Нужно запушить и смержить в `main`.
+Ветка `en-version` готова. Нужно закоммитить все изменения и запушить.
 
-### Деплой EN версии
+### Коммит и деплой
 
 ```bash
 git add .
-git commit -m "feat: add EN locale with 27 hospitality articles and 7 cases"
+git commit -m "feat: switch EN to root locale, translate 34 EN articles (PMS/POS/services/guides/reference)"
 git push origin en-version
 git checkout main
 git merge en-version
@@ -23,48 +23,41 @@ git checkout en-version
 ### Высокий
 
 - [ ] **DNS + Pages custom domain** — kb-horeca.site
-- [ ] **EN как дефолтная локаль** — поменять `defaultLocale` в `astro.config.mjs`:
-  - Сейчас: `defaultLocale: 'root'` (RU без префикса, EN на `/en/`)
-  - Цель: EN на корне `/`, RU на `/ru/`
-  - Потребует: переместить все RU файлы из `src/content/docs/` в `src/content/docs/ru/`, обновить все внутренние ссылки, обновить sidebar slugs
-  - ⚠️ Большой рефакторинг — делать отдельной веткой
-- [ ] **Badges в sidebar** — пометить EN-only группы кейсов и новый контент:
-  ```js
-  { label: 'Operations & Supply Chain', badge: { text: 'EN', variant: 'tip' }, ... }
-  { label: 'Staff & Compliance', badge: { text: 'EN', variant: 'tip' }, ... }
-  { label: 'Finance & IT', badge: { text: 'EN', variant: 'tip' }, ... }
-  ```
-
-### Средний
-
-- [ ] **Перевод RU статей на EN** — оставшийся контент без EN-версии:
-  - `src/content/docs/services/` — IT сервисы (PMS, POS, Channel Manager, CRM и др.)
-  - `src/content/docs/hotels/pms/` — 7 PMS систем + сравнение
-  - `src/content/docs/restaurants/pos/` — iiko, r_keeper, Poster + сравнение
-  - `src/content/docs/hotels/` — website-booking, channel-manager, reputation, crm
-  - `src/content/docs/restaurants/` — delivery, loyalty, reservation
-  - `src/content/docs/regulations/` — 54-ФЗ, ЕГАИС, ФМС (адаптировать для EN аудитории или пропустить)
-  - Итого: ~30+ страниц
-  1. GitHub → репо `kb-horeca` → **Settings → Pages → Source → GitHub Actions**
+  1. GitHub → репо → **Settings → Pages → Source → GitHub Actions → Save**
   2. Custom domain → `kb-horeca.site` → Save
   3. DNS: CNAME `kb-horeca.site` → `astra-agency.github.io`
 
 ### Средний
 
+- [ ] **Обновить sidebar badges** — убрать `RU` у секций с EN контентом:
+  - Services → Hotels IT → убрать `badge: { text: 'RU', variant: 'caution' }`
+  - Services → Restaurants IT → то же
+  - Selection Guides → то же
+  - Operations (guides) → то же
+  - Sanitation & Licensing → то же
+  - Reference → то же
+  - (или сменить на `EN`)
+
+- [ ] **RU версии технических статей** — создать в `ru/`:
+  - `ru/hotels/pms/` — 8 файлов
+  - `ru/restaurants/pos/` — 5 файлов
+  - `ru/hotels/channel-manager.md`, `crm.md`, `reputation.md`, `website-booking.md`
+  - `ru/restaurants/delivery.md`, `loyalty.md`, `reservation.md`
+  - `ru/trends/market-2026.md`
+  - `ru/guides/` — 10 файлов
+  - `ru/reference/` — 3 файла
+
 - [ ] **Автопортье** — `hotels/pms/avtoportye.md` + sidebar
 - [ ] **HotelCloud** — `hotels/pms/hotelcloud.md` + sidebar
-- [ ] **Обновить PMS comparison** в `hotels/pms/index.md`
-- [ ] **Перелинковка кейсов**: «Кейсы по теме» в оставшихся статьях
-- [ ] **RU контент для EN-only кейсов** — заменить заглушки полноценным RU текстом
+- [ ] **RU кейсы** — заменить стабы полноценным RU текстом
 
 ### Низкий
 
-- [ ] **EN-заглушки** — заполнить или убрать из sidebar:
-  `guides/quick-start`, `guides/front-of-house`, `guides/back-of-house`,
-  `guides/inventory`, `guides/staff`, `guides/food-safety`,
-  `guides/health-hygiene`, `guides/licensing`, `reference/glossary`, `reference/checklists`
+- [ ] **Regulations stubs** — заполнить или убрать из sidebar:
+  `regulations/54-fz`, `regulations/egais`, `regulations/fms-hotels`
+- [ ] **Перелинковка кейсов** — добавить «Кейсы по теме» в оставшихся статьях (~15+)
 - [ ] **Даты проверки** на страницах с ценами
-- [ ] **Glossary (RU)** — термины HoReCa: PMS, CM, OTA, POS, KDS, RevPAR, ADR
+- [ ] **Glossary (RU)** в `ru/reference/glossary.md`
 
 ---
 

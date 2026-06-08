@@ -14,15 +14,14 @@
 | Тема | @astrojs/starlight 0.39.3 |
 | Деплой | GitHub Pages via GitHub Actions |
 | Домен | https://kb-horeca.site/ |
-| Языки | ru-RU (root), en (prefix `/en/`) |
+| Языки | en (root, без префикса) + ru-RU (prefix `/ru/`) |
 
 ## i18n структура
 
 ```
-src/content/docs/       ← RU (root locale, URL без префикса)
-└── en/                 ← EN locale (URL /en/...)
+src/content/docs/       ← EN (root locale, URL без префикса)
+└── ru/                 ← RU locale (URL /ru/...)
     ├── index.mdx
-    ├── cases/
     ├── hotels/
     │   ├── revenue/
     │   ├── staff/
@@ -39,55 +38,38 @@ src/content/docs/       ← RU (root locale, URL без префикса)
 
 ```
 src/content/docs/
-├── index.mdx                   # RU главная
+├── index.mdx                   # EN главная
 ├── log.md                      # Лог изменений
 ├── hotels/
-│   ├── revenue/                # Управление доходом (5 статей)
-│   ├── staff/                  # Персонал (3 статьи)
-│   ├── guest-experience/       # Гостевой опыт (4 статьи)
-│   ├── operations/             # Операции (3 статьи)
-│   ├── pms/                    # PMS-системы (7 систем + сравнение)
+│   ├── revenue/                # Revenue Management (5 статей)
+│   ├── staff/                  # Staff (3 статьи)
+│   ├── guest-experience/       # Guest Experience (4 статьи)
+│   ├── operations/             # Operations (3 статьи)
+│   ├── pms/                    # PMS (7 систем + comparison)
 │   ├── website-booking.md
 │   ├── channel-manager.md
 │   ├── reputation.md
 │   └── crm.md
 ├── restaurants/
-│   ├── menu/                   # Меню и экономика (4 статьи)
-│   ├── staff/                  # Персонал (2 статьи)
-│   ├── operations/             # Операции (3 статьи)
-│   ├── guest-experience/       # Гостевой опыт (3 статьи)
-│   ├── pos/                    # POS-системы (iiko, r_keeper, Poster)
+│   ├── menu/                   # Menu & Economics (4 статьи)
+│   ├── staff/                  # Staff (2 статьи)
+│   ├── operations/             # Operations (3 статьи)
+│   ├── guest-experience/       # Guest Experience (3 статьи)
+│   ├── pos/                    # POS (iiko, r_keeper, Poster + comparison)
 │   ├── delivery.md
 │   ├── loyalty.md
 │   └── reservation.md
-├── cases/                      # Кейсы (16 RU + 7 RU-стабов для EN-only)
-│   ├── index.md
-│   ├── crm-setup.md
-│   ├── ... (15 RU кейсов)
-│   ├── inventory-management.md # stub → /en/cases/inventory-management/
-│   ├── vendor-management.md
-│   ├── logistics-optimization.md
-│   ├── employee-training.md
-│   ├── compliance-risk.md
-│   ├── financial-management.md
-│   └── it-infrastructure.md
+├── cases/                      # 16 кейсов EN + index
 ├── services/
 │   └── index.md
-├── guides/                     # Оригинальный EN контент (заглушки)
-├── reference/                  # Заглушки
-└── en/                         # EN locale
-    ├── index.mdx               # EN главная (CardGrid)
-    ├── cases/                  # 7 EN-only кейсов + индекс
-    ├── hotels/
-    │   ├── revenue/            # 5 статей
-    │   ├── staff/              # 3 статьи
-    │   ├── guest-experience/   # 4 статьи
-    │   └── operations/         # 3 статьи
-    └── restaurants/
-        ├── menu/               # 4 статьи
-        ├── staff/              # 2 статьи
-        ├── operations/         # 3 статьи
-        └── guest-experience/   # 3 статьи
+├── guides/                     # Selection Guides + Operations + Sanitation (10 файлов EN)
+├── reference/                  # Integration Map, Glossary, Checklists (3 файла EN)
+├── trends/                     # HoReCa IT Market 2025–2026
+├── regulations/                # 54-FZ, EGAIS, FMS (стабы)
+└── ru/                         # RU locale
+    ├── index.mdx               # RU главная
+    ├── hotels/                 # RU нетехнический контент
+    └── restaurants/            # RU нетехнический контент
 ```
 
 ## Репозиторий
