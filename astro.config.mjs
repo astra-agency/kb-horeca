@@ -53,7 +53,6 @@ export default defineConfig({
             {
               label: 'Revenue Management',
               translations: { ru: 'Управление доходом' },
-              badge: { text: 'EN', variant: 'tip' },
               items: [
                 { label: 'Overview', translations: { ru: 'Обзор' }, slug: 'hotels/revenue' },
                 { label: 'RevPAR, ADR, Occupancy', slug: 'hotels/revenue/revpar-adr-occupancy' },
@@ -66,7 +65,6 @@ export default defineConfig({
             {
               label: 'Staff',
               translations: { ru: 'Персонал' },
-              badge: { text: 'EN', variant: 'tip' },
               items: [
                 { label: 'Overview', translations: { ru: 'Обзор' }, slug: 'hotels/staff' },
                 { label: 'Front Desk Scripts', translations: { ru: 'Скрипты ресепшена' }, slug: 'hotels/staff/front-desk-scripts' },
@@ -77,7 +75,6 @@ export default defineConfig({
             {
               label: 'Guest Experience',
               translations: { ru: 'Гостевой опыт' },
-              badge: { text: 'EN', variant: 'tip' },
               items: [
                 { label: 'Overview', translations: { ru: 'Обзор' }, slug: 'hotels/guest-experience' },
                 { label: 'Guest Cycle', translations: { ru: 'Гостевой цикл' }, slug: 'hotels/guest-experience/guest-cycle' },
@@ -89,7 +86,6 @@ export default defineConfig({
             {
               label: 'Operations',
               translations: { ru: 'Операции' },
-              badge: { text: 'EN', variant: 'tip' },
               items: [
                 { label: 'Overview', translations: { ru: 'Обзор' }, slug: 'hotels/operations' },
                 { label: 'Housekeeping', translations: { ru: 'Хаускипинг' }, slug: 'hotels/operations/housekeeping' },
@@ -106,7 +102,6 @@ export default defineConfig({
             {
               label: 'Menu & Economics',
               translations: { ru: 'Меню и экономика' },
-              badge: { text: 'EN', variant: 'tip' },
               items: [
                 { label: 'Overview', translations: { ru: 'Обзор' }, slug: 'restaurants/menu' },
                 { label: 'Menu Engineering', translations: { ru: 'Инжиниринг меню' }, slug: 'restaurants/menu/menu-engineering' },
@@ -118,7 +113,6 @@ export default defineConfig({
             {
               label: 'Staff',
               translations: { ru: 'Персонал' },
-              badge: { text: 'EN', variant: 'tip' },
               items: [
                 { label: 'Overview', translations: { ru: 'Обзор' }, slug: 'restaurants/staff' },
                 { label: 'Service Standards', translations: { ru: 'Стандарты обслуживания' }, slug: 'restaurants/staff/service-standards' },
@@ -128,7 +122,6 @@ export default defineConfig({
             {
               label: 'Operations',
               translations: { ru: 'Операции' },
-              badge: { text: 'EN', variant: 'tip' },
               items: [
                 { label: 'Overview', translations: { ru: 'Обзор' }, slug: 'restaurants/operations' },
                 { label: 'Table Turnover', translations: { ru: 'Оборачиваемость столов' }, slug: 'restaurants/operations/table-turnover' },
@@ -139,7 +132,6 @@ export default defineConfig({
             {
               label: 'Guest Experience',
               translations: { ru: 'Гостевой опыт' },
-              badge: { text: 'EN', variant: 'tip' },
               items: [
                 { label: 'Overview', translations: { ru: 'Обзор' }, slug: 'restaurants/guest-experience' },
                 { label: 'Regular Guests', translations: { ru: 'Постоянные гости' }, slug: 'restaurants/guest-experience/regular-guests' },
@@ -201,7 +193,6 @@ export default defineConfig({
             },
             {
               label: 'Operations & Supply Chain',
-              badge: { text: 'EN', variant: 'tip' },
               items: [
                 { label: 'Inventory Management', slug: 'cases/inventory-management' },
                 { label: 'Vendor Management', slug: 'cases/vendor-management' },
@@ -210,7 +201,6 @@ export default defineConfig({
             },
             {
               label: 'Staff & Compliance',
-              badge: { text: 'EN', variant: 'tip' },
               items: [
                 { label: 'Employee Training', slug: 'cases/employee-training' },
                 { label: 'Compliance & Risk', slug: 'cases/compliance-risk' },
@@ -218,7 +208,6 @@ export default defineConfig({
             },
             {
               label: 'Finance & IT',
-              badge: { text: 'EN', variant: 'tip' },
               items: [
                 { label: 'Financial Management', slug: 'cases/financial-management' },
                 { label: 'IT Infrastructure', slug: 'cases/it-infrastructure' },
@@ -234,7 +223,6 @@ export default defineConfig({
             {
               label: 'Hotels — IT',
               translations: { ru: 'Отели — IT' },
-              badge: { text: 'RU', variant: 'caution' },
               items: [
                 { label: 'Overview', translations: { ru: 'Обзор' }, slug: 'hotels' },
                 { label: 'Website & Online Booking', translations: { ru: 'Сайт и онлайн-бронирование' }, slug: 'hotels/website-booking' },
@@ -260,7 +248,6 @@ export default defineConfig({
             {
               label: 'Restaurants — IT',
               translations: { ru: 'Рестораны — IT' },
-              badge: { text: 'RU', variant: 'caution' },
               items: [
                 { label: 'Overview', translations: { ru: 'Обзор' }, slug: 'restaurants' },
                 {
@@ -284,7 +271,6 @@ export default defineConfig({
         {
           label: 'Russian Regulations',
           translations: { ru: 'Регуляторика РФ' },
-          badge: { text: 'RU', variant: 'caution' },
           items: [
             { label: '54-FZ — Online Cash Registers', translations: { ru: '54-ФЗ — онлайн-кассы' }, slug: 'regulations/54-fz' },
             { label: 'EGAIS — Alcohol Tracking', translations: { ru: 'ЕГАИС — учёт алкоголя' }, slug: 'regulations/egais' },
@@ -294,7 +280,6 @@ export default defineConfig({
         {
           label: 'Trends',
           translations: { ru: 'Тренды' },
-          badge: { text: 'RU', variant: 'caution' },
           items: [
             { label: 'HoReCa IT Market 2025–2026', translations: { ru: 'Рынок HoReCa IT 2025–2026' }, slug: 'trends/market-2026' },
           ],
@@ -302,7 +287,6 @@ export default defineConfig({
         {
           label: 'Selection Guides',
           translations: { ru: 'Гайды по выбору' },
-          badge: { text: 'RU', variant: 'caution' },
           items: [
             { label: 'How to Choose a POS', translations: { ru: 'Как выбрать POS-систему' }, slug: 'guides/how-to-choose-pos' },
             { label: 'How to Choose a PMS', translations: { ru: 'Как выбрать PMS для отеля' }, slug: 'guides/how-to-choose-pms' },
@@ -311,7 +295,6 @@ export default defineConfig({
         {
           label: 'Operations',
           translations: { ru: 'Операции' },
-          badge: { text: 'RU', variant: 'caution' },
           items: [
             { label: 'Quick Start', translations: { ru: 'Быстрый старт' }, slug: 'guides/quick-start' },
             { label: 'Front of House', translations: { ru: 'Зал — работа персонала' }, slug: 'guides/front-of-house' },
@@ -323,7 +306,6 @@ export default defineConfig({
         {
           label: 'Sanitation & Licensing',
           translations: { ru: 'Санитария и лицензирование' },
-          badge: { text: 'RU', variant: 'caution' },
           items: [
             { label: 'Food Safety Standards', translations: { ru: 'Стандарты пищевой безопасности' }, slug: 'guides/food-safety' },
             { label: 'Health & Hygiene', translations: { ru: 'Санитария и гигиена' }, slug: 'guides/health-hygiene' },
@@ -333,7 +315,6 @@ export default defineConfig({
         {
           label: 'Reference',
           translations: { ru: 'Справочник' },
-          badge: { text: 'RU', variant: 'caution' },
           items: [
             { label: 'Integration Map', translations: { ru: 'Карта интеграций' }, slug: 'reference/integrations' },
             { label: 'Glossary', translations: { ru: 'Глоссарий' }, slug: 'reference/glossary' },
