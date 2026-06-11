@@ -2,7 +2,10 @@
 
 Public knowledge base covering IT services and operations for the HoReCa industry. Practical guides for hotel and restaurant owners, managers, and IT professionals.
 
-🌐 **[kb-horeca.site](https://kb-horeca.site)** — live site, English, Russian & Chinese.
+
+git: https://github.com/astra-agency/kb-horeca
+website: https://kb-horeca.site
+
 
 ---
 
