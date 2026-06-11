@@ -1,43 +1,43 @@
 ---
-title: Checklists
-description: Operational checklists for daily HoReCa venue management — opening, closing, food safety, and weekly manager review
+title: 运营检查清单
+description: HoReCa 场所日常运营检查清单 — 开市、收市、食品安全及每周管理检查
 ---
 
-## Operational checklists
+## 运营检查清单
 
-Use these checklists to maintain consistent daily operations. Print and laminate them for the floor, kitchen, and manager's workstation.
+使用以下检查清单保持日常运营的一致性。可打印并覆膜后贴于前厅、后厨及经理工作站。
 
-## Opening — Front of House
+## 开市 — 前厅
 
-- [ ] Review and confirm reservations for the day
-- [ ] Brief FOH staff: reservations, specials, stop list
-- [ ] Inspect all tables — clean, properly set, chairs wiped
-- [ ] Check menus — clean and current
-- [ ] Test POS terminals and printers
-- [ ] Stock workstations (condiments, napkins, utensils, glassware)
-- [ ] Check lighting and set brightness level
-- [ ] Check and clean restrooms
-- [ ] Set music and floor ambiance
+- [ ] 查看并确认当日预订
+- [ ] 前厅员工简报：预订情况、特别推荐、停售清单
+- [ ] 检查所有餐桌 — 干净、摆台正确、椅子擦拭完毕
+- [ ] 检查菜单 — 清洁、最新
+- [ ] 测试POS终端和打印机
+- [ ] 工作站备货（调味品、餐巾、餐具、杯具）
+- [ ] 检查灯光并设定亮度
+- [ ] 检查并清洁洗手间
+- [ ] 设定背景音乐和用餐氛围
 
-## Opening — Kitchen
+## 开市 — 后厨
 
-- [ ] Check overnight temperature logs
-- [ ] Receive deliveries and sign delivery notes
-- [ ] Store new stock using FIFO
-- [ ] Brief kitchen staff: menu, specials, any changes
-- [ ] Complete mise en place at all stations
-- [ ] Confirm all equipment is working
-- [ ] Check stock levels — place urgent orders if needed
+- [ ] 检查过夜温度记录
+- [ ] 接收来货并签收送货单
+- [ ] 按先进先出原则储存新货
+- [ ] 后厨员工简报：菜单、特别菜品、变更项
+- [ ] 各工作站完成备餐
+- [ ] 确认所有设备运行正常
+- [ ] 检查库存水平 — 按需紧急下单
 
-## Closing — Front of House
+## 收市 — 前厅
 
-- [ ] Clear all tables and reset or remove linens
-- [ ] Clean the floor (sweep/mop, wipe all surfaces)
-- [ ] Close the register and reconcile POS totals
-- [ ] Complete end-of-shift documentation
-- [ ] Clean and restock restrooms
-- [ ] Turn off lighting, music, and unnecessary equipment
-- [ ] Lock the venue and activate security
+- [ ] 清理所有餐桌，复位或撤换桌布
+- [ ] 清洁地面（扫地/拖地，擦拭所有表面）
+- [ ] 关闭收银并对账POS总额
+- [ ] 填写交班文档
+- [ ] 清洁洗手间并补充用品
+- [ ] 关闭灯光、音乐及非必要设备
+- [ ] 锁好场所并启动安防系统
 
 ## Closing — Kitchen
 

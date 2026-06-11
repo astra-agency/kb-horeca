@@ -1,6 +1,17 @@
 ---
-title: EGAIS — Alcohol Tracking
-description: EGAIS alcohol tracking system — connection requirements and compliance for restaurants and hotels.
+title: 中国酒类流通追溯体系
+description: 中国酒类流通管理法规 — 餐饮企业的酒类经营许可与追溯要求
 ---
 
-*Full content available in Russian — [ЕГАИС](/ru/regulations/egais/)*
+*俄罗斯版完整内容：[ЕГАИС](/ru/regulations/egais/)*
+
+## 中国市场替代说明
+
+EGAIS 是俄罗斯统一国家酒精自动核算系统。在中国，对应合规体系为：
+
+- **酒类流通随附单制度** — 酒类商品流通的溯源凭证
+- **酒类经营备案登记** — 餐饮企业销售酒类的准入要求
+- **食品经营许可证（含酒类）** — 许可范围需包含酒类销售
+- **未成年人保护** — 禁止向未成年人售酒
+
+> **待完善：** 此页面将在后续更新中补充中国酒类管理的完整法规内容。

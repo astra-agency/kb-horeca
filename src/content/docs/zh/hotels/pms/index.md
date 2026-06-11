@@ -1,41 +1,41 @@
 ---
-title: PMS — Property Management Systems
-description: Overview and comparison of hotel PMS systems for the Russian hospitality market
+title: PMS — 酒店物业管理系统
+description: 适用于中国酒店市场的PMS系统概览与对比 — 石基、绿云、别样红等
 ---
 
-## What is a PMS
+## 什么是PMS
 
-A **Property Management System (PMS)** is the core of a hotel's IT infrastructure. It manages:
-- Room inventory and room status
-- Check-in and check-out operations
-- Rate management and pricing
-- Guest billing and payments
-- Reporting and analytics
-- Guest registration compliance (police/FMS reporting)
+**物业管理系统（PMS）** 是酒店IT基础设施的核心，管理以下内容：
+- 客房库存与房态管理
+- 入住与退房操作
+- 房价管理与定价
+- 宾客账务与支付
+- 报表与分析
+- 宾客登记合规（公安旅业系统上报）
 
-## PMS comparison — Russian market
+## PMS对比 — 中国市场
 
-| System | Type | Channels | Best for | Highlights |
+| 系统 | 类型 | 渠道 | 最适合 | 亮点 |
 |---|---|---|---|---|
-| [TravelLine](/hotels/pms/travelline/) | Cloud | 130+ | Any | Full stack, 6,200+ properties, from ₽1,600/mo |
-| [Bnovo](/hotels/pms/bnovo/) | Cloud | 40+ | Any | 16,000+ properties, +25% revenue claimed |
-| [Kontur.Hotel](/hotels/pms/kontur-hotel/) | Cloud | 35+ | Small/mid | Kontur ecosystem integration |
-| [Saby Hotel](/hotels/pms/saby-hotel/) | Cloud | Yes | Small/mid | Saby (ex-SBIS) ecosystem |
-| [Logus HMS](/hotels/pms/logus-hms/) | Cloud/On-prem | Yes | Large/chains | Feature-rich, works offline |
-| [MaxiBooking](/hotels/pms/maxibooking/) | Cloud | Yes | Any | No room limit, 15-day free trial |
+| 石基 Shiji | 云端/本地 | 全渠道 | 大型酒店/集团 | 全球部署，全产品矩阵 |
+| 绿云 GreenCloud | 云端 | 携程生态 | 中高端酒店 | 与携程深度集成 |
+| 别样红 BeyondHost | 云端 | 美团生态 | 中小型酒店 | 美团点评生态，性价比高 |
+| 慧通 Hetras | 云端 | 国际渠道 | 连锁酒店 | 国际品牌首选 |
+| 千里马 QLima | 云端/本地 | 全渠道 | 高星级酒店 | 本地化服务完善 |
+| 金天鹅 SwanSoft | 云端 | 全渠道 | 中小型酒店 | 免费版可用 |
 
-## Which system to choose
+## 如何选择
 
-| Property type | Recommendation |
+| 酒店类型 | 推荐 |
 |---|---|
-| Small hotel / hostel up to 30 rooms | Bnovo, MaxiBooking |
-| Hotel 30–150 rooms | TravelLine, Bnovo, Kontur.Hotel |
-| Large hotel / chain | TravelLine, Logus HMS, Saby Hotel |
-| Aparthotel / short-term rental | Bnovo, MaxiBooking |
-| Already using Kontur (accounting) | Kontur.Hotel |
-| Already using Saby/SBIS | Saby Hotel |
+| 小旅馆/民宿（30间以下） | 金天鹅、别样红 |
+| 酒店30–150间 | 绿云、别样红 |
+| 大型酒店/连锁集团 | 石基、慧通、千里马 |
+| 国际品牌酒店 | 石基、慧通 |
+| 已使用美团点评生态 | 别样红 |
+| 已使用携程生态 | 绿云 |
 
-## Related
+## 相关阅读
 
-- [How to choose a PMS](/guides/how-to-choose-pms/)
-- [TravelLine vs Bnovo comparison](/hotels/pms/travelline-vs-bnovo/)
+- [如何选择PMS](/guides/how-to-choose-pms/)
+- 俄罗斯市场PMS系统参考：[TravelLine](/hotels/pms/travelline/)、[Bnovo](/hotels/pms/bnovo/)

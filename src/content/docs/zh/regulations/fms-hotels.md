@@ -1,6 +1,17 @@
 ---
-title: Guest Registration with Police
-description: Hotel guest registration with the police (МВД/ФМС) — legal requirements and automated solutions.
+title: 酒店住宿登记 — 公安旅业系统
+description: 中国酒店宾客住宿登记合规要求 — 公安旅业系统上传、实名制管理
 ---
 
-*Full content available in Russian — [Регистрация гостей в МВД](/ru/regulations/fms-hotels/)*
+*俄罗斯版完整内容：[Регистрация гостей в МВД](/ru/regulations/fms-hotels/)*
+
+## 中国市场替代说明
+
+俄罗斯的FMS（联邦移民局）住宿登记对应中国的：
+
+- **旅馆业治安管理信息系统（公安旅业系统）** — PMS需对接公安接口实时上传住宿信息
+- **实名制入住登记** — 居民身份证、护照等有效证件核验
+- **《旅馆业治安管理办法》** — 行政法规层面的基本要求
+- **未成年人入住保护** — "五必须"规定
+
+> **待完善：** 此页面将在后续更新中补充中国住宿登记合规的完整内容。

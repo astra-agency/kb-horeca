@@ -1,33 +1,43 @@
 ---
-title: CRM & Sales Management
-description: CRM systems for hotels — guest database, repeat sales, corporate client management, and event pipeline
+title: CRM与销售管理
+description: 酒店CRM系统 — 客户数据库、复购营销、企业客户管理、会议销售漏斗
 ---
 
-## Why hotels need a CRM
+## 酒店为什么需要CRM
 
-- Guest database → personalized offers
-- Repeat sales without OTA commission
-- Corporate client and contract management
-- Sales pipeline for events and conferences
+- 客户数据库 → 个性化营销触达
+- 无OTA佣金复购
+- 企业客户及协议公司管理
+- 会议/宴会销售漏斗管理
 
-## Popular solutions
+## 中国市场主流方案
 
-### Bitrix24
+### 钉钉 CRM
 
-Most widely used CRM in Russian hospitality.
-- Sales pipelines, tasks, communications
-- Integrations with telephony, email, and messaging apps
-- Wide partner ecosystem with PMS integrations
+阿里生态，国内企业服务市场主流。
+- 销售流程管理、客户管理、审批流
+- 与钉钉通讯、日程深度打通
+- 支持PMS对接
 
-### AmoCRM
+### 企业微信 CRM
 
-- Simple interface, sales-focused
-- Strong mobile app
-- Popular in event sales departments
+腾讯生态，私域运营首选。
+- 客户朋友圈、客户群管理
+- 离职继承机制
+- 小程序、公众号联动
 
-### TravelLine CRM
+### 飞书 CRM
 
-- Native integration with TravelLine PMS
+字节生态，互联网和新兴企业偏好。
+- 多维表格灵活配置
+- 自动化工作流
+- 开放API生态
+
+### 石基 CRM
+
+- 酒店专属，与石基PMS原生集成
+- 会员体系、积分、权益管理
+- 全渠道客户画像
 - Guest booking history automatically in the contact card
 - Built-in loyalty program
 

@@ -1,40 +1,40 @@
 ---
-title: Glossary
-description: Key HoReCa industry terms — PMS, POS, OTA, Channel Manager, RevPAR, ADR, and more
+title: 术语表
+description: HoReCa 行业关键术语 — PMS、POS、OTA、渠道管理、RevPAR、ADR 等
 ---
 
-## Glossary
+## 术语表
 
-Reference guide to key terms used in the HoReCa industry and this knowledge base.
+HoReCa 行业及本知识库中使用的关键术语参考指南。
 
-| Term | Definition |
+| 术语 | 定义 |
 |---|---|
-| **86 (Stop)** | Item on the stop list — sold out, cannot be ordered. |
-| **ADR** | Average Daily Rate — average room price per night. Key hotel KPI. |
-| **À la carte** | Menu where each dish is priced individually, as opposed to a fixed-price set menu. |
-| **Allergen** | Substance capable of causing an allergic reaction. 14 major allergens must be declared under TR CU 022/2011. |
-| **Banquet** | Organized event with catering for a group of guests, booked in advance. |
-| **Back of House (BOH)** | Areas of a venue not visible to guests: kitchen, storage, prep rooms. |
-| **Channel Manager** | System that centrally manages room availability and rates across all OTAs simultaneously. |
-| **EGAIS** | Unified State Automated Alcohol Accounting System. Mandatory for all businesses that handle alcohol in Russia. |
-| **Expeditor** | Staff member coordinating the pass: monitors tickets and manages communication between kitchen and floor. |
-| **FIFO** | First In, First Out — inventory principle: older stock is always used before newer stock. |
-| **Front of House (FOH)** | Guest-facing areas of a venue: dining room, bar, entrance. |
-| **Guest** | A customer of the venue. "Guest count" = total guests served in a period. |
-| **HACCP** | Hazard Analysis and Critical Control Points. International food safety management standard, mandatory in Russia. |
-| **KDS** | Kitchen Display System — screen system for displaying orders in the kitchen. Replaces paper tickets. |
-| **Mise en Place** | French: "everything in its place." Preparing and arranging all ingredients and equipment before service begins. |
-| **No-show** | A reservation the guest did not cancel and did not arrive for. Revenue loss for the venue. |
-| **Occupancy** | Percentage of occupied rooms out of total available rooms in the hotel over a period. |
-| **OTA** | Online Travel Agency — online booking aggregator: Booking.com, Ostrovok, Expedia, and others. |
-| **Par Level** | Minimum stock quantity that must always be on hand. When stock reaches this level, a reorder is triggered. |
-| **Pass** | Service window between kitchen and dining room. Dishes are assembled, checked, and handed to servers here. |
-| **PMS** | Property Management System — hotel management system: reservations, check-in/out, billing, housekeeping. |
-| **POS** | Point of Sale — order management and processing system for restaurants and cafés. |
-| **RevPAR** | Revenue Per Available Room. RevPAR = ADR × Occupancy. Primary hotel performance KPI. |
-| **Reservation** | Advance booking of a table or hotel room. |
-| **Rostering** | The process of building staff shift schedules. |
-| **Table Turn** | The cycle: seat guests → serve → clear the table for the next guests. |
-| **Temperature Danger Zone** | Temperature range (+5°C to +60°C) in which bacteria multiply most rapidly. |
-| **Upselling** | Offering a guest a more expensive item or additional service to increase the check. |
-| **Yield** | The portion of a product usable after trimming, cooking, or butchering. |
+| **86（停售）** | 停售清单上的菜品 — 已售罄，不可点单。 |
+| **ADR** | 平均每日房价 — 每间可用房的平均价格。酒店核心KPI。 |
+| **À la carte（单点）** | 每道菜单独定价的菜单，与固定价格的套餐相对。 |
+| **过敏原** | 能引起过敏反应的物质。中国要求标注8大类主要过敏原。 |
+| **宴会** | 为团体客人提前预订的有组织餐饮活动。 |
+| **后厨（BOH）** | 宾客不可见的区域：厨房、仓库、备餐间。 |
+| **渠道管理** | 在所有OTA平台同步管理客房库存和房价的系统。 |
+| **中国食品溯源** | 国家对食品生产流通全过程的追溯监管体系。 |
+| **传菜员（Expeditor）** | 协调出餐口的工作人员：监控订单，管理厨房与前厅的沟通。 |
+| **先进先出（FIFO）** | 库存管理原则：旧货永远比新货先用。 |
+| **前厅（FOH）** | 宾客可见区域：用餐区、吧台、入口。 |
+| **宾客** | 场所的消费者。"客流量" = 某时段服务总客数。 |
+| **HACCP** | 危害分析与关键控制点。国际食品安全管理体系，中国食品企业普遍采用。 |
+| **厨房显示系统（KDS）** | 厨房订单显示的屏幕系统，替代纸质单据。 |
+| **备餐（Mise en Place）** | 法语："一切就位"。开餐前将所有食材和设备准备就绪。 |
+| **No-show（未到）** | 未取消也未到店的预订。直接造成场所收入损失。 |
+| **入住率（Occupancy）** | 某时段已售客房数占总可售客房数的百分比。 |
+| **OTA** | 在线旅行社 — 在线预订聚合平台：携程、美团、飞猪等。 |
+| **最低库存量（Par Level）** | 必须随时持有的最低库存量。触及此水平即触发补货。 |
+| **出餐口（Pass）** | 厨房与用餐区的交接窗口。菜品在此组装、检查后交给服务员。 |
+| **PMS** | 物业管理系统 — 酒店管理系统：预订、入住/退房、账务、房务。 |
+| **POS** | 销售点系统 — 餐厅和咖啡厅的订单管理和收银系统。 |
+| **RevPAR** | 每间可用房收入。RevPAR = ADR × 入住率。酒店首要绩效KPI。 |
+| **预订** | 提前预订餐桌或酒店房间。 |
+| **排班** | 编制员工班次表的过程。 |
+| **翻台** | 完整周期：迎客入座 → 服务 → 清台 → 为下一批客人准备。 |
+| **温度危险区** | 细菌繁殖最快的温度区间（+5°C 至 +60°C）。 |
+| **升级销售（Upselling）** | 向客人推荐更高价位菜品或附加服务以提升客单价。 |
+| **出成率（Yield）** | 食材经修整、烹饪或分割后可使用的比例。 |

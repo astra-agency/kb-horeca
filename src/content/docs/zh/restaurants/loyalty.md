@@ -1,32 +1,49 @@
 ---
-title: Restaurant Loyalty Programs
-description: Digital loyalty programs for restaurants — bonus systems, mobile apps, and customer retention mechanics
+title: 餐厅会员与忠诚度
+description: 餐饮数字化会员体系 — 微信会员卡、积分系统、储值营销、私域复购
 ---
 
-## Why restaurants need loyalty programs
+## 餐饮为什么需要会员体系
 
-Acquiring a new guest costs 5–7× more than retaining an existing one. A loyalty program:
-- Increases visit frequency
-- Raises average check
-- Provides preference data for personalization
+获取新客的成本是维护老客的5-7倍。会员体系能：
+- 提升消费频次
+- 提高客单价
+- 积累消费偏好数据用于精准营销
 
-## Program types
+## 中国市场主流会员方案
 
-| Type | How it works | Examples |
+| 类型 | 机制 | 典型方案 |
 |---|---|---|
-| Points-based | Points for purchases → discounts | iiko Card, Plazius |
-| Cashback | % of amount returned to account | SberSpasibo, Yandex Plus |
-| Card-based | Physical or digital card | Branded cards |
-| Referral | Bring a friend — earn bonus | App integration |
-| Subscription | Fixed fee → perks | Coffee subscription |
+| 积分制 | 消费得积分 → 抵现或兑换 | 美团会员、大众点评会员 |
+| 储值卡 | 预充值 → 消费优惠 | 微信会员卡、品牌自有储值 |
+| 权益卡 | 付费购卡 → 享全年底价 | 美团神会员、饿了么超级会员 |
+| 私域社群 | 企微群 → 专属福利 | 瑞幸模式、喜茶GO |
+| 订阅制 | 固定费用 → 周期权益 | 咖啡月卡、奶茶畅饮卡 |
 
-## Built-in solutions
+## 微信生态会员方案
 
-### iiko Card
-- Native integration with iiko POS
-- Bonus programs, discounts, guest segmentation
-- Visit history and preference tracking
-- Push notifications
+### 微信会员卡
+
+- 微信原生能力，无需下载APP
+- 积分、优惠券、会员价
+- 开卡即关注公众号
+- 支付即会员
+
+### 企业微信+SCRM
+
+- 顾客添加企微好友
+- 标签分组、精准群发
+- 朋友圈运营
+- 复购提醒、生日关怀
+
+## 主流餐饮SaaS会员模块
+
+| 系统 | 会员功能 |
+|---|---|
+| 美团收银 | 美团会员打通，发券、积分 |
+| 客桌 Kezhuo | 全渠道会员，储值+积分+权益 |
+| 哗啦啦 Hualala | 集团级会员，跨店消费 |
+| 二维火 | 会员+营销自动化 |
 
 ### r_keeper Loyalty
 - Built into r_keeper ecosystem

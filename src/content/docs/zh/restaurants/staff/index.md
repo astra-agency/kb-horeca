@@ -1,11 +1,11 @@
 ---
-title: Restaurant Staff
-description: Service standards, staff motivation systems, KPIs, and team development for restaurant front-of-house and kitchen teams.
+title: 餐厅员工管理
+description: 餐厅前厅与后厨团队的服务标准、员工激励体系、KPI与团队发展
 ---
 
-Restaurant staff are the primary driver of guest satisfaction and repeat visits. This section covers service standards and motivation systems.
+餐厅员工是宾客满意度和复购率的主要驱动力。本部分涵盖服务标准和激励体系。
 
-## Topics
+## 主题
 
-- [Service Standards](service-standards)
-- [Motivation & KPI](motivation-kpi)
+- [服务标准](service-standards)
+- [激励与KPI](motivation-kpi)

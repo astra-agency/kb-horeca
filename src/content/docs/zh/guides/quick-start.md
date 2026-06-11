@@ -1,43 +1,43 @@
 ---
-title: Quick Start Guide
-description: How to navigate the HoReCa Knowledge Base and find what you need fast
+title: 快速入门指南
+description: 如何浏览 HoReCa 知识库并快速找到所需内容
 ---
 
-## Getting started with the HoReCa Knowledge Base
+## 开始使用 HoReCa 知识库
 
-This guide helps you orient yourself and find relevant information quickly.
+本指南帮助你快速定位并找到相关信息。
 
-## Who this resource is for
+## 适用人群
 
-The HoReCa KB is designed for:
+HoReCa 知识库面向以下用户：
 
-- **Owners and managers** of hotels, restaurants, and cafés
-- **Front-of-house staff** — servers, hosts, bartenders
-- **Kitchen staff** — chefs, cooks, kitchen workers
-- **New employees** during onboarding
+- 酒店、餐厅和咖啡厅的**业主与管理者**
+- **前厅员工** — 服务员、迎宾、调酒师
+- **后厨员工** — 主厨、厨师、厨房工作人员
+- **新员工**入职培训
 
-## How to use the knowledge base
+## 如何使用知识库
 
-Navigate via the sidebar on the left. Content is organized into sections:
+通过左侧侧边栏导航。内容按以下板块组织：
 
-1. **Hotels** — revenue management, staff, guest experience, operations
-2. **Restaurants** — menu, staff, operations, guest experience
-3. **Services** — IT systems for HoReCa: PMS, POS, Channel Manager, CRM
-4. **Cases** — real-world implementation scenarios
-5. **Russian Regulations** — online cash registers, alcohol tracking, guest registration
-6. **Selection Guides** — how to choose PMS, POS, and other systems
-7. **Reference** — glossary, checklists, integration map
+1. **酒店** — 收益管理、员工、宾客体验、运营
+2. **餐厅** — 菜单、员工、运营、宾客体验
+3. **IT服务** — HoReCa 信息化系统：PMS、POS、渠道管理、CRM
+4. **案例** — 真实实施场景
+5. **中国法规** — 食品安全法、消防安全、住宿登记
+6. **选择指南** — 如何选择 PMS、POS 等系统
+7. **参考资料** — 术语表、检查清单、集成地图
 
-## Key concepts
+## 核心概念
 
 ### HoReCa
 
-**HoReCa** stands for **Ho**tel, **Re**staurant, **Ca**fé. Standard industry term for the hospitality and food service sector.
+**HoReCa** 代表 **Ho**tel（酒店）、**Re**staurant（餐厅）、**Ca**fé（咖啡厅），是酒店餐饮服务行业的标准术语。
 
-### Service standards
+### 服务标准
 
-Consistent service standards are the foundation of a successful HoReCa business. See [Front of House Operations](/guides/front-of-house/) for standards and procedures.
+一致的服务标准是 HoReCa 业务成功的基石。参见[前厅运营](/guides/front-of-house/)了解标准和流程。
 
-### Food safety
+### 食品安全
 
-All food service businesses must comply with sanitation regulations. See [Food Safety Standards](/guides/food-safety/) to understand your obligations.
+所有餐饮企业必须遵守食品安全法规。参见[食品安全标准](/guides/food-safety/)了解相关义务。

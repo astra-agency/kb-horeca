@@ -1,33 +1,58 @@
 ---
-title: Table Reservations
-description: Restaurant table reservation systems — online booking, deposits, guest database, and no-show reduction
+title: 餐厅订座系统
+description: 餐饮订座管理系统 — 在线排号、订金预约、客户数据库、降低No-show
 ---
 
-## Why restaurants need a reservation system
+## 为什么餐厅需要订座系统
 
-- Reduces admin workload (fewer phone calls)
-- Deposits reduce no-shows
-- Guest database for marketing
-- Floor load analytics
+- 减少人工接听电话的行政工作量
+- 订金/预售制降低No-show（爽约）
+- 建立客户数据库用于营销
+- 客流负荷分析
 
-## Restoplace — market leader in Russia
+## 中国市场主流订座方案
 
-**Restoplace** is a cloud reservation system. Used by **3,000+ venues**, 120,000 bookings per day.
+### 美团订座
 
-**Features:**
-- Online booking widget for website and social media
-- Deposit collection with no commission
-- Event ticket and gift certificate sales
-- Guest notifications: SMS, WhatsApp, Telegram
-- Hourly bookings (lounge, sauna, computer club)
-- Banquets and events management
-- Guest database and analytics
+- 美团/大众点评APP内置
+- 实时在线排队
+- 预订提醒
+- 团购+订座联动
+- 零额外系统成本（已在美团生态内）
 
-**Integrations:** iiko, r_keeper, AmoCRM, Bitrix24, loyalty programs
+### 美味不用等
 
-**Pricing:** free plan available, Pro+ — 14-day free trial
+- 市场份额第一
+- 排队取号、在线等位
+- 预订管理、订金收取
+- 与各主流POS深度集成
+- 服务10万+餐厅
 
-## ToMesto
+### 客如云 OnPOS
+
+- 阿里生态，与饿了么、口碑打通
+- POS+排队+预订一体化
+- 适合中大型连锁
+
+## 核心功能对比
+
+| 功能 | 美团订座 | 美味不用等 | 客如云 |
+|---|---|---|---|
+| 在线预订 | ✅ | ✅ | ✅ |
+| 排队叫号 | ✅ | ✅ | ✅ |
+| 订金收取 | ❌ | ✅ | ✅ |
+| CRM数据库 | ✅ | ✅ | ✅ |
+| 短信/微信提醒 | ✅ | ✅ | ✅ |
+| 服务费 | 免费（美团抽佣已含） | 按功能收费 | 年费模式 |
+
+> 俄罗斯市场方案参考：[Restoplace](/restaurants/reservation/) — 服务3,000+门店
+
+## 降低No-show的最佳实践
+
+1. **订金预约** — 热门时段收取订金，到店退还或抵扣消费
+2. **预约提醒** — 到店前2小时/30分钟微信推送
+3. **黑名单机制** — 多次爽约限制预订
+4. **超时释放** — 保留15分钟，逾期自动释放
 
 Marketplace + reservation system. **12,000+ venues in 30 cities**, 60,000+ guests/month.
 

@@ -1,42 +1,50 @@
 ---
-title: Channel Manager
-description: Channel management systems for hotels — OTA synchronization, rate parity, and avoiding overbooking
+title: 渠道管理系统
+description: 酒店渠道管理系统 — OTA实时同步、房价一致性、零超卖
 ---
 
-## What is a Channel Manager
+## 什么是渠道管理系统
 
-A **Channel Manager** synchronizes room availability and rates between the hotel's PMS and all connected OTAs in real time.
+**渠道管理系统（Channel Manager）** 将酒店的PMS与所有接入的OTA平台进行房态和房价的实时双向同步。
 
-**Primary purpose:** eliminate overbooking when selling through multiple channels simultaneously.
+**核心目的：** 多平台同时销售时彻底消除超卖风险。
 
-## How it works
+## 工作原理
 
 ```
-PMS (availability update)
-  → Channel Manager (sync in 3–7 sec)
-    → Ostrovok
-    → Yandex Travel
+PMS（可用房更新）
+  → 渠道管理系统（3-7秒内同步）
+    → 携程 Ctrip
+    → 美团 Meituan
+    → 飞猪 Fliggy
+    → 去哪儿 Qunar
     → Booking.com
-    → Expedia
-    → Airbnb
-    → ... (up to 130+ platforms)
+    → Agoda
+    → ...（100+ 渠道）
 ```
 
-When a booking arrives from any channel — availability automatically decreases on all others.
+任一渠道产生订单 → 其他所有平台自动缩减可售房量。
 
-## Main OTA platforms in Russia
+## 中国市场主要OTA平台
 
-| OTA | Audience |
+| OTA | 受众 |
 |---|---|
-| Ostrovok.ru | Market leader in Russia, broad domestic audience |
-| Yandex Travel | Fast-growing, strong SEO traffic |
-| Booking.com | Limited RU operations, foreign guests |
-| Bronevik.com | B2B, corporate clients |
-| Avito (rentals) | Apartments, short-term rental |
-| OneTwoTrip | Package travel |
-| 101hotels.com | Budget segment |
+| 携程 Ctrip | 中国市场龙头，中高端商旅 |
+| 美团 Meituan | 本地生活入口，年轻用户，高频 |
+| 飞猪 Fliggy | 阿里生态，年轻自由行 |
+| 去哪儿 Qunar | 价格敏感型用户 |
+| 同程旅行 Tongcheng | 微信生态，下沉市场 |
+| Booking.com | 入境外国宾客 |
+| Agoda | 东南亚及国际宾客 |
 
-## TravelLine Channel Manager
+## 中国市场主要渠道管理系统
+
+| 系统 | 类型 | 渠道数 | 最适合 | 亮点 |
+|---|---|---|---|---|
+| DerbySoft | 云端 | 全球200+ | 国际品牌酒店 | 全球渠道最全 |
+| 石基畅联 Shiji Distribution | 云端 | 100+ | 高星级酒店 | 石基生态一体化 |
+| 绿云 GreenCloud | 云端 | 携程生态 | 国内中高端酒店 | 携程直连 |
+| D-Edge China | 云端 | 全球 | 精品/设计酒店 | 法国品牌，设计感
 
 - **130+ channels** — OTAs, tour operators, GDS
 - Synchronization in 3–7 seconds

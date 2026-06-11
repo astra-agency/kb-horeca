@@ -1,34 +1,36 @@
 ---
-title: POS Systems for Restaurants
-description: Overview and comparison of restaurant POS systems for the Russian market — iiko, r_keeper, Poster
+title: 餐厅POS系统
+description: 适用于中国餐饮市场的收银系统概览与对比 — 客桌、美团收银、二维火等
 ---
 
-## What is a POS system
+## 什么是POS系统
 
-A **Point of Sale (POS)** system automates restaurant operations. It manages:
-- Order taking (dine-in, delivery, takeaway)
-- Cash register operations and fiscal compliance
-- Kitchen display system (KDS)
-- Inventory management and food cost tracking
-- Sales analytics
+**POS（Point of Sale，销售点系统）** 是餐厅运营自动化的核心，管理以下内容：
+- 点餐管理（堂食、外卖、自取）
+- 收银操作与税务合规
+- 厨房显示系统（KDS）
+- 库存管理与食材成本追踪
+- 销售分析
 
-## System comparison
+## 中国市场主流系统对比
 
-| System | Type | Price | Best for |
+| 系统 | 类型 | 价格 | 最适合 |
 |---|---|---|---|
-| [iiko](/restaurants/pos/iiko/) | Cloud/On-prem | from ₽3,500/mo | Restaurants, chains, delivery |
-| [r_keeper](/restaurants/pos/rkeeper/) | Cloud/On-prem | from ₽750/mo | Any venue, 70,000+ clients |
-| [Poster](/restaurants/pos/poster/) | Cloud | from ~₽1,500/mo | Coffee shops, small cafés |
+| 客桌 Kezhuo | 云端 | 按门店收费 | 中大型连锁餐饮 |
+| 美团收银 Meituan POS | 云端 | 约¥200/月起 | 各类餐饮，美团生态深度集成 |
+| 二维火 2Dfire | 云端 | 约¥150/月起 | 中小型餐厅、火锅店 |
+| 哗啦啦 Hualala | 云端 | 按门店收费 | 连锁餐饮、供应链管理 |
+| 银豹 Yinbao | 云端 | 约¥100/月起 | 小型餐饮、奶茶店 |
 
-## Key selection criteria
+## 关键选择标准
 
-1. **Scale** — single venue or chain
-2. **Format** — full-service restaurant, coffee shop, dark kitchen, fast food
-3. **Delivery** — whether you need a delivery management module
-4. **Integrations** — fiscal operators, CRM, loyalty systems
-5. **Support** — 24/7 or business hours only
+1. **规模** — 单店还是连锁
+2. **业态** — 正餐、快餐、火锅、茶饮、烘焙
+3. **外卖** — 是否需集成美团外卖、饿了么
+4. **生态集成** — 支付（微信/支付宝）、会员CRM、供应链
+5. **服务支持** — 7×24小时还是工作时间
 
-## Related
+## 相关阅读
 
-- [How to choose a POS system](/guides/how-to-choose-pos/)
-- [iiko vs r_keeper comparison](/restaurants/pos/iiko-vs-rkeeper/)
+- [如何选择POS系统](/guides/how-to-choose-pos/)
+- 俄罗斯市场POS系统参考：[iiko](/restaurants/pos/iiko/)、[r_keeper](/restaurants/pos/rkeeper/)

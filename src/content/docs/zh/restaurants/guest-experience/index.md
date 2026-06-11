@@ -1,12 +1,12 @@
 ---
-title: Restaurant Guest Experience
-description: Building regular guest relationships, complaint handling, and atmosphere management for restaurants.
+title: 餐厅宾客体验
+description: 构建常客关系、投诉处理及餐厅氛围管理
 ---
 
-Guest experience in restaurants goes beyond food quality. This section covers how to build loyalty, handle problems, and create an atmosphere guests return to.
+餐厅的宾客体验超越菜品质量本身。本部分涵盖如何建立忠诚度、处理问题以及营造让宾客回头的用餐氛围。
 
-## Topics
+## 主题
 
-- [Regular Guests](regular-guests)
-- [Complaint Handling](complaints)
-- [Atmosphere](atmosphere)
+- [常客管理](regular-guests)
+- [投诉处理](complaints)
+- [氛围营造](atmosphere)

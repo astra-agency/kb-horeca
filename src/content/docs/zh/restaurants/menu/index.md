@@ -1,13 +1,13 @@
 ---
-title: Menu & Economics
-description: Menu engineering, food cost calculation, pricing strategy, stop-list management, and seasonal menu planning.
+title: 菜单与经济学
+description: 菜单工程、食材成本核算、定价策略、停售清单管理及季节性菜单规划
 ---
 
-Menu design directly affects profitability. This section covers the analytical side of menu management — from food cost calculations to strategic dish placement.
+菜单设计直接影响盈利能力。本部分涵盖菜单管理的分析层面——从食材成本核算到战略性菜品布局。
 
-## Topics
+## 主题
 
-- [Menu Engineering](menu-engineering)
-- [Food Cost & Pricing](food-cost-pricing)
-- [Stop List Management](stop-list)
-- [Seasonal Menu](seasonal-menu)
+- [菜单工程](menu-engineering)
+- [食材成本与定价](food-cost-pricing)
+- [停售清单管理](stop-list)
+- [季节性菜单](seasonal-menu)

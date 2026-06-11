@@ -1,12 +1,12 @@
 ---
-title: Restaurant Operations
-description: Table turnover optimization, reservation management, and banquet and event planning for restaurants.
+title: 餐厅运营管理
+description: 翻台率优化、预订管理及宴会活动策划
 ---
 
-Operational efficiency determines how many guests you can serve and how consistently. This section covers the core operational workflows in a restaurant.
+运营效率决定了你能服务多少宾客以及服务的一致程度。本部分涵盖餐厅的核心运营流程。
 
-## Topics
+## 主题
 
-- [Table Turnover](table-turnover)
-- [Reservations](reservations)
-- [Banquets & Events](banquets)
+- [翻台率](table-turnover)
+- [预订管理](reservations)
+- [宴会与活动](banquets)
