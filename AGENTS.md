@@ -137,6 +137,63 @@ Starlight resolves `index.md` → parent folder slug automatically.
 
 ---
 
+## ⚠️ Three-Language Reality
+
+This knowledge base works in **three languages**. Always be aware of language when creating or editing content:
+
+| Lang | Code | URL | Status |
+|------|------|-----|--------|
+| English | `en` | root `/` | **Base language** — all content originates here |
+| Russian | `ru` | `/ru/` | Mostly translated, missing technical articles |
+| Chinese | `zh-CN` | `/zh/` | Added 2026-06-11, 99 EN copies awaiting translation |
+
+**Rules:**
+- When writing a new article, create it first in the correct locale folder
+- When translating, copy from EN → translate to RU or ZH
+- Sidebar translations must cover all three languages (`ru`, `zh`)
+- `raw/` source materials may be in any of the three languages — check before using
+
+---
+
+## Raw Materials (`raw/`)
+
+The `raw/` directory holds source materials, research notes, and drafts — **not published content**, but feedstock for KB pages. Treat it as the project's "inbox".
+
+```
+raw/
+├── README.md                  # Log of loaded files & processing status
+├── 2026/                      # Research notes by date
+│   └── 0611/                  # e.g., web-search results, article drafts
+├── other/
+│   ├── hotels-restaurant/     # RU source articles (01–27 numbered .md files)
+│   │   ├── 00-INDEX.md        # Pack 1 index (hotels + restaurants)
+│   │   ├── 00-INDEX-PACK2.md  # Pack 2 index (ops + guest experience)
+│   │   └── 01-hotel-revenue-...md  ...  27 files total
+│   ├── hospitality-en/        # EN source articles
+│   │   ├── 00-INDEX-EN.md
+│   │   └── pack1/, pack2/
+│   ├── cases/                 # RU case source texts (16 files)
+│   ├── cases-en/              # EN case source texts (16 files)
+│   ├── pms/                   # PMS pricing PDFs (to download → process)
+│   ├── pos/                   # POS pricing PDFs
+│   ├── delivery/              # Delivery aggregator terms
+│   └── reservation/           # Table reservation pricing
+```
+
+**Language awareness in `raw/`:**
+- `hotels-restaurant/` — Russian (RU source articles)
+- `hospitality-en/` — English (EN source articles)
+- `cases/` — Russian, `cases-en/` — English
+- `2026/` — mixed; check individual files
+
+**Workflow:**
+1. Source material arrives in `raw/` (manual download, web search, PDF)
+2. Log status in `raw/README.md`
+3. Process into proper KB pages under `src/content/docs/<locale>/`
+4. Mark as processed in `raw/README.md`
+
+---
+
 ## Known Vendor Website Issues
 
 When researching these vendors, use WebSearch + review sites (saasmarket.ru, a2is.ru, picktech.ru) instead of direct fetch:
