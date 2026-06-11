@@ -1,113 +1,28 @@
-# HoReCa KB — База знаний для отелей и ресторанов
+# HoReCa KB — Knowledge Base for Hotels & Restaurants
 
-Публичная база знаний по управлению и автоматизации для индустрии HoReCa (отели, рестораны, кафе).
+Public knowledge base covering IT services and operations for the HoReCa industry. Practical guides for hotel and restaurant owners, managers, and IT professionals.
 
-**Сайт:** [kb-horeca.site](https://kb-horeca.site/)
+🌐 **[kb-horeca.site](https://kb-horeca.site)** — live site, English & Russian.
 
----
+## Site Sections
 
-## О проекте
+| Section | Description |
+|---------|-------------|
+| [Hotels](https://kb-horeca.site/hotels/) | Revenue management, staff, guest experience, operations |
+| [Restaurants](https://kb-horeca.site/restaurants/) | Menu engineering, staff, service, guest experience |
+| [PMS Systems](https://kb-horeca.site/hotels/pms/) | TravelLine, Bnovo, Kontur.Hotel, Logus HMS, Saby Hotel, MaxiBooking |
+| [POS Systems](https://kb-horeca.site/restaurants/pos/) | iiko, r_keeper, Poster — comparison and deep dives |
+| [Cases](https://kb-horeca.site/cases/) | 23 real-world HoReCa IT implementation stories |
+| [IT Services](https://kb-horeca.site/services/) | CRM, channel managers, online booking, loyalty, delivery |
 
-База знаний охватывает два направления:
+## About
 
-**Управление и операции** — практические статьи для владельцев и управляющих:
-- Отели: управление доходом (RevPAR, ADR, тарифная политика, работа с OTA), персонал, гостевой опыт, операции
-- Рестораны: меню и экономика (инжиниринг меню, food cost), персонал, оборачиваемость столов, работа с гостями
+HoReCa KB is a structured reference for anyone running or automating a hotel, restaurant, or café. It covers both operational know‑how and the IT systems that power modern hospitality — from PMS and POS selection to revenue strategy and staff management.
 
-**IT-сервисы** — обзоры систем автоматизации:
-- PMS для отелей: TravelLine, Bnovo, Контур.Отель, Saby Hotel, Logus HMS, MaxiBooking
-- POS для ресторанов: iiko, r_keeper, Poster
-- Channel Manager, онлайн-бронирование, репутационный менеджмент, CRM, программы лояльности
+**Languages:** English (root) + Russian (`/ru/`).
 
-**Кейсы внедрений** — 16 практических кейсов автоматизации:
-- CRM и продажи, лояльность и гостевой опыт, онлайн-бронирование, автоматизация HR/маркетинга/юрслужбы, мобильные решения
-
----
-
-## Ключевые разделы
-
-| Раздел | URL |
-|---|---|
-| Главная | [kb-horeca.site](https://kb-horeca.site/) |
-| Отели — управление доходом | [/hotels/revenue/](https://kb-horeca.site/hotels/revenue/) |
-| Отели — персонал | [/hotels/staff/](https://kb-horeca.site/hotels/staff/) |
-| Отели — гостевой опыт | [/hotels/guest-experience/](https://kb-horeca.site/hotels/guest-experience/) |
-| Рестораны — меню | [/restaurants/menu/](https://kb-horeca.site/restaurants/menu/) |
-| PMS — системы управления | [/hotels/pms/](https://kb-horeca.site/hotels/pms/) |
-| POS — кассовые системы | [/restaurants/pos/](https://kb-horeca.site/restaurants/pos/) |
-| Кейсы внедрений | [/cases/](https://kb-horeca.site/cases/) |
-| Сервисы — обзор | [/services/](https://kb-horeca.site/services/) |
+📖 [Browse all topics →](https://kb-horeca.site)
 
 ---
 
-## Языки — Русский и международный разделы
-
-Проект имеет два раздела:
-
-| Раздел | URL | Аудитория |
-|--------|-----|-----------|
-| **/ru/** | `kb-horeca.site/ru/` | Россия и СНГ — регуляция РФ, российские поставщики, локальные кейсы |
-| **/** (международный) | `kb-horeca.site/` | Международная — глобальные практики, международные системы, английские кейсы |
-
-**Важно:** страницы `/ru/` содержат информацию, специфичную для России:
-- Регуляция (54-ФЗ, ЕГАИС, ФМС/МВД, цифровой ID МАКС)
-- Российские IT-сервисы (TravelLine, Bnovo, Контур.Отель, iiko, r_keeper)
-- Кейсы российских внедрений
-
-Международный раздел (`/en/` + английские версии HotellerieDesk/ресторанных знаний) ориентирован на глобальные практики без российской специфики.
-
-При ingest источников: если материал специфичен для России — в `/ru/`, если международный — в корневой раздел.
-
----
-
-## Технологии
-
-- [Astro 6.4.4](https://astro.build/) + [Starlight 0.39.3](https://starlight.astro.build/)
-- Деплой: GitHub Pages via GitHub Actions
-- Язык: ru-RU
-
----
-
-## Локальная разработка
-
-```bash
-npm install
-npm run dev      # http://localhost:4321/
-npm run build    # сборка в dist/
-npm run preview  # превью сборки
-```
-
----
-
-## Структура проекта
-
-```
-kb-horeca/
-├── astro.config.mjs              # Конфиг Astro + Starlight (sidebar, домен)
-├── src/content/docs/
-│   ├── index.mdx                 # Главная страница
-│   ├── hotels/                   # Отели
-│   │   ├── revenue/              # Управление доходом (6 статей)
-│   │   ├── staff/                # Персонал (4 статьи)
-│   │   ├── guest-experience/     # Гостевой опыт (5 статей)
-│   │   ├── operations/           # Операции (4 статьи)
-│   │   └── pms/                  # PMS-системы (7 систем + сравнение)
-│   ├── restaurants/              # Рестораны
-│   │   ├── menu/                 # Меню и экономика (5 статей)
-│   │   ├── staff/                # Персонал (3 статьи)
-│   │   ├── operations/           # Операции (4 статьи)
-│   │   ├── guest-experience/     # Гостевой опыт (4 статьи)
-│   │   └── pos/                  # POS-системы (3 системы + сравнение)
-│   ├── cases/                    # Кейсы внедрений (16 кейсов)
-│   └── services/                 # Сводные таблицы и матрица выбора
-├── docs/                         # Проектная документация
-└── .github/workflows/deploy.yml  # GitHub Actions деплой
-```
-
----
-
-## Контент
-
-**~70 страниц** на русском языке. Целевая аудитория — владельцы и управляющие объектов HoReCa.
-
-Обновление: июнь 2026.
+🔧 Developer guide — [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md)
