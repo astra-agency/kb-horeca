@@ -226,14 +226,7 @@ When researching these vendors, use WebSearch + review sites (saasmarket.ru, a2i
 
 | File | Content |
 |------|---------|
-| `docs/AGENTS.md` | ← this file |
-| `docs/DEVELOPMENT.md` | Dev setup & commands |
-| `docs/CONTEXT.md` | Full project context, tasks, risks |
 | `docs/DECISIONS.md` | Architecture decision records (ADR) |
-| `docs/PROJECT_STATE.md` | What works / WIP / not started |
-| `docs/NEXT_TASK.md` | Current task + backlog |
-| `docs/project-overview.md` | High-level project overview (RU) |
-| `docs/CLAUDE.md` | Older Claude-specific instructions (RU) |
 
 ---
 
@@ -265,9 +258,8 @@ When researching these vendors, use WebSearch + review sites (saasmarket.ru, a2i
 
 ```bash
 # 1. Read the key files
-cat docs/AGENTS.md              # You are here
-cat docs/CONTEXT.md             # Full context & open tasks
-cat docs/NEXT_TASK.md           # What to do next
+cat AGENTS.md                   # You are here
+cat docs/DECISIONS.md           # Architecture decisions
 cat astro.config.mjs            # Sidebar & locale config
 
 # 2. Start dev server
