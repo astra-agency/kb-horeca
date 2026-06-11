@@ -2,7 +2,7 @@
 
 Public knowledge base covering IT services and operations for the HoReCa industry. Practical guides for hotel and restaurant owners, managers, and IT professionals.
 
-🌐 **[kb-horeca.site](https://kb-horeca.site)** — live site, English & Russian.
+🌐 **[kb-horeca.site](https://kb-horeca.site)** — live site, English, Russian & Chinese.
 
 ## Site Sections
 
@@ -19,7 +19,7 @@ Public knowledge base covering IT services and operations for the HoReCa industr
 
 HoReCa KB is a structured reference for anyone running or automating a hotel, restaurant, or café. It covers both operational know‑how and the IT systems that power modern hospitality — from PMS and POS selection to revenue strategy and staff management.
 
-**Languages:** English (root) + Russian (`/ru/`).
+**Languages:** English (root) + Russian (`/ru/`) + Chinese (`/zh/`).
 
 📖 [Browse all topics →](https://kb-horeca.site)
 

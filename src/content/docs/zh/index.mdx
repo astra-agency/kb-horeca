@@ -1,0 +1,44 @@
+---
+title: HoReCa Knowledge Base
+description: IT services knowledge base for the HoReCa industry — hotels, restaurants, cafés.
+template: splash
+hero:
+  title: HoReCa Knowledge Base
+  tagline: IT services for hotels, restaurants, and cafés. Practical guides for owners and managers.
+  actions:
+    - text: Hotels
+      link: /hotels/
+      icon: right-arrow
+      variant: primary
+    - text: Restaurants
+      link: /restaurants/
+      icon: open-book
+      variant: primary
+---
+
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+## Hotels
+
+<CardGrid>
+  <LinkCard title="Revenue Management" href="/hotels/revenue/" description="RevPAR, ADR, occupancy, rate strategy, direct sales vs OTA" />
+  <LinkCard title="Staff" href="/hotels/staff/" description="Front desk scripts, hiring, onboarding, retention" />
+  <LinkCard title="Guest Experience" href="/hotels/guest-experience/" description="Guest cycle, complaints, mystery guest, review responses" />
+  <LinkCard title="Operations" href="/hotels/operations/" description="Housekeeping, lobby & breakfast, corporate clients" />
+</CardGrid>
+
+## Restaurants
+
+<CardGrid>
+  <LinkCard title="Menu & Economics" href="/restaurants/menu/" description="Menu engineering, food cost & pricing, stop list, seasonal menu" />
+  <LinkCard title="Staff" href="/restaurants/staff/" description="Service standards, motivation, KPI" />
+  <LinkCard title="Operations" href="/restaurants/operations/" description="Table turnover, reservations, banquets & events" />
+  <LinkCard title="Guest Experience" href="/restaurants/guest-experience/" description="Regular guests, complaints handling, atmosphere" />
+</CardGrid>
+
+## Cases & Services
+
+<CardGrid>
+  <LinkCard title="Implementation Cases" href="/cases/" description="Real-world scenarios: CRM, booking, loyalty, automation, mobile solutions" />
+  <LinkCard title="All Services" href="/services/" description="IT systems overview: PMS, POS, Channel Manager, CRM" />
+</CardGrid>
