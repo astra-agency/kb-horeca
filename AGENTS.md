@@ -47,9 +47,10 @@ src/content/docs/           ← EN (root locale, no URL prefix)
 │   └── log.md
 │
 └── zh/                    ← ZH locale (URL: /zh/...) — ADDED 2026-06-11
-    ├── index.mdx          ← side-by-side copies of EN, awaiting translation
+    ├── index.mdx          ← 1-2 level pages translated (ZH), deeper pages still EN
     ├── hotels/  restaurants/  cases/  services/
     ├── guides/  reference/  regulations/  trends/
+    │                       ← PMS, POS, delivery, CRM adapted for China market
 ```
 
 **Locale config** (in `astro.config.mjs`):
@@ -57,7 +58,7 @@ src/content/docs/           ← EN (root locale, no URL prefix)
 - `ru` → `lang: 'ru'`, `label: 'Русский'`
 - `zh` → `lang: 'zh-CN'`, `label: '中文'`
 
-**Fallback behavior:** Starlight falls back to root (EN) for any page missing in `ru/` or `zh/`. ZH currently has 99 files — all EN copies, awaiting manual translation.
+**Fallback behavior:** Starlight falls back to root (EN) for any page missing in `ru/` or `zh/`. ZH has 99 files — 1-2 level pages translated to Chinese, deeper pages (PMS/POS detail, cases, guides) still EN copies pending translation.
 
 ---
 
@@ -145,13 +146,14 @@ This knowledge base works in **three languages**. Always be aware of language wh
 |------|------|-----|--------|
 | English | `en` | root `/` | **Base language** — all content originates here |
 | Russian | `ru` | `/ru/` | Mostly translated, missing technical articles |
-| Chinese | `zh-CN` | `/zh/` | Added 2026-06-11, 99 EN copies awaiting translation |
+| Chinese | `zh-CN` | `/zh/` | Added 2026-06-11. 1-2 level pages translated. PMS/POS/delivery/CRM adapted for China market (石基, 美团, 携程, etc.) |
 
 **Rules:**
 - When writing a new article, create it first in the correct locale folder
 - When translating, copy from EN → translate to RU or ZH
 - Sidebar translations must cover all three languages (`ru`, `zh`)
 - `raw/` source materials may be in any of the three languages — check before using
+- **ZH China-adaptation:** PMS, POS, delivery, CRM, regulations → use China-market equivalents, not Russian ones
 
 ---
 
@@ -233,7 +235,7 @@ When researching these vendors, use WebSearch + review sites (saasmarket.ru, a2i
 ## Current State (2026-06-11)
 
 - **Branch `en-version`** has uncommitted changes from session 7
-- **ZH locale just added** — sidebar configured, 99 files copied from EN, awaiting manual translation
+- **ZH locale added** — sidebar configured, 99 files total. 1-2 level pages translated to Chinese with China-market adaptations (PMS→石基/绿云, POS→美团收银/客桌, delivery→美团外卖/饿了么, regulations→中国法规)
 - **RU technical articles missing** — RU has no PMS/POS/services/guides/reference content yet
 - **RU cases are stubs** — need full content
 - **DNS not configured** — `kb-horeca.site` custom domain still pending
