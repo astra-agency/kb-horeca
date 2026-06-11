@@ -1,9 +1,10 @@
 ---
-title: IT Services for HoReCa
-description: Overview of IT systems for hotels and restaurants — PMS, POS, channel managers, CRM, booking engines, and more.
+title: HoReCa IT 服务
+description: 酒店与餐厅 IT 系统总览 — PMS、POS、渠道管理、CRM、预订引擎等，含中国本地化方案。
 ---
 
-This section covers the full stack of IT tools used in hotels and restaurants: from property management and point-of-sale to online booking and reputation management.
+本章涵盖酒店与餐厅的全套 IT 工具：从物业管理和收银系统到在线预订和声誉管理。
 
-- **Hotels — IT**: PMS, channel manager, website booking, CRM, reputation
-- **Restaurants — IT**: POS systems, delivery platforms, loyalty, reservations
+- **酒店 IT**：PMS、渠道管理、官网预订、CRM、声誉管理
+- **餐厅 IT**：POS 系统、外卖平台、会员系统、预订管理
+- **中国市场方案**：Shiji（石基）、美团、携程、微信支付、支付宝

@@ -1,13 +1,13 @@
 ---
-title: Hotel Guest Experience
-description: Guest cycle management, complaint handling, mystery guest programs, and review response strategies for hotels.
+title: 酒店宾客体验
+description: 宾客周期管理、投诉处理、神秘顾客计划及评价回复策略。
 ---
 
-Guest experience shapes repeat bookings and online reputation. This section covers every stage of the guest journey and how to turn complaints into loyalty.
+宾客体验决定了复购率和在线声誉。本专题涵盖宾客旅程的每个环节，以及如何将投诉转化为忠诚。
 
-## Topics
+## 目录
 
-- [The Guest Cycle](guest-cycle)
-- [Complaint Handling](complaints)
-- [Mystery Guest Programs](mystery-guest)
-- [Responding to Reviews](review-responses)
+- [宾客周期](guest-cycle)
+- [投诉处理](complaints)
+- [神秘顾客计划](mystery-guest)
+- [评价回复策略](review-responses)

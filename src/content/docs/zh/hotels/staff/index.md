@@ -1,12 +1,12 @@
 ---
-title: Hotel Staff Management
-description: Hiring, onboarding, motivation, and retention strategies for hotel staff — front desk scripts, KPIs, and team development.
+title: 酒店员工管理
+description: 酒店员工的招聘、入职、激励与留任策略 — 前台话术、KPI 与团队发展。
 ---
 
-Effective staff management determines guest satisfaction and operational consistency. This section covers recruiting, training, and retaining hotel employees.
+有效的员工管理决定了宾客满意度和运营稳定性。本专题涵盖酒店员工的招聘、培训和留任方法。
 
-## Topics
+## 目录
 
-- [Front Desk Scripts & SOPs](front-desk-scripts)
-- [Hiring & Onboarding](hiring-onboarding)
-- [Retention & Motivation](retention-motivation)
+- [前台话术与标准流程](front-desk-scripts)
+- [招聘与入职](hiring-onboarding)
+- [员工留任与激励](retention-motivation)

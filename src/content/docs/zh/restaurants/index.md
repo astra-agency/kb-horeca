@@ -1,8 +1,11 @@
 ---
-title: Restaurant IT Systems
-description: IT infrastructure for restaurants — POS systems, delivery platforms, loyalty programs, and reservation tools.
+title: 餐厅 IT 系统
+description: 餐厅 IT 基础设施 — POS 系统、外卖平台、会员计划、预订工具。
 ---
 
-This section covers the main IT systems used in restaurant operations.
+本章涵盖餐厅运营中的核心 IT 系统。每个系统根据运营需求量身定制。
 
-*Full content available in Russian — [Рестораны — IT](/ru/restaurants/)*
+- **POS 系统** — 点餐、厨房显示、报表、库存
+- **外卖平台** — Meituan 外卖（美团外卖）、Ele.me（饿了么）集成
+- **会员系统** — 积分卡、优惠券、CRM
+- **预订管理** — 桌位预订与排队管理

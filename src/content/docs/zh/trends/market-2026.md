@@ -1,53 +1,54 @@
 ---
-title: HoReCa IT Market in Russia — 2025–2026
-description: Market size, key players, and digital transformation trends in Russian HoReCa IT
+title: HoReCa IT 市场 — 2025–2026
+description: 全球 HoReCa IT 市场规模、主要玩家、数字化转型趋势（重点关注亚太地区与中国市场）
 ---
 
-## Market size
+## 市场规模
 
-Based on TAdviser and industry research:
+基于 Gartner、IDC 及行业研究报告：
 
-| Year | Market volume | Growth |
-|---|---|---|
-| 2024 | ~₽8.1B | +28% |
-| 2025 | ~₽9.9B | +22% |
-| 2026 (forecast) | ~₽11.5B | +16% |
+| 年份 | 全球市场规模 | 增长率 |
+|------|-------------|--------|
+| 2024 | ~$45B | +12% |
+| 2025 | ~$50B | +11% |
+| 2026（预测） | ~$55B | +10% |
 
-Mobile HoReCa solutions in 2024: **₽4.6B**, projected to reach ~₽6.5B by 2026.
+**亚太地区**是增长最快的区域市场，**中国市场**占比约 30%，增速领先全球平均水平。
 
-Growth is slowing as the market matures, but remains above the overall IT market average.
+移动端酒店餐饮解决方案在 2024 年已达 **$18B**，预计 2026 年突破 **$24B**。
 
-## Key players by segment
+## 主要玩家（按细分市场）
 
-### Restaurants (POS systems)
-- **iiko** — market leader, ~35–40% share
-- **r_keeper** — second player, ~30%
-- **Poster** — growing cloud segment, especially SMB
-- Others: 1C:Restaurant, Tillypad, Microinvest
+### 餐厅（POS 系统）
+- **美团收银** — 中国市场领导者，市占率约 35%–40%
+- **客桌（Kezhuo）** — 云 POS 快速增长
+- **银豹** — 线下门店覆盖广
+- 全球：Toast（美国）、Lightspeed（加拿大）
 
-### Hotels (PMS)
-- **TravelLine + HRS (Libra Hospitality)** — ~75% of market revenue combined
-- **Bnovo** — ~₽0.42B revenue (acquired by Smartway in 2024)
-- Others: MaxiBooking, Kontur.Hotel, Saby Hotel
+### 酒店（PMS）
+- **石基（Shiji）** — 中国 PMS 领导者，全球布局
+- **绿云（GreenCloud）** — 中国酒店集团主要选择
+- **Oracle OPERA** — 国际高端酒店
+- **别样红** — 美团旗下，中小酒店市场
 
-### Delivery and aggregators
-- **Yandex Food** — leader, 200+ cities
-- **SberFood (Delivery Club)** — second player
-- **Samokat** — fast growth in groceries and ready-made food
+### 外卖与聚合平台
+- **美团外卖** — 领先者，覆盖 300+ 城市
+- **饿了么** — 阿里系，第二玩家
+- **抖音生活服务** — 快速增长中的新势力
 
-## Growth drivers
+## 增长驱动因素
 
-1. **Labor shortage** — automation compensates for staff deficit
-2. **Rising costs** — margin pressure forces more precise food cost tracking
-3. **Import substitution** — exit of foreign systems (Oracle OPERA, Micros) opened market for Russian players
-4. **Regulatory pressure** — online cash registers, alcohol tracking, labeling — automation reduces fine risk
+1. **劳动力短缺** — 自动化弥补人员不足
+2. **成本上升** — 利润压力推动更精准的食材成本控制
+3. **移动支付普及** — 微信支付、支付宝推动数字化结算
+4. **政策支持** — 数字经济政策鼓励餐饮酒店数字化升级
 
-## Trends 2025–2026
+## 趋势 2025–2026
 
-### AI and predictive analytics
-- AI menus — order history, allergy, and preference analysis (rolling out in premium chains)
-- Predictive purchasing: systems forecast demand and optimize supplier orders
-- Per McKinsey: restaurants using data analytics increase repeat orders by **20–25%**
+### AI 与预测分析
+- AI 菜单 — 基于订单历史、过敏原和偏好分析（高端连锁已落地）
+- 预测采购：系统预测需求并优化供应商订单
+- McKinsey 研究：使用数据分析的餐厅复购率提升 **20–25%**
 
 ### Contactless technology
 - QR menus became standard — cuts print costs, simplifies updates

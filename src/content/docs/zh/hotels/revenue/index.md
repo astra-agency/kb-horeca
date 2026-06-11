@@ -1,14 +1,14 @@
 ---
-title: Revenue Management
-description: Revenue management strategies for hotels — RevPAR, ADR, occupancy, rate strategy, and upselling without expensive software.
+title: 收益管理
+description: 酒店收益管理策略 — 无需昂贵软件即可掌握的 RevPAR、ADR、入住率、价格策略及升级销售方法。
 ---
 
-Revenue management helps hotels maximize income from available rooms. This section covers the core metrics, seasonal tactics, and practical strategies you can implement without a dedicated RMS.
+收益管理帮助酒店最大化客房收入。本专题涵盖核心指标、季节性策略以及无需专用 RMS 即可落地的实战方法。
 
-## Topics
+## 目录
 
-- [RevPAR, ADR, Occupancy: The Fundamentals](revpar-adr-occupancy)
-- [Seasonality: Strategies for the Low Season](seasonality)
-- [Direct Sales vs OTA](direct-vs-ota)
-- [Upselling & Cross-Selling](upselling)
-- [Rate Strategy](rate-strategy)
+- [RevPAR、ADR、入住率：基础概念](revpar-adr-occupancy)
+- [季节性：淡季策略](seasonality)
+- [直销 vs OTA](direct-vs-ota)
+- [升级销售与交叉销售](upselling)
+- [价格策略](rate-strategy)

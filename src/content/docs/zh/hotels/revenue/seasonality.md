@@ -1,15 +1,15 @@
 ---
-title: "Seasonality: Strategies for the Low Season"
-description: How to fill rooms during the off-season — segmentation, packaging, channel tactics, and a manual revenue management cadence without RMS software.
+title: "季节性：淡季策略"
+description: 如何在淡季提升入住率 — 客群细分、套餐打包、渠道策略，以及无需 RMS 的手动收益管理节奏。
 ---
 
-> **Series:** Hotels — Revenue & Demand Management
-> **Level:** Practical
-> **Audience:** Hotel GMs, sales directors, property owners
+> **系列：** 酒店 — 收益与需求管理
+> **难度：** 实战
+> **受众：** 酒店总经理、销售总监、业主
 
-## Three Seasons You Need to See Simultaneously
+## 你需要同时看到三种季节
 
-The hospitality industry operates in three modes: **peak** (high demand, premium rates), **shoulder** (transitional periods, moderate demand), and **trough** (low season, minimal occupancy). Most hoteliers plan for the peak — and survive the trough. Smart operators build revenue in the shoulder and turn the slow season into a growth opportunity.
+酒店行业运行在三种模式中：**旺季**（高需求、溢价）、**平季**（过渡期、中等需求）和**淡季**（低入住率）。多数酒店人会规划旺季，在淡季勉强维持。聪明的经营者则在平季积累收入，将淡季转化为增长机会。
 
 > Keep in mind: "low season" is property-specific. For a ski resort it's summer; for a beach hotel it's winter; for an urban business hotel it's weekends and the August lull.
 

@@ -1,12 +1,12 @@
 ---
-title: Hotel IT Systems
-description: IT infrastructure for hotels — PMS, channel manager, website booking module, CRM, and reputation management.
+title: 酒店 IT 系统
+description: 酒店 IT 基础设施 — PMS、渠道管理、官网预订引擎、CRM 及声誉管理。
 ---
 
-This section covers the main IT systems used in hotel management. Each system solves a specific operational problem — from automating reservations to managing online reputation.
+本章涵盖酒店管理中使用的核心 IT 系统。每个系统解决特定的运营问题 — 从自动化预订到管理在线声誉。
 
-- **PMS** — property management, reservations, billing
-- **Channel Manager** — OTA rate and availability sync
-- **Website Booking** — direct booking engine
-- **CRM** — guest database and sales management
-- **Reputation** — review monitoring and response
+- **PMS** — 物业管理、预订、账务
+- **渠道管理** — OTA 价格与房态同步
+- **官网预订** — 直销预订引擎
+- **CRM** — 宾客数据库与销售管理
+- **声誉管理** — 评价监控与回复
