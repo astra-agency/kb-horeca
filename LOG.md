@@ -4,6 +4,8 @@ from latest to earliest.
 
 ## 2026-07-04
 
+- docs | Rewrote SCHEMA.md to cover only kb-horeca structure (removed parent monorepo, aa-horeca site, docs/rfc, parent .agents)
+  - `SCHEMA.md` — scoped to kb-horeca: src/, raw/, public/, .agents/, .github/, i18n, RU content sections, workflow, npm commands
 - ingest | Hotel platforms & messenger-CRM services (TeamJet, GoodStay, GuestPulse, HotBot.ai, Wazzup24)
   - `raw/2026/0704/` — moved 9 inbox files (TeamJet, GoodStay, GuestPulse, HotBot, Wazzup24 research + landing pages)
   - `src/content/docs/ru/services/teamjet.md` — created: TeamJet operations platform overview
