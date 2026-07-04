@@ -9,6 +9,15 @@ website: https://kb-horeca.site
 
 ---
 
+## Commands
+
+```bash
+npm install && npm run dev      # → http://localhost:4321/
+npm run build && npm run preview
+```
+
+---
+
 ## What is HoReCa KB?
 
 HoReCa KB is a **structured public reference** for anyone running or automating a hotel, restaurant, or café. It bridges the gap between hospitality operations and the IT systems that power them — helping you choose the right tools, set up processes, and solve real-world problems.
@@ -119,7 +128,7 @@ src/content/docs/           ← EN content (root locale)
     └── ...
 raw/                        ← Source materials, research notes, drafts
 astro.config.mjs            ← Sidebar, locales, site config
-docs/DECISIONS.md           ← Architecture decision records
+.agents/DECISIONS.md        ← Architecture decision records
 ```
 
 ---
@@ -135,4 +144,4 @@ HoReCa KB is a structured reference for anyone running or automating a hotel, re
 ---
 
 🔧 Developer guide — [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md)
-📋 Architecture decisions — [docs/DECISIONS.md](docs/DECISIONS.md)
+📋 Architecture decisions — [.agents/DECISIONS.md](.agents/DECISIONS.md)

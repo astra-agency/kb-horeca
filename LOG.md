@@ -4,12 +4,22 @@ from latest to earliest.
 
 ## 2026-07-04
 
+- update | Moved `## Commands` section from `AGENTS.md` to `README.md`
+  - `AGENTS.md` — removed Commands section (build commands belong in developer-facing README)
+  - `README.md` — added Commands section before "What is HoReCa KB?"
+- update | Moved DECISIONS.md to `.agents/` and translated to English
+  - Created `.agents/DECISIONS.md` (English translation of all 16 ADRs)
+  - Deleted `docs/DECISIONS.md`
+  - Updated references in `AGENTS.md`, `README.md`, `.agents/memory/project-state.md`
+- update | LOG.md language switched to English; wiki-* skills now require English LOG entries
+  - `wiki-ingest`, `wiki-init`, `wiki-lint`, `wiki-query`, `wiki-update`, `llm-wiki` — added "in English" note for LOG.md appends
+  - Translated existing Russian LOG entries to English
 - update | Removed WordPress-specific references from wiki-* skills
   - `.agents/skills/wiki-ingest/SKILL.md` — dropped "WordPress.com → Open-Source Adaptation" section; frontmatter and process rewritten for HoReCa
   - `.agents/skills/wiki-init/SKILL.md` — description changed from "WP Knowledge" to "HoReCa knowledge base"
   - `.agents/skills/llm-wiki/SKILL.md` — description and shared invariants rewritten for HoReCa
   - `.agents/skills/summarize/SKILL.md` — example URL swapped from wordpress.org to kb-horeca.site
-  - `ROADMAP.md` — item marked complete
+  - `ROADMAP.md` — items marked complete
 
 ## 2026-06-11
 

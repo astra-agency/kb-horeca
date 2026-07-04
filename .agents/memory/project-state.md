@@ -5,9 +5,9 @@ importance: high
 tags: kb-horeca, state, backlog, vendors, key-files
 ---
 
-## Current State (2026-06-11)
+## Current State (2026-07-04)
 
-- **Branch `en-version`** has uncommitted changes from session 7
+- **Active branch: `main`** — `en-version` was merged into `main` (commit `76fbeb7`). Uncommitted local changes: docs reorganization (DECISIONS.md moved to `.agents/`), LOG.md switched to English, wiki-* skills de-WordPressified.
 - **ZH locale added** — sidebar configured, 99 files total. 1-2 level pages translated to Chinese with China-market adaptations (PMS→石基/绿云, POS→美团收银/客桌, delivery→美团外卖/饿了么, regulations→中国法规)
 - **RU technical articles missing** — RU has no PMS/POS/services/guides/reference content yet
 - **RU cases are stubs** — need full content
@@ -17,7 +17,7 @@ tags: kb-horeca, state, backlog, vendors, key-files
 
 | Pri | Task |
 |:---:|------|
-| 🔴 | Commit & push `en-version` branch |
+| 🔴 | Commit & push current `main` changes (docs reorg, LOG.md, wiki skills) |
 | 🔴 | DNS + custom domain `kb-horeca.site` |
 | 🟡 | Fix sidebar badges (Services/Guides/Reference show `RU` but content is EN) |
 | 🟡 | Create RU technical articles (PMS, POS, services, guides, reference) |
@@ -57,4 +57,4 @@ When researching these vendors, use WebSearch + review sites (saasmarket.ru, a2i
 
 | File | Content |
 |------|---------|
-| `docs/DECISIONS.md` | Architecture decision records (ADR) |
+| `.agents/DECISIONS.md` | Architecture decision records (ADR) |

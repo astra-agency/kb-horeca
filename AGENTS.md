@@ -6,17 +6,9 @@
 
 - **Site:** [kb-horeca.site](https://kb-horeca.site)
 - **Repo:** `git@github.com:astra-agency/kb-horeca.git`
-- **Branch:** `en-version` (active), `main` (deployed)
 - **Stack:** Astro 6.4.4 + Starlight 0.39.3
 - **Hosting:** GitHub Pages via GitHub Actions
 - **Languages:** EN (root) + RU (`/ru/`) + ZH (`/zh/`)
-
-## Commands
-
-```bash
-npm install && npm run dev      # → http://localhost:4321/
-npm run build && npm run preview
-```
 
 ## ⚠️ Critical Rules
 
@@ -26,6 +18,10 @@ npm run build && npm run preview
 4. **Sidebar slugs:** use folder name, not `index` — `{ slug: 'hotels' }`. Details: `kb-conventions` memory.
 5. **New page:** create file in locale folder → add to sidebar in `astro.config.mjs` with `translations` (`ru`, `zh`) → match `slug:` to file path. Details: `kb-conventions` memory.
 6. **Content language:** new content in RU; don't touch existing EN (guides/, reference/).
+
+## Logger
+
+TBD
 
 ## Memory 
 
@@ -88,7 +84,7 @@ Skills live in `.agents/skills/`. Load the matching `SKILL.md` when the task fit
 ## Where to Find Details
 
 ### Architecture decisions
-- `docs/DECISIONS.md`
+- `.agents/DECISIONS.md`
 
 ### Sidebar & locale config
 - `astro.config.mjs` (edit carefully)
