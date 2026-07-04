@@ -38,4 +38,5 @@ description: CRM-системы для отелей — база гостей, �
 
 - [Bitrix24](https://www.bitrix24.ru/)
 - [AmoCRM](https://www.amocrm.ru/)
+- [Wazzup24 — WhatsApp Business API для HoReCa](../services/wazzup24.md) — интеграция мессенджеров с amoCRM и Битрикс24
 - [TravelLine CRM](https://www.travelline.ru/products/crm/)

@@ -4,6 +4,23 @@ from latest to earliest.
 
 ## 2026-07-04
 
+- ingest | Hotel platforms & messenger-CRM services (TeamJet, GoodStay, GuestPulse, HotBot.ai, Wazzup24)
+  - `raw/2026/0704/` — moved 9 inbox files (TeamJet, GoodStay, GuestPulse, HotBot, Wazzup24 research + landing pages)
+  - `src/content/docs/ru/services/teamjet.md` — created: TeamJet operations platform overview
+  - `src/content/docs/ru/services/goodstay.md` — created: GoodStay QR-showcase & loyalty overview
+  - `src/content/docs/ru/services/guestpulse.md` — created: GuestPulse AI reputation management overview
+  - `src/content/docs/ru/services/hotbot.md` — created: HotBot.ai AI chatbot & services showcase overview
+  - `src/content/docs/ru/services/wazzup24.md` — created: Wazzup24 WhatsApp Business API for HoReCa overview
+  - `src/content/docs/ru/services/index.md` — added new service tables (platforms, reputation, messenger-CRM) and category links
+  - `src/content/docs/ru/hotels/reputation.md` — added GuestPulse section + comparison table
+  - `src/content/docs/ru/hotels/crm.md` — added Wazzup24 cross-link
+  - `src/content/docs/ru/index.mdx` — added "Платформы и сервисы" section with new service cards
+- refactor | Renamed `cases/` → `use-cases/` across all 3 locales (root/EN, ru, zh)
+  - `src/content/docs/cases/` → `src/content/docs/use-cases/`
+  - `src/content/docs/ru/cases/` → `src/content/docs/ru/use-cases/`
+  - `src/content/docs/zh/cases/` → `src/content/docs/zh/use-cases/`
+  - `astro.config.mjs` — sidebar: "Cases" → "Use Cases", all `cases/` slugs → `use-cases/`, added "Hotel Platforms" sidebar group
+  - All `.md`/`.mdx` files — bulk-replaced `/cases/` → `/use-cases/` link references (65 files)
 - docs | Added LOG.md rules to `AGENTS.md` Logger section (was "TBD")
   - `AGENTS.md` — defined language (English), append-only, entry format, when-to-log, exclusions
 - update | Moved `## Commands` section from `AGENTS.md` to `README.md`
