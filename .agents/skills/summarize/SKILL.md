@@ -73,7 +73,7 @@ summarize "URL" --extract --format md
 ### Пример
 
 ```bash
-summarize "https://wordpress.org/support/article/using-themes/" --extract --format md
+summarize "https://kb-horeca.site/guides/example/" --extract --format md
 ```
 
 ### Одноразовый запуск без установки

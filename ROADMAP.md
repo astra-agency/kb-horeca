@@ -2,12 +2,13 @@
 
 ## beta 260703
 
-- убрать тезисы про WordPress из .agents/skills/wiki-ingest/SKILL.md и др файлов
-- вести лог изменений в файле LOG.md - даже для AGENTS.md
+- [x] remove WordPress references from .agents/skills/wiki-ingest/SKILL.md and other files
+- [ ] keep a changelog in LOG.md — even for AGENTS.md
+- [ ] move docs/DECISIONS.md to .agents/DECISIONS.md and reference it from AGENTS.md (and translate to English)
 
 ## MVP 260615
 
-- китайский язык
-- английский язык
-- русский язык
+- Chinese
+- English
+- Russian
 

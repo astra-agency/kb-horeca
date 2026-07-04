@@ -1,11 +1,11 @@
 ---
 name: llm-wiki
-description: Use as an umbrella orchestrator for LLM Wiki work in this repository. Route tasks to wiki-init, wiki-ingest, wiki-query, wiki-lint, or wiki-update while enforcing shared wiki rules.
+description: Use as an umbrella orchestrator for HoReCa knowledge base work in this repository. Route tasks to wiki-init, wiki-ingest, wiki-query, wiki-lint, or wiki-update while enforcing shared wiki rules.
 ---
 
 # LLM Wiki Skill
 
-Top-level orchestrator for the WP Knowledge LLM Wiki workflow.
+Top-level orchestrator for the HoReCa knowledge base workflow.
 
 ## Source Basis
 
@@ -71,13 +71,14 @@ These rules apply to all wiki-* skills:
 
 3. Bookkeeping is mandatory:
 - Keep `index.md` and `LOG.md` updated on ingest, update, lint, and filed query operations.
+- **LOG.md entries are written in English** (wiki page content remains ru-RU).
 
 4. Cross-links are first-class:
 - Maintain bidirectional links where pages are semantically related.
 
 5. Content conventions:
 - Wiki content language is ru-RU.
-- **Focus is WordPress open-source** (WordPress.org / self-hosted). Sources from WordPress.com must be adapted: .com-specific features → open-source equivalents, .com-only features marked explicitly.
+- **Focus is HoReCa IT services & operations** (restaurants, cafes, hotels). General IT/SaaS sources must be adapted to HoReCa context; vendor-specific features marked explicitly.
 - Every wiki page except `index.md` and `LOG.md` includes frontmatter with `title` and `description`.
 - Do NOT duplicate frontmatter `title` with an `# H1` heading — Starlight renders the title as H1. Start content from `##`.
 - **«Материалы и источники»:** every page ends with links to original URL(s). External links automatically get `target="_blank"` at build time — write plain markdown in source: `[text](https://...)`.

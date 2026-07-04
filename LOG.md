@@ -2,72 +2,81 @@
 
 from latest to earliest.
 
+## 2026-07-04
+
+- update | Removed WordPress-specific references from wiki-* skills
+  - `.agents/skills/wiki-ingest/SKILL.md` — dropped "WordPress.com → Open-Source Adaptation" section; frontmatter and process rewritten for HoReCa
+  - `.agents/skills/wiki-init/SKILL.md` — description changed from "WP Knowledge" to "HoReCa knowledge base"
+  - `.agents/skills/llm-wiki/SKILL.md` — description and shared invariants rewritten for HoReCa
+  - `.agents/skills/summarize/SKILL.md` — example URL swapped from wordpress.org to kb-horeca.site
+  - `ROADMAP.md` — item marked complete
+
 ## 2026-06-11
 
-Цифровой ID в МАКС — заселение в отели
+Digital ID in MAKs — hotel check-in
 
-Создано:
-- `ru/regulations/digital-id-max.md` — заселение гостей через цифровой ID в мессенджере МАКС (VK): нормативная база, хронология, механика для отеля и гостя, география пилота
+Created:
+- `ru/regulations/digital-id-max.md` — guest check-in via digital ID in MAKs messenger (VK): regulatory basis, timeline, mechanics for hotel and guest, pilot geography
 
-Обновлено:
-- `ru/regulations/fms-hotels.md` — добавлена перекрёстная ссылка на цифровой ID в МАКС
-- `ru/trends/market-2026.md` — добавлено упоминание цифрового ID в разделе бесконтактных технологий и регуляторного контекста
+Updated:
+- `ru/regulations/fms-hotels.md` — added cross-reference to digital ID in MAKs
+- `ru/trends/market-2026.md` — added digital ID mention in contactless tech and regulatory context sections
 
-Источники: 10 новостных публикаций (ноябрь 2025 – июнь 2026), включая Интерфакс, Ferra, НТВ, АиФ, RUБЕЖ.
-Ключевое заявление: Рустам Хайбуллов (VK), форум «Путешествуй!», июнь 2026 — «половина средств размещения РФ уже получили возможность заселять по цифровому ID».
+Sources: 10 news publications (November 2025 – June 2026), including Interfax, Ferra, NTV, AiF, RUBEZH.
+Key statement: Rustam Khaibullov (VK), "Travel!" forum, June 2026 — "half of accommodation facilities in Russia already have the ability to check in via digital ID".
 
 
 ## 2026-06-04
 
-- init | Инициализация структуры базы знаний HoReCa
+- init | HoReCa knowledge base structure initialized
 
-### phase-1 | Раздел «Отели и гостиницы»
+### phase-1 | "Hotels" section
 
-Создано:
-- `hotels/index.md` — обзор блоков автоматизации, типичный стек
-- `hotels/website-booking.md` — платформы, модули бронирования, Blocksy Travel шаблон
-- `hotels/channel-manager.md` — как работает, сравнение TravelLine/Bnovo/Бронируй.Онлайн
-- `hotels/reputation.md` — TravelLine Reputation (27 площадок, AI), TrustYou
+Created:
+- `hotels/index.md` — automation blocks overview, typical stack
+- `hotels/website-booking.md` — platforms, booking modules, Blocksy Travel template
+- `hotels/channel-manager.md` — how it works, comparison of TravelLine/Bnovo/Broniruy.Online
+- `hotels/reputation.md` — TravelLine Reputation (27 platforms, AI), TrustYou
 - `hotels/crm.md` — Bitrix24, AmoCRM, TravelLine CRM
-- `hotels/pms/index.md` — сравнительная таблица всех PMS, выбор по размеру отеля
-- `hotels/pms/travelline.md` — все модули, тарифы LITE/STANDARD/PREMIUM/CM/Reputation, 6 200+ объектов
-- `hotels/pms/bnovo.md` — PMS + CM 40+ каналов, Bnovo Pay, 16 000+ объектов
-- `hotels/pms/kontur-hotel.md` — 35+ OTA, почасовое бронирование, экосистема Контур
-- `hotels/pms/saby-hotel.md` — полный стек Saby, SabyGPT, Presto (ресторан), от 10 000 ₽/мес
-- `hotels/pms/logus-hms.md` — on-premise, работа без интернета, корпоративные кабинеты
-- `hotels/pms/maxibooking.md` — без лимита номеров, 15 дней бесплатно
+- `hotels/pms/index.md` — comparison table of all PMS, selection by hotel size
+- `hotels/pms/travelline.md` — all modules, LITE/STANDARD/PREMIUM/CM/Reputation tariffs, 6,200+ properties
+- `hotels/pms/bnovo.md` — PMS + CM 40+ channels, Bnovo Pay, 16,000+ properties
+- `hotels/pms/kontur-hotel.md` — 35+ OTAs, hourly booking, Kontur ecosystem
+- `hotels/pms/saby-hotel.md` — full Saby stack, SabyGPT, Presto (restaurant), from 10,000 RUB/month
+- `hotels/pms/logus-hms.md` — on-premise, offline operation, corporate dashboards
+- `hotels/pms/maxibooking.md` — no room limit, 15 days free
 
-### phase-2 | Раздел «Рестораны и кафе»
+### phase-2 | "Restaurants and cafes" section
 
-Создано:
-- `restaurants/index.md` — блоки автоматизации, типичный стек, выбор POS, Blocksy шаблоны
-- `restaurants/pos/index.md` — сравнение iiko/r_keeper/Poster по 14 параметрам
+Created:
+- `restaurants/index.md` — automation blocks, typical stack, POS selection, Blocksy templates
+- `restaurants/pos/index.md` — comparison of iiko/r_keeper/Poster across 14 parameters
 - `restaurants/pos/iiko.md` — iikoRMS, iikoChain, iikoDelivery, iikoKitchen, iiko Card
-- `restaurants/pos/rkeeper.md` — Cloud от 4 085 ₽/мес, LifeTime 107 000 ₽, 70 000+ заведений
-- `restaurants/pos/poster.md` — Postie AI, Poster Boss, Kitchen Kit, 15 дней бесплатно
-- `restaurants/delivery.md` — Яндекс.Еда/Delivery Club vs собственная доставка
-- `restaurants/loyalty.md` — типы программ, iiko Card, Plazius, Mindbox, Passteam
-- `restaurants/reservation.md` — Restoplace (3 000 заведений) vs ТоМесто (12 000+)
+- `restaurants/pos/rkeeper.md` — Cloud from 4,085 RUB/month, LifeTime 107,000 RUB, 70,000+ venues
+- `restaurants/pos/poster.md` — Postie AI, Poster Boss, Kitchen Kit, 15 days free
+- `restaurants/delivery.md` — Yandex.Eda/Delivery Club vs own delivery
+- `restaurants/loyalty.md` — program types, iiko Card, Plazius, Mindbox, Passteam
+- `restaurants/reservation.md` — Restoplace (3,000 venues) vs ToMesto (12,000+)
 
-### phase-3 | Раздел «Сервисы» + enrichment
+### phase-3 | "Services" section + enrichment
 
-Обновлено:
-- `services/index.md` — полные сравнительные таблицы PMS, CM, репутации, POS, доставки, резервации; сводная матрица «кому что подходит» (7 сценариев)
-- `hotels/pms/kontur-hotel.md` — обогащён: почасовое бронирование, биометрия 2025, матрица объектов
-- `hotels/pms/saby-hotel.md` — обогащён: SabyGPT, Presto, управление персоналом, цены
-- `hotels/pms/logus-hms.md` — обогащён: клиент-серверная архитектура, корпоративные кабинеты, интеграции iiko/r_keeper
-- `hotels/website-booking.md` — добавлен Blocksy Travel шаблон, MotoPress Hotel Booking, пошаговый процесс
-- `restaurants/index.md` — добавлены Blocksy Restaurant + Catering шаблоны с плагинами
+Updated:
+- `services/index.md` — full comparison tables for PMS, CM, reputation, POS, delivery, reservation; summary matrix "what fits whom" (7 scenarios)
+- `hotels/pms/kontur-hotel.md` — enriched: hourly booking, 2025 biometrics, property matrix
+- `hotels/pms/saby-hotel.md` — enriched: SabyGPT, Presto, staff management, pricing
+- `hotels/pms/logus-hms.md` — enriched: client-server architecture, corporate dashboards, iiko/r_keeper integrations
+- `hotels/website-booking.md` — added Blocksy Travel template, MotoPress Hotel Booking, step-by-step process
+- `restaurants/index.md` — added Blocksy Restaurant + Catering templates with plugins
 
-### fix-links | Исправлены внутренние ссылки (404)
+### fix-links | Fixed internal links (404)
 
-Исправлено в 5 файлах: заменены все `.md`-расширения на абсолютные пути `/<slug>/`.
-- `index.mdx` — 3 ссылки
-- `hotels/index.md` — 5 ссылок
-- `restaurants/index.md` — 4 ссылки
-- `hotels/pms/index.md` — 6 ссылок
-- `restaurants/pos/index.md` — 3 ссылки
+Fixed in 5 files: replaced all `.md` extensions with absolute paths `/<slug>/`.
+- `index.mdx` — 3 links
+- `hotels/index.md` — 5 links
+- `restaurants/index.md` — 4 links
+- `hotels/pms/index.md` — 6 links
+- `restaurants/pos/index.md` — 3 links
 
-Добавлена документация: `docs/` папка (project-overview, DECISIONS, PROJECT_STATE, CONTEXT, NEXT_TASK, CLAUDE.md).
-Добавлено правило ADR-008 в DECISIONS.md: никогда не использовать `.md` в ссылках.
+Added documentation: `docs/` folder (project-overview, DECISIONS, PROJECT_STATE, CONTEXT, NEXT_TASK, CLAUDE.md).
+Added rule ADR-008 in DECISIONS.md: never use `.md` in links.
 

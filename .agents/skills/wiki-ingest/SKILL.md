@@ -1,20 +1,11 @@
 ---
 name: wiki-ingest
-description: Use when adding a new source (file or URL) into the WP Knowledge wiki with synthesis, cross-linking, index updates, and log bookkeeping.
+description: Use when adding a new source (file or URL) into the HoReCa knowledge base with synthesis, cross-linking, index updates, and log bookkeeping.
 ---
 
 # Wiki Ingest
 
-Compile a new source into the persistent wiki. **База знаний сфокусирована на WordPress open-source.** Источники с WordPress.com требуют адаптации.
-
-## WordPress.com → Open-Source Adaptation
-
-При ingest источников с wordpress.com/support:
-
-- **Адаптировать:** планы/цены → self-hosted стоимость; managed хостинг → самостоятельное управление; .com-фичи → opensource-аналоги
-- **Пометить .com-only:** AI Website Builder, Express Design Service, onboarding sessions — явно указать «⚠️ Только WordPress.com»
-- **Сохранять:** концепции WordPress, плагины/темы из .org, технические руководства, WooCommerce
-- **Уточнять через web_search:** если не уверен в opensource-эквиваленте
+Compile a new source into the persistent wiki. **База знаний сфокусирована на HoReCa IT-сервисах и операциях.** Источники адаптируются под контекст гостинично-ресторанного бизнеса.
 
 ## Pre-condition
 
@@ -31,7 +22,7 @@ Compile a new source into the persistent wiki. **База знаний сфок�
 ## Process
 
 1. Read the source fully.
-2. **Adapt .com → open-source** — если источник с WordPress.com, адаптируй контент (см. секцию выше). Используй web_search для уточнения opensource-эквивалентов.
+2. Adapt source to HoReCa context — если источник общий (IT, SaaS, hospitality-общий), адаптируй под специфику ресторанов/отелей/кафе. Используй web_search для уточнений.
 3. Present key takeaways to user before writing:
 - 3-5 main points.
 - What to emphasize/de-emphasize.
@@ -39,7 +30,7 @@ Compile a new source into the persistent wiki. **База знаний сфок�
 3. Create or update relevant pages in the correct category folder.
 4. Add or update cross-references in both directions.
 5. Update `src/content/docs/index.md` entries.
-6. Append `./LOG.md`:
+6. Append `./LOG.md` (in English):
    - `## [YYYY-MM-DD] ingest | <source title>`
 7. Report all touched files.
 

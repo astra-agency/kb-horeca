@@ -1,6 +1,6 @@
 ---
 name: wiki-init
-description: Use when bootstrapping or repairing the WP Knowledge wiki structure, schema rules, index, and log so all other wiki operations can run consistently.
+description: Use when bootstrapping or repairing the HoReCa knowledge base structure, schema rules, index, and log so all other wiki operations can run consistently.
 ---
 
 # Wiki Init
@@ -34,7 +34,7 @@ Expected category folders:
 1. Validate folder tree and required files.
 2. Ensure `index.md` has category-level catalog entries format:
    - `- [Page Title](relative/path.md) - One-line summary`
-3. Ensure `./LOG.md` has append-only convention:
+3. Ensure `./LOG.md` has append-only convention (entries in English):
    - `## [YYYY-MM-DD] <operation> | <title>`
 4. Ensure wiki writing conventions are explicit and enforced from `AGENTS.md`:
 - Content language: ru-RU.

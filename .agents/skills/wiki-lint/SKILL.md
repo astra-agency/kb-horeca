@@ -35,7 +35,7 @@ Priority order:
 1. Build page/link inventory.
 2. Produce severity-grouped report with concrete file paths.
 3. Suggest precise fixes for each issue.
-4. Append `./LOG.md`:
+4. Append `./LOG.md` (in English):
    - `## [YYYY-MM-DD] lint | <N issues found>`
 
 ## Quality Bar

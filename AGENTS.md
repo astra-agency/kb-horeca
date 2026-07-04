@@ -93,9 +93,3 @@ Skills live in `.agents/skills/`. Load the matching `SKILL.md` when the task fit
 ### Sidebar & locale config
 - `astro.config.mjs` (edit carefully)
 
-## Quick Start
-
-```bash
-cat AGENTS.md && cat docs/DECISIONS.md && cat astro.config.mjs
-npm install && npm run dev   # → http://localhost:4321/
-```
