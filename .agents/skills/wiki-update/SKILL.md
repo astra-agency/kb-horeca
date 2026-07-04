@@ -25,7 +25,7 @@ For each page:
 3. Confirm before applying substantial edits.
 4. Check downstream pages that reference changed content.
 5. Update one-line summaries in `index.md` if meaning changed.
-6. Append `src/content/docs/log.md`:
+6. Append `./LOG.md`:
    - `## [YYYY-MM-DD] update | <topic or pages>`
 
 ## Consistency Sweep
@@ -46,4 +46,4 @@ For each page:
 
 - Target pages updated with rationale.
 - Downstream consistency checked.
-- Index/log updated.
+- Index/LOG updated.

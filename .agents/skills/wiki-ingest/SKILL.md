@@ -19,12 +19,14 @@ Compile a new source into the persistent wiki. **База знаний сфок�
 ## Pre-condition
 
 0. **⚠️ Всегда `summarize` для URL:** `summarize "URL" --extract --format md`. Не используй `web_fetch` или `browser`.
-1. Read `src/content/docs/index.md` first.
-2. Read related existing pages before writing.
-3. Confirm source location:
+1. **Проверить `inbox/`:** если в `inbox/` есть файлы — перенести их в `raw/YYYY/MMDD/` (текущая дата), затем инжестить оттуда.
+2. Read `src/content/docs/index.md` first.
+3. Read related existing pages before writing.
+4. Confirm source location:
+   - **Inbox:** `inbox/` → переместить в `raw/YYYY/MMDD/` (первичная проверка)
    - **Local:** `raw/YYYY/MMDD/filename.{md,pdf}` — date-organized, immutable
    - **URL:** fetch with `summarize "URL" --extract --format md` (primary), fallback to `web_fetch` or `skills/jina-ai/extract.mjs`
-4. If source is a URL, extract and save it to `raw/YYYY/MMDD/` (using current date), then ingest from that local copy.
+5. If source is a URL, extract and save it to `raw/YYYY/MMDD/` (using current date), then ingest from that local copy.
 
 ## Process
 
@@ -37,7 +39,7 @@ Compile a new source into the persistent wiki. **База знаний сфок�
 3. Create or update relevant pages in the correct category folder.
 4. Add or update cross-references in both directions.
 5. Update `src/content/docs/index.md` entries.
-6. Append `src/content/docs/log.md`:
+6. Append `./LOG.md`:
    - `## [YYYY-MM-DD] ingest | <source title>`
 7. Report all touched files.
 
@@ -68,4 +70,4 @@ If none fit, propose a new category before creating it.
 - Pages created/updated.
 - Cross-links reconciled.
 - `index.md` updated.
-- `log.md` appended.
+- `LOG.md` appended.

@@ -19,7 +19,7 @@ Wiki root in this repo:
 - Sources: `raw/YYYY/MMDD/file.{md,pdf}` (immutable, date-organized)
 - Pages: `src/content/docs/`
 - Catalog: `src/content/docs/index.md`
-- Log: `src/content/docs/log.md`
+- Log: `./LOG.md`
 
 ### Raw Structure
 
@@ -70,7 +70,7 @@ These rules apply to all wiki-* skills:
 - Never modify files under `raw/`.
 
 3. Bookkeeping is mandatory:
-- Keep `index.md` and `log.md` updated on ingest, update, lint, and filed query operations.
+- Keep `index.md` and `LOG.md` updated on ingest, update, lint, and filed query operations.
 
 4. Cross-links are first-class:
 - Maintain bidirectional links where pages are semantically related.
@@ -78,7 +78,7 @@ These rules apply to all wiki-* skills:
 5. Content conventions:
 - Wiki content language is ru-RU.
 - **Focus is WordPress open-source** (WordPress.org / self-hosted). Sources from WordPress.com must be adapted: .com-specific features → open-source equivalents, .com-only features marked explicitly.
-- Every wiki page except `index.md` and `log.md` includes frontmatter with `title` and `description`.
+- Every wiki page except `index.md` and `LOG.md` includes frontmatter with `title` and `description`.
 - Do NOT duplicate frontmatter `title` with an `# H1` heading — Starlight renders the title as H1. Start content from `##`.
 - **«Материалы и источники»:** every page ends with links to original URL(s). External links automatically get `target="_blank"` at build time — write plain markdown in source: `[text](https://...)`.
 - **Ссылки всегда с `.md`:** все относительные ссылки на wiki-страницы пишутся с расширением `.md` (напр. `[text](./page.md)`, `[dir](./category/index.md)`). НИКОГДА без `.md` или с `/` в конце. Плагин `remarkStripMdLinks` сам уберёт расширения при сборке.
@@ -103,6 +103,6 @@ Activate this umbrella skill on requests like:
 A task is complete only when:
 - Appropriate specialized wiki-* skill has been used.
 - Resulting pages are created/updated as needed.
-- `src/content/docs/index.md` and `src/content/docs/log.md` are consistent.
+- `src/content/docs/index.md` and `./LOG.md` are consistent.
 - Cross-references are reconciled.
 - User receives a concrete touched-files report.

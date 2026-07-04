@@ -44,7 +44,6 @@ src/content/docs/           ← EN (root locale, no URL prefix)
 │   ├── index.mdx
 │   ├── hotels/  restaurants/  cases/  services/
 │   ├── guides/  reference/  regulations/  trends/
-│   └── log.md
 │
 └── zh/                    ← ZH locale (URL: /zh/...) — ADDED 2026-06-11
     ├── index.mdx          ← 1-2 level pages translated (ZH), deeper pages still EN
@@ -218,8 +217,8 @@ When researching these vendors, use WebSearch + review sites (saasmarket.ru, a2i
 | `src/content/docs/index.mdx` | EN homepage (CardGrid layout) |
 | `src/content/docs/ru/index.mdx` | RU homepage |
 | `src/content/docs/zh/index.mdx` | ZH homepage (EN copy) |
-| `src/content/docs/log.md` | Content change log |
-| `src/content/docs/ru/log.md` | RU content change log |
+| `LOG.md` | Единый лог изменений (корень проекта) |
+| `src/content/docs/ru/log.md` | RU locale log (удалён 2026-07-04, всё в LOG.md) |
 | `src/components/Head.astro` | Custom `<head>` component |
 | `.github/workflows/deploy.yml` | GitHub Actions deploy |
 | `src/content.config.ts` | Astro content collections config |
