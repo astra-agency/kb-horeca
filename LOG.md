@@ -4,6 +4,8 @@ from latest to earliest.
 
 ## 2026-07-04
 
+- docs | Added LOG.md rules to `AGENTS.md` Logger section (was "TBD")
+  - `AGENTS.md` — defined language (English), append-only, entry format, when-to-log, exclusions
 - update | Moved `## Commands` section from `AGENTS.md` to `README.md`
   - `AGENTS.md` — removed Commands section (build commands belong in developer-facing README)
   - `README.md` — added Commands section before "What is HoReCa KB?"

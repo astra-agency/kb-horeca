@@ -21,7 +21,22 @@
 
 ## Logger
 
-TBD
+All changes are tracked in `LOG.md` (project root). Rules:
+
+1. **Language:** entries in **English**. Wiki page content stays ru-RU; only the log is English.
+2. **Append-only, newest first:** new entries go at the top, right under `# LOG` / `from latest to earliest.`. Never rewrite or delete past entries.
+3. **Entry format:**
+   ```
+   ## [YYYY-MM-DD]
+
+   - <operation> | <short summary>
+     - <file> — <what changed>
+     - <file> — <what changed>
+   ```
+   `<operation>` is one of: `init`, `ingest`, `update`, `lint`, `query`, `fix`, `refactor`, `docs`.
+4. **When to log:** every session that touches content, config, or docs — including changes to `AGENTS.md` itself, skills, and memory files.
+5. **One file per change:** list each touched file as a sub-bullet. Group related files under a single operation line.
+6. **No log for:** pure whitespace/formatting fixes with no semantic change, or `raw/` source files (immutable).
 
 ## Memory 
 
