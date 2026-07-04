@@ -34,6 +34,12 @@ Compile a new source into the persistent wiki. **База знаний сфок�
    - `## [YYYY-MM-DD] ingest | <source title>`
 7. Report all touched files.
 
+## Deploy
+
+- after process all files and save all changes, run `yarn build` to check for errors and warnings.
+- if no errors - offer deploy to production. If errors - fix and rebuild.
+- finally - offer commit text and push to main (only after approval).
+
 ## Placement Heuristic
 
 - Core concepts -> `how-to/`
