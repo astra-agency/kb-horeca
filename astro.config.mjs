@@ -226,7 +226,7 @@ export default defineConfig({
           label: 'Services',
           translations: { ru: 'Сервисы', zh: '服务' },
           items: [
-            { label: 'Overview', translations: { ru: 'Обзор', zh: '概述' }, slug: 'services' },
+            { label: 'Services', translations: { ru: 'Сервисы', zh: '概述' }, slug: 'services' },
             {
               label: 'Hotels — IT',
               translations: { ru: 'Отели — IT', zh: '酒店 — IT' },
@@ -256,11 +256,11 @@ export default defineConfig({
               label: 'Hotel Platforms',
               translations: { ru: 'Платформы для отелей', zh: '酒店平台' },
               items: [
-                { label: 'TeamJet', translations: { ru: 'TeamJet — операции' }, slug: 'services/teamjet' },
-                { label: 'GoodStay', translations: { ru: 'GoodStay — продажи услуг' }, slug: 'services/goodstay' },
-                { label: 'GuestPulse', translations: { ru: 'GuestPulse — репутация' }, slug: 'services/guestpulse' },
-                { label: 'HotBot.ai', translations: { ru: 'HotBot.ai — чат-бот' }, slug: 'services/hotbot' },
-                { label: 'Wazzup24', translations: { ru: 'Wazzup24 — WhatsApp API' }, slug: 'services/wazzup24' },
+                { label: 'TeamJet', translations: { ru: 'TeamJet — операции' }, link: '/ru/services/teamjet/' },
+                { label: 'GoodStay', translations: { ru: 'GoodStay — продажи услуг' }, link: '/ru/services/goodstay/' },
+                { label: 'GuestPulse', translations: { ru: 'GuestPulse — репутация' }, link: '/ru/services/guestpulse/' },
+                { label: 'HotBot.ai', translations: { ru: 'HotBot.ai — чат-бот' }, link: '/ru/services/hotbot/' },
+                { label: 'Wazzup24', translations: { ru: 'Wazzup24 — WhatsApp API' }, link: '/ru/services/wazzup24/' },
               ],
             },
             {
